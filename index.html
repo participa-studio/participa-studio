@@ -21,6 +21,31 @@
   <link rel="stylesheet" href="/site.css">
 </head>
 <body class="holding">
+  <!-- Header: look and behaviour come from participa-core; content is set here -->
+  <header class="site-header">
+    <a class="site-header__home" href="/" aria-label="Participa Studio, home">
+      <img src="https://participa-studio.github.io/participa-core/images/logo-studio.png" alt="">
+    </a>
+
+    <nav class="site-header__nav" id="site-nav" aria-label="Main">
+      <ul>
+      <li><a href="/projects/">Projects</a></li>
+      <li><a href="/about/">About</a></li>
+      </ul>
+    </nav>
+
+    <a class="site-header__sister" href="https://participa.design/" aria-label="Go to Participa Design">
+      <img src="https://participa-studio.github.io/participa-core/images/logo-design.png" alt="">
+      <span>Design</span>
+    </a>
+
+    <button class="site-header__toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Menu">
+      <span></span>
+    </button>
+  </header>
+
   <h1 class="soon" aria-label="Soon"><span>SO</span><span>ON</span></h1>
+
+  <script src="https://participa-studio.github.io/participa-core/js/header.js" defer></script>
 </body>
 </html>
