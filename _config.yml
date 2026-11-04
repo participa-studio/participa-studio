@@ -43,11 +43,11 @@ participa:
     - title: Projects
       url: /lab/projects/
       layouts: [case]
-    - title: About
-      url: /lab/about/
     - title: Blog
       url: /lab/blog/
       layouts: [post]
+    - title: About
+      url: /lab/about/
 
   kvk: "42023602"
   instagram: https://www.instagram.com/participa.studio/

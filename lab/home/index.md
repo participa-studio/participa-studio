@@ -7,10 +7,10 @@ intro: Participa Studio is my practice for participatory and social design, run 
 actions:
 - title: Projects
   url: /lab/projects/
-- title: About
-  url: /lab/about/
 - title: Blog
   url: /lab/blog/
+- title: About
+  url: /lab/about/
 work_heading: From the projects
 work_link:
   title: All projects
