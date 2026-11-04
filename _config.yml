@@ -1,0 +1,55 @@
+# ─────────────────────────────────────────────────────────────
+# PARTICIPA . STUDIO — SITE SETTINGS
+# The shared look (header, footer, layouts) comes from participa-core.
+# This file only says what is different about this site.
+# ─────────────────────────────────────────────────────────────
+
+remote_theme: participa-studio/participa-core
+plugins:
+  - jekyll-remote-theme
+
+# Files that are for us, not for visitors
+exclude:
+  - README.md
+
+# Blog posts (files in _posts/) live under the lab for now, hidden from search engines
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      noindex: true
+      permalink: /lab/blog/:title/
+
+participa:
+  core: https://participa-studio.github.io/participa-core
+  version: 20261104-22          # raise this after every core change
+
+  title: P A R T I C I P A º S T U D I O
+  og_title: Participa Studio
+  description: "Participa Studio: participatory and social design by Bernardo van de Schepop."
+
+  own: studio                  # which logo is ours
+  name: Studio                 # label next to our logo
+  name_full: Participa Studio
+
+  sister:
+    own: design
+    name: Design
+    name_full: Participa Design
+    url: https://participa.design/
+
+  nav:
+    - title: Projects
+      url: /lab/projects/
+      layouts: [case]
+    - title: About
+      url: /lab/about/
+    - title: Blog
+      url: /lab/blog/
+      layouts: [post]
+
+  kvk: "42023602"
+  instagram: https://www.instagram.com/participa.studio/
+  linkedin: https://www.linkedin.com/company/participa-studio/about/
+  email: bernardo@schepop.org
