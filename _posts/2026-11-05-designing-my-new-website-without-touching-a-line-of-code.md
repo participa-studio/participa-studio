@@ -9,6 +9,6 @@ tags:
 published: true
 ---
 <p>My role did not disappear. It changed. I set the direction, reacted to renders, and made every call. Claude built, tested and published.</p>
-<p>Two moments stayed with me. The first: I wanted something playful on the Studio site, and we ended up with small drawn ants that come out of the logo. The second: after rejecting several yellows, I photographed a book on my desk and we took the colour from it.</p>
+<p>The work became a dialogue. Two moments show it. The first: I wanted something playful on the Studio site, and we ended up with small drawn ants that come out of the logo. The second: after rejecting several yellows, I photographed a book on my desk and we took the colour from it. Neither came from a brief. Both came from the back-and-forth.</p>
 <p>It was not effortless. The colours went back and forth many times, and every step still needed a designer's eye.</p>
-<p>What I am left with is a question: if making becomes this fluid, where does design judgement sit now?</p>
+<p>So my answer, for now: when making becomes this fluid, the experience designer's role sits in judgement. Knowing what is worth building, and recognising when it is right.</p>
