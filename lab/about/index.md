@@ -27,7 +27,5 @@ sides:
 facts:
 - label: Based in
   value: Haarlem, the Netherlands
-- label: Company
-  value: Participa Design Studio
-contact: For a project or a conversation, connect through [Participa Studio on LinkedIn](https://www.linkedin.com/company/participa-studio/about/).
+contact: For projects and collaboration, connect through [Participa Design Studio on LinkedIn](https://www.linkedin.com/company/participa-design-studio/).
 ---
