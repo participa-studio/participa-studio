@@ -8,7 +8,7 @@ throughline: 'One idea runs through my work: designing with people, not for them
 sides:
 - own: studio
   name: Participa . Studio
-  tag: Social design
+  tag: Social enterprise work
   url: /lab/home/
   text: A practice for participatory and social design, run alongside corporate roles since 2023. It develops methods such as SEED, with its Interloop visual framework, so that communities can co-create social and environmental change.
   links:
@@ -18,7 +18,7 @@ sides:
     url: /lab/blog/
 - own: design
   name: Participa . Design
-  tag: Corporate design
+  tag: Commercial work
   url: https://participa.design/
   text: Service design, design strategy and design leadership for organisations, across more than 25 years.
   links:
@@ -29,5 +29,5 @@ facts:
   value: Haarlem, the Netherlands
 - label: Company
   value: Participa Design Studio
-contact: For a project or a conversation, write to [bernardo@schepop.org](mailto:bernardo@schepop.org) or follow [Participa Studio on LinkedIn](https://www.linkedin.com/company/participa-studio/about/).
+contact: For a project or a conversation, connect through [Participa Studio on LinkedIn](https://www.linkedin.com/company/participa-studio/about/).
 ---
