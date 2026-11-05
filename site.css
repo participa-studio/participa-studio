@@ -5,4 +5,4 @@
    To override a shared token for this site only, set it here, e.g.
    :root { --colour-accent: #FFE300; }
    ========================================================== */
- :root { --colour-accent: #EED202; }   /* safety yellow, 5 Nov 2026 (before: #FFC800, #FFE300) */
+ :root { --colour-accent: #F2D23F; }   /* yellow from the book cover, light-corrected, 5 Nov 2026 (before: #EED202, #FFC800, #FFE300) */
