@@ -1,7 +1,7 @@
 ---
 title: "Dialogue: fast track from idea to embodiment"
 date: 2026-11-05
-lead: 'Our role as designers has shifted. In three days, with no code, I rebuilt my two websites from scratch, by voice, while exploring references. It went fast and it looks great! Yet, the need for a creative hand to lead persisted throughout.'
+lead: 'Our role as designers has shifted. In three days, with no code, I rebuilt my two websites from scratch, by voice, while exploring references. It went fast and it looks great! What did not change: the need for a creative hand to lead.'
 tags:
 - Participa
 - Design reflections
