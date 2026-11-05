@@ -8,7 +8,7 @@ tags:
 - Designing with AI
 published: true
 ---
-<p>My role did not disappear. It changed. I set the direction, reacted to renders, and made every call. Claude built, tested and published.</p>
-<p>The work became a dialogue. Two moments show it. The first: I wanted something playful on the Studio site, and we ended up with small drawn ants that come out of the logo. The second: after rejecting several yellows, I photographed a book on my desk and we took the colour from it. Neither came from a brief. Both came from the back-and-forth.</p>
+<p>My role as a designer did not disappear. It changed. I set the direction and tone verbally, and reacted to renders as we developed, making every call. Claude built, tested and published.</p>
+<p>The work became a dialogue. Two moments show it. The first: after rejecting several yellows, I ended up photographing a book on my desk, and we took the colour from it. The second: I wanted something that recalled movement in nature, an animation that would make the .studio space more playful. We started with a first iteration of moving dots and ended up with small drawn ants that come out of the logo. Neither came from a brief. Both came from the back-and-forth.</p>
 <p>It was not effortless. The colours went back and forth many times, and every step still needed a designer's eye.</p>
 <p>So my answer, for now: when making becomes this fluid, the experience designer's role sits in judgement. Knowing what is worth building, and recognising when it is right.</p>
