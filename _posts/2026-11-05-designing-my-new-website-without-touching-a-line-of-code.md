@@ -1,14 +1,14 @@
 ---
 title: "Dialogue: fast track from idea to embodiment"
 date: 2026-11-05
-lead: 'Over three days, I built my two sister sites, participa.design and participa.studio, in a closed loop with Claude, mostly by voice. I did not write a single line of code. I am enthusiastic about the result, but it raises the unavoidable question: what is the new role of an experience designer?'
+lead: 'Over three days, I built two sister sites, participa.design and participa.studio, in a closed feedback loop with Claude. I did not write a line of code, and I barely touched a keyboard; most of it was spoken aloud. The pace was energising, but it surfaced an unavoidable question: when execution becomes conversational, what is the role of an experience designer?'
 tags:
 - Participa
 - Design reflections
 - Designing with AI
 published: true
 ---
-<p>My role as a designer did not disappear. It changed. I set the direction and tone verbally, and reacted to renders as we developed, making every call. Claude built, tested and published.</p>
-<p>The work became a dialogue. Two moments show it. The first: after rejecting several yellows, I ended up photographing a book on my desk, and we took the colour from it. The second: I wanted something that recalled movement in nature, an animation that would make the .studio space more playful. We started with a first iteration of moving dots and ended up with small drawn ants that come out of the logo. Neither came from a brief. Both came from the back-and-forth.</p>
-<p>It was not effortless. The colours went back and forth many times, and every step still needed a designer's eye.</p>
-<p>So my answer, for now: when making becomes this fluid, the experience designer's role sits in judgement. Knowing what is worth building, and recognising when it is right.</p>
+<p>The role did not disappear. It shifted from fabrication to direction. I spoke intent, reacted to live renders and calibrated every detail. Claude handled construction, testing and deployment.</p>
+<p>The work became a dialogue in which the best solutions were discovered rather than planned. After rejecting several flat yellows, I photographed a book on my desk and sampled its cover. A loose request for natural, playful movement began as drifting dots and, through rounds of critique, became small drawn ants trailing out of the logo. Neither was in the brief; both emerged from the back-and-forth.</p>
+<p>It was not effortless. Faster iteration means more decisions, and every one still needed a designer's eye.</p>
+<p>When making becomes this fluid, the designer's craft is judgement: knowing what is worth asking for, and recognising the right answer when it appears.</p>
