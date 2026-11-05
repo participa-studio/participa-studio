@@ -4,8 +4,8 @@ noindex: true
 title: Social Enterprise Canvas — A business model for social enterprises
 short_title: Social Enterprise Canvas
 org: Participa Studio
-years: Miro template
-order: 20
+years: '2024'
+order: 30
 featured: true
 lead: 'A canvas for building a solid business model around a social enterprise: one that makes room for the people it serves, even when they do not pay, and for the impact it creates.'
 facts:

@@ -5,7 +5,7 @@ title: Red Seal — A crest, a myth and an identity for a steel boat
 short_title: Red Seal
 org: Personal project
 years: '2026'
-order: 40
+order: 20
 featured: true
 lead: Designing the crest of my sailboat as a picture of a north–south tension, and building a myth, an audiobook and a set of everyday artefacts around it.
 facts:
