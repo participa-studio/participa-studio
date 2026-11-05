@@ -1,0 +1,49 @@
+# ─────────────────────────────────────────────────────────────
+# PAGES CMS — the writing screen for the Participa Studio blog
+# Sign in at https://app.pagescms.org with GitHub and choose this repository.
+# Each post is saved as a file in _posts/; GitHub publishes it in a minute or two.
+# Note: this repository is public. Unpublished posts are hidden on the site,
+# but their text can be read in the repository.
+# ─────────────────────────────────────────────────────────────
+media:
+  input: images/blog
+  output: /images/blog
+content:
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: _posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [title, date, published]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: lead
+        label: Opening line (shown in the blog list)
+        type: text
+      - name: tags
+        label: Tags (use a project name, e.g. ReFloat, to list the post on that project's page)
+        type: string
+        list: true
+      - name: image
+        label: Image
+        type: image
+      - name: published
+        label: Publish on the site
+        type: boolean
+        default: false
+      - name: body
+        label: Text
+        type: rich-text
