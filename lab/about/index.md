@@ -12,9 +12,9 @@ sides:
   url: /lab/home/
   text: A practice for participatory and social design, run alongside corporate roles since 2023. It develops methods such as SEED, with its Interloop visual framework, so that communities can co-create social and environmental change.
   links:
-  - title: Projects
+  - title: Experiments
     url: /lab/projects/
-  - title: Blog
+  - title: Writing
     url: /lab/blog/
 - own: design
   name: Participa . Design

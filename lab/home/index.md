@@ -5,14 +5,14 @@ title: Home
 statement: Participatory and social design
 intro: Participa Studio is my practice for participatory and social design, run alongside corporate roles since 2023.
 actions:
-- title: Projects
+- title: Experiments
   url: /lab/projects/
-- title: Blog
+- title: Writing
   url: /lab/blog/
 - title: About
   url: /lab/about/
-work_heading: From the projects
+work_heading: From the experiments
 work_link:
-  title: All projects
+  title: All experiments
   url: /lab/projects/
 ---

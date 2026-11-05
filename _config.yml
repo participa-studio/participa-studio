@@ -23,7 +23,7 @@ defaults:
 
 participa:
   core: https://participa-studio.github.io/participa-core
-  version: 20261105-9          # raise this after every core change
+  version: 20261105-10          # raise this after every core change
 
   title: P A R T I C I P A º S T U D I O
   og_title: Participa Studio
@@ -40,10 +40,10 @@ participa:
     url: https://participa.design/lab/home/       # lab: sister logo opens the other lab home (back to https://participa.design/ at launch)
 
   nav:
-    - title: Projects
+    - title: Experiments
       url: /lab/projects/
       layouts: [case]
-    - title: Blog
+    - title: Writing
       url: /lab/blog/
       layouts: [post]
     - title: About

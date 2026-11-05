@@ -1,8 +1,8 @@
 ---
 layout: work
 noindex: true
-title: Projects
-heading: Projects
+title: Experiments
+heading: Experiments
 intro: '[To be written in the Studio project]'
-empty: Projects to follow.
+empty: Experiments to follow.
 ---
