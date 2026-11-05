@@ -6,4 +6,4 @@
    :root { --colour-accent: #FFE300; }
    ========================================================== */
  :root { --colour-accent: #F2D23F; }   /* yellow from the book cover, light-corrected, 5 Nov 2026 (before: #EED202, #FFC800, #FFE300) */
- :root { --colour-here: #BD483D; --colour-hover-fill: #B8623A; }   /* Studio highlight: red from the book cover for menu text (3.4:1); rust for the button hover fill (black on it 4.8:1), 5 Nov 2026 */
+ :root { --colour-here: #BD483D; }   /* Studio menu highlight: red from the book cover (3.4:1); the button hover fill comes from the core (rust #B97050), 5 Nov 2026 */
