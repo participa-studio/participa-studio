@@ -1,5 +1,5 @@
 ---
-title: Designing my new website without touching a line of code
+title: "Dialogue: fast track from idea to embodiment"
 date: 2026-11-05
 lead: Over three days, I built two sites, participa.design and participa.studio, in a closed loop with Claude, mostly by voice. I did not write a single line of code.
 tags:
