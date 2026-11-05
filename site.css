@@ -6,3 +6,4 @@
    :root { --colour-accent: #FFE300; }
    ========================================================== */
  :root { --colour-accent: #F2D23F; }   /* yellow from the book cover, light-corrected, 5 Nov 2026 (before: #EED202, #FFC800, #FFE300) */
+ :root { --colour-here: #BD483D; --colour-hover-fill: #BD483D; }   /* Studio highlight: red from the book cover (menu text 3.4:1, black on red 4.2:1), 5 Nov 2026 */
