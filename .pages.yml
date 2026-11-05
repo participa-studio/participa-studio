@@ -1,49 +1,532 @@
 # ─────────────────────────────────────────────────────────────
-# PAGES CMS — the writing screen for the Participa Studio blog
+# PAGES CMS — the editing screen for participa.studio
 # Sign in at https://app.pagescms.org with GitHub and choose this repository.
-# Each post is saved as a file in _posts/; GitHub publishes it in a minute or two.
-# Note: this repository is public. Unpublished posts are hidden on the site,
-# but their text can be read in the repository.
+# Pages and experiments are forms; Writing holds the blog posts (saved in _posts/).
+# Save, and GitHub publishes the change in a minute or two.
+# merge: true keeps any field the forms do not show (layout, noindex…).
+# Unpublished posts are hidden on the site, but their text can be read in the
+# repository, which is public. The paths point at the lab pages; at launch they move.
 # ─────────────────────────────────────────────────────────────
 media:
+- name: blog
+  label: Blog images
   input: images/blog
   output: /images/blog
+  categories:
+  - image
+- name: images
+  label: Images
+  input: images
+  output: /images
+  categories:
+  - image
+- name: files
+  label: Downloads
+  input: files
+  output: /files
+  categories:
+  - document
+settings:
+  content:
+    merge: true
 content:
-  - name: posts
-    label: Writing
-    type: collection
-    path: _posts
-    filename: "{year}-{month}-{day}-{primary}.md"
-    view:
-      fields: [title, date, published]
-      primary: title
-      sort: [date, title]
-      default:
-        sort: date
-        order: desc
+- name: pages
+  label: Pages
+  type: group
+  items:
+  - name: home
+    label: Home
+    type: file
+    path: lab/home/index.md
     fields:
+    - name: title
+      label: Browser tab title
+      type: string
+    - name: statement
+      label: Main title
+      type: text
+    - name: intro
+      label: Intro
+      type: text
+    - name: actions
+      label: Buttons
+      type: object
+      fields: &id001
       - name: title
-        label: Title
+        label: Text
         type: string
-        required: true
-      - name: date
-        label: Date
-        type: date
-        required: true
-      - name: lead
-        label: Opening line (shown in the Writing list)
+      - name: url
+        label: Link (e.g. /lab/cv/ or https://…)
+        type: string
+      list: true
+    - name: work_heading
+      label: Heading above the case
+      type: string
+    - name: work_link
+      label: Link under the case
+      type: object
+      fields: *id001
+  - name: about
+    label: About
+    type: file
+    path: lab/about/index.md
+    fields:
+    - name: title
+      label: Browser tab title
+      type: string
+    - name: heading
+      label: Main title
+      type: string
+    - name: intro
+      label: Intro
+      type: text
+    - name: throughline
+      label: Second paragraph
+      type: text
+    - name: direction
+      label: Line above the two panels
+      type: text
+    - name: sides
+      label: The two panels
+      type: object
+      fields:
+      - name: own
+        label: Which side
+        type: select
+        options:
+          values:
+          - design
+          - studio
+      - name: name
+        label: Name
+        type: string
+      - name: tag
+        label: Small label
+        type: string
+      - name: url
+        label: Link
+        type: string
+      - name: text
+        label: Text
         type: text
-      - name: tags
-        label: Tags (use a project name, e.g. ReFloat, to list the post on that project's page)
-        type: string
+      - name: links
+        label: Links
+        type: object
+        fields: *id001
         list: true
-      - name: image
+      list: true
+    - name: facts
+      label: Facts (label + value)
+      type: object
+      fields:
+      - name: label
+        label: Label
+        type: string
+      - name: value
+        label: Value
+        type: string
+      list: true
+    - name: contact
+      label: Contact line (links as [text](https://…))
+      type: text
+  - name: experiments_page
+    label: Experiments page
+    type: file
+    path: lab/projects/index.md
+    fields:
+    - name: title
+      label: Browser tab title
+      type: string
+    - name: heading
+      label: Main title
+      type: string
+    - name: intro
+      label: Intro
+      type: text
+    - name: empty
+      label: Text when the list is empty
+      type: string
+  - name: writing_page
+    label: Writing page
+    type: file
+    path: lab/blog/index.md
+    fields:
+    - name: title
+      label: Browser tab title
+      type: string
+    - name: heading
+      label: Main title
+      type: string
+    - name: intro
+      label: Intro
+      type: text
+    - name: empty
+      label: Text when the list is empty
+      type: string
+- name: experiments
+  label: Experiments
+  type: group
+  items:
+  - name: refloat
+    label: ReFloat
+    type: file
+    path: lab/refloat/index.md
+    fields:
+    - name: title
+      label: Page title
+      type: string
+      required: true
+    - name: short_title
+      label: Card title (Cases page and home; empty = page title)
+      type: string
+    - name: org
+      label: Organisation
+      type: string
+    - name: years
+      label: Years
+      type: string
+    - name: featured
+      label: Can be the case on the home page
+      type: boolean
+    - name: order
+      label: Position on the list (lower numbers first)
+      type: number
+    - name: cover
+      label: Card image
+      type: image
+      options:
+        media: images
+    - name: cover_alt
+      label: Card image description (for screen readers)
+      type: string
+    - name: lead
+      label: Opening line
+      type: text
+    - name: facts
+      label: Facts (label + value)
+      type: object
+      fields:
+      - name: label
+        label: Label
+        type: string
+      - name: value
+        label: Value
+        type: string
+      list: true
+    - name: photos
+      label: Photos
+      type: object
+      fields:
+      - name: src
         label: Image
         type: image
-      - name: published
-        label: Publish on the site
-        type: boolean
-        default: false
-      - name: body
-        label: Text
-        type: rich-text
+        options:
+          media: images
+      - name: caption
+        label: Caption
+        type: string
+      list: true
+    - name: challenge
+      label: Challenge
+      type: text
+    - name: approach
+      label: Approach
+      type: text
+    - name: outcome
+      label: Outcome
+      type: text
+    - name: quote
+      label: Quote (one)
+      type: object
+      fields: &id002
+      - name: text
+        label: Quote
+        type: text
+      - name: name
+        label: Name
+        type: string
+      - name: role
+        label: Role
+        type: string
+      - name: place
+        label: Place
+        type: string
+    - name: quotes
+      label: Quotes (two or more; they rotate — use instead of Quote)
+      type: object
+      fields: *id002
+      list: true
+    - name: artefacts
+      label: Downloads
+      type: object
+      fields:
+      - name: label
+        label: Name
+        type: string
+      - name: file
+        label: File (leave empty while in preparation)
+        type: file
+        options:
+          media: files
+      - name: format
+        label: Format (e.g. PDF)
+        type: string
+      - name: status
+        label: Status (e.g. In preparation)
+        type: string
+      list: true
+    - name: tag
+      label: Tag (posts with this tag are listed on this page)
+      type: string
+    - name: note
+      label: Note (links as [text](https://…))
+      type: text
+  - name: social-enterprise-canvas
+    label: Social Enterprise Canvas
+    type: file
+    path: lab/social-enterprise-canvas/index.md
+    fields:
+    - name: title
+      label: Page title
+      type: string
+      required: true
+    - name: short_title
+      label: Card title (Cases page and home; empty = page title)
+      type: string
+    - name: org
+      label: Organisation
+      type: string
+    - name: years
+      label: Years
+      type: string
+    - name: featured
+      label: Can be the case on the home page
+      type: boolean
+    - name: order
+      label: Position on the list (lower numbers first)
+      type: number
+    - name: cover
+      label: Card image
+      type: image
+      options:
+        media: images
+    - name: cover_alt
+      label: Card image description (for screen readers)
+      type: string
+    - name: lead
+      label: Opening line
+      type: text
+    - name: facts
+      label: Facts (label + value)
+      type: object
+      fields:
+      - name: label
+        label: Label
+        type: string
+      - name: value
+        label: Value
+        type: string
+      list: true
+    - name: photos
+      label: Photos
+      type: object
+      fields:
+      - name: src
+        label: Image
+        type: image
+        options:
+          media: images
+      - name: caption
+        label: Caption
+        type: string
+      list: true
+    - name: challenge
+      label: Challenge
+      type: text
+    - name: approach
+      label: Approach
+      type: text
+    - name: outcome
+      label: Outcome
+      type: text
+    - name: quote
+      label: Quote (one)
+      type: object
+      fields: *id002
+    - name: quotes
+      label: Quotes (two or more; they rotate — use instead of Quote)
+      type: object
+      fields: *id002
+      list: true
+    - name: artefacts
+      label: Downloads
+      type: object
+      fields:
+      - name: label
+        label: Name
+        type: string
+      - name: file
+        label: File (leave empty while in preparation)
+        type: file
+        options:
+          media: files
+      - name: format
+        label: Format (e.g. PDF)
+        type: string
+      - name: status
+        label: Status (e.g. In preparation)
+        type: string
+      list: true
+    - name: tag
+      label: Tag (posts with this tag are listed on this page)
+      type: string
+    - name: note
+      label: Note (links as [text](https://…))
+      type: text
+  - name: ingosa
+    label: INGOSA
+    type: file
+    path: lab/ingosa/index.md
+    fields:
+    - name: title
+      label: Page title
+      type: string
+      required: true
+    - name: short_title
+      label: Card title (Cases page and home; empty = page title)
+      type: string
+    - name: org
+      label: Organisation
+      type: string
+    - name: years
+      label: Years
+      type: string
+    - name: featured
+      label: Can be the case on the home page
+      type: boolean
+    - name: order
+      label: Position on the list (lower numbers first)
+      type: number
+    - name: cover
+      label: Card image
+      type: image
+      options:
+        media: images
+    - name: cover_alt
+      label: Card image description (for screen readers)
+      type: string
+    - name: lead
+      label: Opening line
+      type: text
+    - name: facts
+      label: Facts (label + value)
+      type: object
+      fields:
+      - name: label
+        label: Label
+        type: string
+      - name: value
+        label: Value
+        type: string
+      list: true
+    - name: photos
+      label: Photos
+      type: object
+      fields:
+      - name: src
+        label: Image
+        type: image
+        options:
+          media: images
+      - name: caption
+        label: Caption
+        type: string
+      list: true
+    - name: challenge
+      label: Challenge
+      type: text
+    - name: approach
+      label: Approach
+      type: text
+    - name: outcome
+      label: Outcome
+      type: text
+    - name: quote
+      label: Quote (one)
+      type: object
+      fields: *id002
+    - name: quotes
+      label: Quotes (two or more; they rotate — use instead of Quote)
+      type: object
+      fields: *id002
+      list: true
+    - name: artefacts
+      label: Downloads
+      type: object
+      fields:
+      - name: label
+        label: Name
+        type: string
+      - name: file
+        label: File (leave empty while in preparation)
+        type: file
+        options:
+          media: files
+      - name: format
+        label: Format (e.g. PDF)
+        type: string
+      - name: status
+        label: Status (e.g. In preparation)
+        type: string
+      list: true
+    - name: tag
+      label: Tag (posts with this tag are listed on this page)
+      type: string
+    - name: note
+      label: Note (links as [text](https://…))
+      type: text
+- name: posts
+  label: Writing
+  type: collection
+  path: _posts
+  filename: '{year}-{month}-{day}-{primary}.md'
+  view:
+    fields:
+    - title
+    - date
+    - published
+    primary: title
+    sort:
+    - date
+    - title
+    default:
+      sort: date
+      order: desc
+  fields:
+  - name: title
+    label: Title
+    type: string
+    required: true
+  - name: date
+    label: Date
+    type: date
+    required: true
+  - name: lead
+    label: Opening line (shown in the Writing list)
+    type: text
+  - name: tags
+    label: Tags (use a project name, e.g. ReFloat, to list the post on that project's page)
+    type: string
+    list: true
+  - name: image
+    label: Image
+    type: image
+    options:
+      media: blog
+  - name: published
+    label: Publish on the site
+    type: boolean
+    default: false
+  - name: body
+    label: Text
+    type: rich-text
