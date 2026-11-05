@@ -27,5 +27,5 @@ sides:
 facts:
 - label: Based in
   value: Haarlem, the Netherlands
-contact: For projects and collaboration, connect through [Participa Design Studio on LinkedIn](https://www.linkedin.com/company/participa-design-studio/).
+contact: For project inquiries and collaboration, connect through [Participa Design Studio on LinkedIn](https://www.linkedin.com/company/participa-design-studio/) or send me an [email](mailto:bernardo@schepop.org).
 ---
