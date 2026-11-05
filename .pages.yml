@@ -80,14 +80,22 @@ content:
     - name: intro
       label: Intro
       type: text
-    - name: throughline
-      label: Second paragraph
+    - name: practice
+      label: What this site offers
       type: text
+    - name: practice_links
+      label: Links under that text
+      type: object
+      fields: *id001
+      list: true
     - name: direction
-      label: Line above the two panels
+      label: Direction line
+      type: text
+    - name: throughline
+      label: Line leading into the sister panel
       type: text
     - name: sides
-      label: The two panels
+      label: Sister panel
       type: object
       fields:
       - name: own
