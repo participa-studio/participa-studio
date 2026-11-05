@@ -27,5 +27,6 @@ sides:
 facts:
 - label: Based in
   value: Haarlem, the Netherlands
-contact: 'Want to collaborate? Connect on [LinkedIn](https://www.linkedin.com/company/participa-design-studio/) or send me an [email](mailto:bernardo@schepop.org).'
+- label: Contact
+  value: Connect on [LinkedIn](https://www.linkedin.com/company/participa-design-studio/) or send me an [email](mailto:bernardo@schepop.org).
 ---
