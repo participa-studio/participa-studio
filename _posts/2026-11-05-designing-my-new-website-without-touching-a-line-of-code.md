@@ -6,7 +6,7 @@ tags:
 - Participa
 - Design reflections
 - Designing with AI
-published: false
+published: true
 ---
 <p>My role did not disappear. It changed. I set the direction, reacted to renders, and made every call. Claude built, tested and published.</p>
 <p>Two moments stayed with me. The first: I wanted something playful on the Studio site, and we ended up with small drawn ants that come out of the logo. The second: after rejecting several yellows, I photographed a book on my desk and we took the colour from it.</p>
