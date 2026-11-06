@@ -23,7 +23,7 @@ defaults:
 
 participa:
   core: https://participa-studio.github.io/participa-core
-  version: 20261105-41          # raise this after every core change
+  version: 20261105-42          # raise this after every core change
 
   title: P A R T I C I P A º S T U D I O
   og_title: Participa Studio
