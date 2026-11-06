@@ -735,6 +735,9 @@ content:
     type: image
     options:
       media: blog
+  - name: image_alt
+    label: Image description (for screen readers)
+    type: string
   - name: published
     label: Publish on the site
     type: boolean
