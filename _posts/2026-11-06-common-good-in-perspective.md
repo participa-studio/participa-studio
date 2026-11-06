@@ -7,6 +7,8 @@ tags:
 - Social enterprise
 - Design tools
 published: true
+image: /images/blog/2026-11-06-social-enterprise-canvas.jpg
+image_alt: 'The Social Enterprise Canvas template: key partnerships, key activities, key people and resources, value proposition with social and regenerative value, relationships, channels, beneficiaries and customers, externalities, cost structure, key metrics and financial sustainability'
 ---
 <p>Social entrepreneurs have to answer to the parties that fund them, in a language those funders know: the language of business. A social enterprise also connects with far more than a market, including sister NGOs, providers and the communities it serves. I wanted one tool that speaks that business language and keeps all of those connections in view.</p>
 <p>The standard business model canvas is built around a transaction: someone buys, someone sells. So I built on two existing adaptations: the Social Business Model Canvas from the Lang Center at Swarthmore, and the SE Canvas, from which I took Externalities. The main changes: beneficiaries and customers as separate segments; a value proposition split into social and regenerative value; externalities, positive, negative and PESTEL; and surplus and funding next to financial sustainability.</p>
