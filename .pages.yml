@@ -595,6 +595,108 @@ content:
     - name: note
       label: Note (links as [text](https://…))
       type: text
+  - name: seed
+    label: SEED
+    type: file
+    path: lab/seed/index.md
+    fields:
+    - name: title
+      label: Page title
+      type: string
+      required: true
+    - name: short_title
+      label: Card title (Cases page and home; empty = page title)
+      type: string
+    - name: org
+      label: Organisation
+      type: string
+    - name: years
+      label: Years
+      type: string
+    - name: featured
+      label: Can be the case on the home page
+      type: boolean
+    - name: order
+      label: Position on the list (lower numbers first)
+      type: number
+    - name: cover
+      label: Card image
+      type: image
+      options:
+        media: images
+    - name: cover_alt
+      label: Card image description (for screen readers)
+      type: string
+    - name: lead
+      label: Opening line
+      type: text
+    - name: facts
+      label: Facts (label + value)
+      type: object
+      fields:
+      - name: label
+        label: Label
+        type: string
+      - name: value
+        label: Value
+        type: string
+      list: true
+    - name: photos
+      label: Photos
+      type: object
+      fields:
+      - name: src
+        label: Image
+        type: image
+        options:
+          media: images
+      - name: caption
+        label: Caption
+        type: string
+      list: true
+    - name: challenge
+      label: Challenge
+      type: text
+    - name: approach
+      label: Approach
+      type: text
+    - name: outcome
+      label: Outcome
+      type: text
+    - name: quote
+      label: Quote (one)
+      type: object
+      fields: *id002
+    - name: quotes
+      label: Quotes (two or more; they rotate — use instead of Quote)
+      type: object
+      fields: *id002
+      list: true
+    - name: artefacts
+      label: Downloads
+      type: object
+      fields:
+      - name: label
+        label: Name
+        type: string
+      - name: file
+        label: File (leave empty while in preparation)
+        type: file
+        options:
+          media: files
+      - name: format
+        label: Format (e.g. PDF)
+        type: string
+      - name: status
+        label: Status (e.g. In preparation)
+        type: string
+      list: true
+    - name: tag
+      label: Tag (posts with this tag are listed on this page)
+      type: string
+    - name: note
+      label: Note (links as [text](https://…))
+      type: text
   - name: freediving-seychelles
     label: Freediving Seychelles
     type: file
