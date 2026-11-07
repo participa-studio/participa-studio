@@ -45,7 +45,7 @@ participa:
     - { call: Tente, text: "Adiar o fim do mundo." }
     - { call: Note, text: "A garden without bugs is not part of an ecosystem." }
     - { call: Note, text: "We are not in nature. We are nature." }
-    - { call: Note, text: "No ant builds the nest alone." }
+    - { call: Note, text: "Nobody here works alone." }
     - { call: Note, text: "Every second breath comes from the ocean." }
     - { call: Ask, text: "When we can build anything, what should we build?" }
   sister:
