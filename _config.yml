@@ -23,7 +23,7 @@ defaults:
 
 participa:
   core: https://participa-studio.github.io/participa-core
-  version: 20261107-18          # raise this after every core change
+  version: 20261107-19          # raise this after every core change
 
   title: P A R T I C I P A º S T U D I O
   og_title: Participa Studio
@@ -47,7 +47,7 @@ participa:
     - Lost? No, scenic route.
     - Late for work again.
     - Who left the sugar out?
-    - You again?
+    - { text: "You again?", later: true }
     - I was here first.
     - One more lap and I am done.
   ants_thoughts:            # kept for later, not shown: the earlier lines with a call to action (7 Nov 2026)
