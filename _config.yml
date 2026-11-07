@@ -37,6 +37,11 @@ participa:
   swarm: true                 # prototype: dots wander out from under the sister logo on the home page
   ants_say:                 # easter egg: a click on an ant shows one of these lines
     - A garden without bugs is not part of an ecosystem.
+    - We are not in nature. We are nature.
+    - No ant builds the nest alone.
+    - Nobody here works alone.
+    - Design for the real world. (Victor Papanek)
+    - Staying with the trouble. (Donna Haraway)
   sister:
     own: design
     name: Design
