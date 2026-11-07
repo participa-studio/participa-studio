@@ -13,7 +13,7 @@ facts:
 - label: For
   value: Freediving Seychelles, a local school
 - label: Type
-  value: Unpaid support, done for a friend
+  value: Pro bono
 - label: Year
   value: '2021'
 - label: Scope
