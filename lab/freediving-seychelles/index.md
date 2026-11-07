@@ -10,15 +10,15 @@ summary: Brand design for a local ocean school
 featured: false
 lead: 'Brand design, given as support, for Sophie Walsh''s freediving school: a local business built on ocean education and environmental activism.'
 facts:
-- label: For
-  value: Freediving Seychelles, a local school
 - label: Type
   value: Pro bono
 - label: Year
   value: '2021'
-- label: Scope
-  value: Brand identity · Applications
-- label: Website
+- label: With
+  value: Sophie Walsh, founder
+- label: My role
+  value: Identity design
+- label: Link
   value: '[freedivingseychelles.com](https://www.freedivingseychelles.com/)'
 photos:
 - src: /images/cases/freediving-seychelles-logo.jpg

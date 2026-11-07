@@ -14,8 +14,8 @@ facts:
   value: Personal project
 - label: Year
   value: '2026'
-- label: Disciplines
-  value: Identity design · Storytelling · Artefacts
+- label: My role
+  value: Ideation · Identity design · Storytelling
 photos:
 - caption: The crest
 - caption: Burgees on the boat
