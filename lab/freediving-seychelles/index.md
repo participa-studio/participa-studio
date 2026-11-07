@@ -20,8 +20,6 @@ facts:
   value: Brand identity · Applications
 - label: Website
   value: '[freedivingseychelles.com](https://www.freedivingseychelles.com/)'
-- label: Youth programme
-  value: '[Freediving for kids and teens](https://www.freedivingseychelles.com/freediving-youth)'
 photos:
 - src: /images/cases/freediving-seychelles-logo.jpg
   caption: The logo, still in use by the school
