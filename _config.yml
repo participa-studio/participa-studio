@@ -36,7 +36,7 @@ participa:
   home_url: /lab/home/        # lab: the left logo opens the lab home (remove at launch, back to /)
   swarm: true                 # prototype: dots wander out from under the sister logo on the home page
   ants_say:                 # easter egg: a click on an ant shows one of these lines
-    - A garden nothing eats is not an ecosystem.
+    - A garden without bugs is not part of an ecosystem.
   sister:
     own: design
     name: Design
