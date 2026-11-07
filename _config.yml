@@ -42,12 +42,15 @@ participa:
     - { call: Try, text: "Designing for the pluriverse." }
     - { call: Try, text: "Designing when everybody designs." }
     - { call: Try, text: "Working with the commons." }
+    - { call: Try, text: "Thinking like a mycelium." }
     - { call: Tente, text: "Adiar o fim do mundo." }
     - { call: Mind you, text: "A garden without bugs is not part of an ecosystem." }
     - { call: Mind you, text: "We are not in nature. We are nature." }
     - { call: Mind you, text: "Nobody here works alone." }
     - { call: Mind you, text: "Every second breath comes from the ocean." }
+    - { call: Mind you, text: "We are ecosystems too." }
     - { call: Ask, text: "When we can build anything, what should we build?" }
+    - { call: Ask, text: "Where does an individual end?" }
   sister:
     own: design
     name: Design
