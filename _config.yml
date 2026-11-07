@@ -23,7 +23,7 @@ defaults:
 
 participa:
   core: https://participa-studio.github.io/participa-core
-  version: 20261107-10          # raise this after every core change
+  version: 20261107-11          # raise this after every core change
 
   title: P A R T I C I P A º S T U D I O
   og_title: Participa Studio
@@ -35,6 +35,8 @@ participa:
 
   home_url: /lab/home/        # lab: the left logo opens the lab home (remove at launch, back to /)
   swarm: true                 # prototype: dots wander out from under the sister logo on the home page
+  ants_say:                 # easter egg: a click on an ant shows one of these lines
+    - A garden nothing eats is not an ecosystem.
   sister:
     own: design
     name: Design
