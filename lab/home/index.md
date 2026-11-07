@@ -2,7 +2,7 @@
 layout: home
 noindex: true
 title: Home
-statement: Participatory and social design
+statement: Designing for shared futures
 intro: Participa Studio is my practice for participatory and social design, run alongside corporate roles since 2023.
 actions:
 - title: Experiments
