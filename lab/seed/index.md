@@ -6,6 +6,7 @@ short_title: SEED
 org: semente.de, with Felipe Schmidt Fonseca and Maira Begalli
 years: 2022–2025
 order: 25
+summary: A facilitation tool aimed at ideation and collaboration with non-profits
 featured: true
 tag: SEED
 lead: An open-source toolkit, published as semente, that helps communities plan and run projects together, following a cycle drawn from gardening rather than a straight project line.
