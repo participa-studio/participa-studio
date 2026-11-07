@@ -35,7 +35,22 @@ participa:
 
   home_url: /lab/home/        # lab: the left logo opens the lab home (remove at launch, back to /)
   swarm: true                 # prototype: dots wander out from under the sister logo on the home page
-  ants_say:                 # easter egg: a click on an ant shows one of these lines (call above, text below)
+  ants_say:                 # easter egg: a click on an ant shows one of these lines, in the ant's own voice
+    - Are you talking to me?
+    - Can I help you?
+    - Sorry, busy right now.
+    - Shh, I am working.
+    - That tickles.
+    - Excuse me, coming through.
+    - Have you seen a crumb around here?
+    - Mind your step.
+    - Lost? No, scenic route.
+    - Late for work again.
+    - Who left the sugar out?
+    - You again?
+    - I was here first.
+    - One more lap and I am done.
+  ants_thoughts:            # kept for later, not shown: the earlier lines with a call to action (7 Nov 2026)
     - { call: Try, text: "Designing for a real world." }
     - { call: Try, text: "Staying with the trouble." }
     - { call: Try, text: "Eating like a fish." }
