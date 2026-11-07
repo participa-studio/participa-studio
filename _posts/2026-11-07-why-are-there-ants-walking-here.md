@@ -6,8 +6,8 @@ tags:
 - Participa
 - Design reflections
 published: true
-image: /images/blog/2026-11-07-ants-walking.jpg
-image_alt: 'The Studio home page, with small drawn ants trailing out of the .design logo.'
+image: /images/blog/2026-11-07-ants-phone.jpg
+image_alt: 'The Studio home page on a phone, with small drawn ants walking around the .design logo.'
 ---
 <p>I wanted the Studio to feel alive: something playful that recalled movement in nature. It started as a few moving dots. Round after round, they became small drawn ants, coming out of the logo and wandering across the home page, sometimes alone, sometimes in a trail or a swarm.</p>
 <p>A site without anything moving through it is a showroom. With ants, it becomes a small ecosystem, and that is how I see the Studio: a place where things are tested, carried and shared.</p>
