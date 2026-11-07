@@ -6,6 +6,7 @@ short_title: 'URBiNAT: INGOSA Group'
 org: URBiNAT, University of Coimbra
 years: '2023'
 order: 40
+summary: A social development prototype for a Coimbra neighbourhood
 featured: true
 lead: A collaborative prototype, made with researchers and local communities, exploring social development pathways for the Ingote neighbourhood in Coimbra, within the URBiNAT project on nature-based solutions.
 facts:

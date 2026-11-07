@@ -6,6 +6,7 @@ short_title: Freediving Seychelles
 org: Freediving Seychelles
 years: '2021'
 order: 50
+summary: Brand design for a local ocean school
 featured: false
 lead: 'Brand design, given as support, for Sophie Walsh''s freediving school: a local business built on ocean education and environmental activism.'
 facts:

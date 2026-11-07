@@ -6,6 +6,7 @@ short_title: Social Enterprise Canvas
 org: Participa Studio
 years: '2024'
 order: 30
+summary: A business model canvas that keeps impact in view
 tag: Social Enterprise Canvas
 featured: true
 lead: 'A canvas for building a solid business model around a social enterprise: one that makes room for the people it serves, even when they do not pay, and for the impact it creates.'

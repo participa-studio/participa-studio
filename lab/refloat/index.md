@@ -6,6 +6,7 @@ short_title: ReFloat, Open Coastal Laboratory
 org: Participa Studio
 years: Since 2026
 order: 10
+summary: Taking apart old boats, turning the work into education
 featured: true
 tag: ReFloat
 lead: A workshop, set up with nearby residents, that takes apart end-of-life and abandoned boats, recovers their materials and turns the work into education. A social enterprise in the open, initiated by Participa Studio.
