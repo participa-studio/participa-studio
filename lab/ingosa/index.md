@@ -2,7 +2,7 @@
 layout: case
 noindex: true
 title: INGOSA — A social development prototype for Ingote, Coimbra
-short_title: 'URBiNAT: INGOSA Group'
+short_title: 'INGOSA: Ingote, Coimbra'
 org: URBiNAT, University of Coimbra
 years: '2023'
 order: 40
