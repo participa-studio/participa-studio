@@ -237,6 +237,16 @@ content:
         label: Caption
         type: string
       list: true
+    - name: video
+      label: Video (YouTube)
+      type: object
+      fields:
+      - name: youtube
+        label: YouTube video id (the part after youtu.be/)
+        type: string
+      - name: caption
+        label: Caption (links as [text](https://…))
+        type: string
     - name: challenge
       label: Challenge
       type: text
@@ -354,6 +364,16 @@ content:
         label: Caption
         type: string
       list: true
+    - name: video
+      label: Video (YouTube)
+      type: object
+      fields:
+      - name: youtube
+        label: YouTube video id (the part after youtu.be/)
+        type: string
+      - name: caption
+        label: Caption (links as [text](https://…))
+        type: string
     - name: challenge
       label: Challenge
       type: text
@@ -459,6 +479,16 @@ content:
         label: Caption
         type: string
       list: true
+    - name: video
+      label: Video (YouTube)
+      type: object
+      fields:
+      - name: youtube
+        label: YouTube video id (the part after youtu.be/)
+        type: string
+      - name: caption
+        label: Caption (links as [text](https://…))
+        type: string
     - name: challenge
       label: Challenge
       type: text
@@ -564,6 +594,16 @@ content:
         label: Caption
         type: string
       list: true
+    - name: video
+      label: Video (YouTube)
+      type: object
+      fields:
+      - name: youtube
+        label: YouTube video id (the part after youtu.be/)
+        type: string
+      - name: caption
+        label: Caption (links as [text](https://…))
+        type: string
     - name: challenge
       label: Challenge
       type: text
@@ -669,6 +709,16 @@ content:
         label: Caption
         type: string
       list: true
+    - name: video
+      label: Video (YouTube)
+      type: object
+      fields:
+      - name: youtube
+        label: YouTube video id (the part after youtu.be/)
+        type: string
+      - name: caption
+        label: Caption (links as [text](https://…))
+        type: string
     - name: challenge
       label: Challenge
       type: text
@@ -774,6 +824,16 @@ content:
         label: Caption
         type: string
       list: true
+    - name: video
+      label: Video (YouTube)
+      type: object
+      fields:
+      - name: youtube
+        label: YouTube video id (the part after youtu.be/)
+        type: string
+      - name: caption
+        label: Caption (links as [text](https://…))
+        type: string
     - name: challenge
       label: Challenge
       type: text
