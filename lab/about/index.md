@@ -15,11 +15,11 @@ sides:
 - own: design
   name: Participa . Design
   tag: Commercial work
-  url: https://participa.design/
+  url: https://participa.design/lab/home/   # lab: back to https://participa.design/ at launch
   text: Service design, design strategy and design leadership for organisations, across more than 25 years.
   links:
   - title: Visit participa.design
-    url: https://participa.design/
+    url: https://participa.design/lab/home/   # lab: back to https://participa.design/ at launch
 facts:
 - label: Based in
   value: Haarlem, the Netherlands
