@@ -5,6 +5,8 @@ title: SEED — An open toolkit for community-led projects
 short_title: SEED
 org: semente.de
 years: 2023–2025
+cover: /images/placeholders/placeholder-02.jpg   # placeholder: replace before launch
+cover_alt: Placeholder image
 order: 25
 summary: Ideation tool aimed at non-profits
 featured: true
@@ -23,6 +25,11 @@ facts:
   value: '[semente.de](https://semente.de/)'
 - label: Licence
   value: CC BY; documentation on [GitHub](https://github.com/semente-de/documentation)
+photos:
+- caption: Placeholder
+  src: /images/placeholders/placeholder-02.jpg
+- caption: Placeholder
+  src: /images/placeholders/placeholder-05.jpg
 video:
   youtube: 5Uof5FKVvfo
   caption: semente, an introduction. Video by Felipe Schmidt Fonseca, [semente.de](https://semente.de/).
