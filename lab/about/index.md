@@ -10,7 +10,7 @@ practice_links:
   url: /lab/projects/
 - title: Writing
   url: /lab/blog/
-throughline: 'I call my practice Participa because the best design for people is made <mark>with</mark> them.'
+throughline: 'I call my practice Participa because good design is made <mark>with</mark> people: neighbours, communities and organisations, working side by side in sessions where everyone shapes the result.'
 sides:
 - own: design
   name: Participa . Design
