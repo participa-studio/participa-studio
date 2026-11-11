@@ -7,3 +7,4 @@
    ========================================================== */
  :root { --colour-accent: #F6DF5B; }   /* lighter yellow, after the Holon reference, 7 Nov 2026 (before: #F2D23F book cover, #EED202, #FFC800, #FFE300) */
  :root { --colour-here: #BD483D; }   /* Studio menu highlight: red from the book cover (3.4:1); the button hover fill comes from the core (rust #B97050), 5 Nov 2026 */
+:root { --colour-marker: rgba(255, 255, 255, 0.4); }   /* marker behind "with": white at 40%, a shade, as on .design (11 Nov 2026; was solid white) */
