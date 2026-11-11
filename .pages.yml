@@ -92,7 +92,7 @@ content:
       label: Direction line
       type: text
     - name: throughline
-      label: Line leading into the sister panel
+      label: Opening line (under the heading, in the quote face)
       type: text
     - name: sides
       label: Sister panel
