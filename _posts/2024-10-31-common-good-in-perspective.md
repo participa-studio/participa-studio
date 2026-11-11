@@ -1,6 +1,6 @@
 ---
 title: 'Common good in perspective: a value proposition far beyond ROI'
-date: 2026-11-06
+date: 2024-10-31
 lead: 'A social enterprise creates value that a return on investment cannot measure. I adapted the business model canvas into a tool for reflecting on that value, and on a model that must keep many sources of funding in sight.'
 tags:
 - Social Enterprise Canvas
