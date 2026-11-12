@@ -23,12 +23,15 @@ defaults:
 
 participa:
   core: https://participa-studio.github.io/participa-core
-  version: 20261111-44          # raise this after every core change
+  version: 20261111-45          # raise this after every core change
   sdots: true                  # Studio hover: graded white dots over case images (11 Nov 2026; core js/sdots.js)
 
   title: P A R T I C I P A º S T U D I O
   og_title: Participa Studio
   description: "Participa Studio: participatory and social design by Bernardo vd Schepop."
+  og_site: "Participa Studio"
+  og_image: https://participa.studio/images/og-card.png   # share preview card, 1200 x 630 (12 Nov 2026)
+  og_image_alt: "Participa Studio: participatory and social design, with the Participa loop on yellow"
 
   own: studio                  # which logo is ours
   name: Studio                 # label next to our logo
