@@ -1,7 +1,7 @@
 ---
 layout: case
 noindex: true
-title: ReFloat, Open Coastal Laboratory — A co-working space using end-of-life boats for education
+title: ReFloat, Open Coastal Laboratory — Using end-of-life boats for education
 short_title: ReFloat, Open Coastal Laboratory
 org: Participa Studio
 years: Since 2026
