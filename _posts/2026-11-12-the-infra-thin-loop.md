@@ -23,6 +23,6 @@ published: true
 
 <h2>References</h2>
 <ul>
-  <li>Claudia Duarte, <em>Marcel Duchamp, olhando o Grande Vidro como interface</em>. Rio de Janeiro: Rios Ambiciosos, 2000.</li>
+  <li>Claudia Duarte, <a href="https://www.estantevirtual.com.br/livro/marcel-duchamp-olhando-o-grande-vidro-como-interface-autografado-RM5-7626-000"><em>Marcel Duchamp, olhando o Grande Vidro como interface</em></a>. Rio de Janeiro: Rios Ambiciosos, 2000.</li>
   <li>Marcel Duchamp, <a href="https://www.centrepompidou.fr/fr/ressources/oeuvre/cAXaMz">autograph note for <em>Inframince</em></a>, 1912–1968. Centre Pompidou, Paris.</li>
 </ul>
