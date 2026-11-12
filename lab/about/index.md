@@ -3,7 +3,7 @@ layout: about
 noindex: true
 title: About
 heading: '.studio: design lab'
-intro: 'For years, collaborative, community-driven work sat at the edges of my practice, in volunteering, alongside my commercial work. Participa Studio brings that drive closer to the centre of design work. It is where I investigate how design can serve the common good: methods for co-creation, models for shared ownership, and experiments with communities.'
+intro: 'For years, collaborative, community-driven work sat at the edges of my practice, in volunteering, alongside my commercial work. Participa Studio brings that drive closer to the centre of my design activities. It is where I investigate how design can serve the common good: methods for co-creation, models for shared ownership, and experiments with communities.'
 practice: A practice for participatory and social design, run alongside commercial work since 2023. It develops methods such as [SEED](/lab/seed/), with its Interloop visual framework, so that communities can co-create social and environmental change.
 practice_links:
 - title: Experiments
