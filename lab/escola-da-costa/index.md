@@ -10,7 +10,7 @@ cover_alt: Placeholder image
 order: 15
 summary: A community-led coastal school concept that led to ReFloat
 featured: false
-lead: 'A concept for a cooperative coastal school, built with the communities it serves. Its exploration went through a first-hand visit to a cooperative design school in France and took shape in two learning programmes: Designing for Change (ideou.com) and Design Science Studio (bfi.org). It stayed a concept, and its thinking now lives on in ReFloat.'
+lead: An exploration of what a cooperative school on the coast could be, if the communities it serves held the decisions. Each step tested a different side of it. It stayed a concept, and its thinking now lives on in ReFloat.
 facts:
 - label: Type
   value: Concept, led to ReFloat and the Participa Studio principles
