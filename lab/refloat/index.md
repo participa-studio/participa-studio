@@ -14,7 +14,7 @@ tag: ReFloat
 lead: 'What happens to pleasure boats at the end of their life? ReFloat is a planned workshop, to be set up with nearby residents, that takes them apart, recovers their materials and turns the work into education. A future open social enterprise, initiated by Participa Studio.'
 facts:
 - label: Type
-  value: Social enterprise, early stage
+  value: Social enterprise, pre-seed
 - label: Year
   value: 2026, ongoing
 - label: My role
