@@ -10,7 +10,7 @@ practice_links:
   url: /lab/projects/
 - title: Writing
   url: /lab/blog/
-throughline: 'Participa: Good design is made <mark>with</mark> people: neighbours, communities and organisations, working side by side in sessions where everyone shapes the result. I use .studio to explore other ways to use my design skills.'
+throughline: 'Participa: Good design is made <mark>with</mark> people, with neighbours, with communities and organisations, working side by side in sessions where everyone shapes the result. I use .studio to explore other ways to use my design skills.'
 sides:
 - own: design
   name: Participa . Design
