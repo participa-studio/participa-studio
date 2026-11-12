@@ -11,7 +11,7 @@ order: 10
 summary: Taking apart old boats, turning the work into education
 featured: true
 tag: ReFloat
-lead: 'A planned workshop, to be set up with nearby residents, that takes apart end-of-life and abandoned boats, recovers their materials and turns the work into education. A future open social enterprise, initiated by Participa Studio.'
+lead: 'What happens to pleasure boats at the end of their life? ReFloat is a planned workshop, to be set up with nearby residents, that takes them apart, recovers their materials and turns the work into education. A future open social enterprise, initiated by Participa Studio.'
 facts:
 - label: Type
   value: Social enterprise, early stage
