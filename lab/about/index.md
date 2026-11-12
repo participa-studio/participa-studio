@@ -10,6 +10,8 @@ practice_links:
   url: /lab/projects/
 - title: Writing
   url: /lab/blog/
+image: /images/about-workshop.jpg
+image_alt: 'A workshop in front of a painted wall: six people stand at a large paper sheet with a circle drawn on it, adding sticky notes.'
 throughline: 'Participa: Good design is made <mark>with</mark> people, <mark>with</mark> neighbours, <mark>with</mark> communities and organisations, working side by side in sessions where everyone shapes the result. I use .studio to explore other ways to use my design skills.'
 sides:
 - own: design
