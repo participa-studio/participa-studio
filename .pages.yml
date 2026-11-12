@@ -302,6 +302,133 @@ content:
     - name: note
       label: Note (links as [text](https://…))
       type: text
+  - name: escola-da-costa
+    label: Escola da Costa
+    type: file
+    path: lab/escola-da-costa/index.md
+    fields:
+    - name: title
+      label: Page title
+      type: string
+      required: true
+    - name: short_title
+      label: Card title (Cases page and home; empty = page title)
+      type: string
+    - name: summary
+      label: Card line (short line under the title on the card)
+      type: string
+    - name: org
+      label: Organisation
+      type: string
+    - name: years
+      label: Years
+      type: string
+    - name: featured
+      label: Can be the case on the home page
+      type: boolean
+    - name: order
+      label: Position on the list (lower numbers first)
+      type: number
+    - name: cover
+      label: Card image
+      type: image
+      options:
+        media: images
+    - name: cover_alt
+      label: Card image description (for screen readers)
+      type: string
+    - name: lead
+      label: Opening line
+      type: text
+    - name: facts
+      label: Facts (label + value)
+      type: object
+      fields:
+      - name: label
+        label: Label
+        type: string
+      - name: value
+        label: Value
+        type: string
+      list: true
+    - name: photos
+      label: Photos
+      type: object
+      fields:
+      - name: src
+        label: Image
+        type: image
+        options:
+          media: images
+      - name: caption
+        label: Caption
+        type: string
+      list: true
+    - name: video
+      label: Video (YouTube)
+      type: object
+      fields:
+      - name: youtube
+        label: YouTube video id (the part after youtu.be/)
+        type: string
+      - name: caption
+        label: Caption (links as [text](https://…))
+        type: string
+    - name: challenge
+      label: Challenge
+      type: text
+    - name: approach
+      label: Approach
+      type: text
+    - name: outcome
+      label: Outcome
+      type: text
+    - name: quote
+      label: Quote (one)
+      type: object
+      fields: &esc002
+      - name: text
+        label: Quote
+        type: text
+      - name: name
+        label: Name
+        type: string
+      - name: role
+        label: Role
+        type: string
+      - name: place
+        label: Place
+        type: string
+    - name: quotes
+      label: Quotes (two or more; they rotate — use instead of Quote)
+      type: object
+      fields: *esc002
+      list: true
+    - name: artefacts
+      label: Downloads
+      type: object
+      fields:
+      - name: label
+        label: Name
+        type: string
+      - name: file
+        label: File (leave empty while in preparation)
+        type: file
+        options:
+          media: files
+      - name: format
+        label: Format (e.g. PDF)
+        type: string
+      - name: status
+        label: Status (e.g. In preparation)
+        type: string
+      list: true
+    - name: tag
+      label: Tag (posts with this tag are listed on this page)
+      type: string
+    - name: note
+      label: Note (links as [text](https://…))
+      type: text
   - name: social-enterprise-canvas
     label: Social Enterprise Canvas
     type: file
