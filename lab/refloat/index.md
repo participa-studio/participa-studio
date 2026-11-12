@@ -26,16 +26,16 @@ facts:
 - label: Photos
   value: Illustrative, from Unsplash, under the [Unsplash Licence](https://unsplash.com/license)
 photos:
-- caption: Illustrative · Abandoned fishing boat, Scottish sea loch · Photo Carl Jorgensen / Unsplash
+- caption: Abandoned fishing boat, Scottish sea loch · Photo Carl Jorgensen / Unsplash
   src: /images/cases/refloat/refloat-scotland-carl-jorgensen.jpg
   alt: The wooden hull of an abandoned fishing boat on a shore, with mountains and grey sky behind.
-- caption: Illustrative · Derelict ship, Ushuaia, Tierra del Fuego · Photo Diego Costa / Unsplash
+- caption: Derelict ship, Ushuaia, Tierra del Fuego · Photo Diego Costa / Unsplash
   src: /images/cases/refloat/refloat-ushuaia-diego-costa.jpg
   alt: A derelict tug with two masts lying on a rocky bank in a bay, houses and snowy mountains behind.
-- caption: Illustrative · Fishing boat on the River Foyle, Derry · Photo K. Mitch Hodge / Unsplash
+- caption: Fishing boat on the River Foyle, Derry · Photo K. Mitch Hodge / Unsplash
   src: /images/cases/refloat/refloat-derry-k-mitch-hodge.jpg
   alt: A rusting red and yellow fishing boat leaning on a mudflat at low tide, green fields behind.
-- caption: Illustrative · Wooden boat left on a shore · Photo Richard Hedrick / Unsplash
+- caption: Wooden boat left on a shore · Photo Richard Hedrick / Unsplash
   src: /images/cases/refloat/refloat-wreck-richard-hedrick.jpg
   alt: A weathered wooden boat with peeling white paint stranded on a sandy bank, reflected in a pool.
 challenge: 'Images of old boat wrecks carry a certain melancholy, solitude, a sense of history. As beautiful as they are here, the reality behind them is far from romantic. In the Netherlands alone, an estimated 2,500 leisure boats need scrapping every year, and around 25,000 lie abandoned. Unlike France, the country has no scheme that pays for their end of life, so the cost falls on the last owner, or on no one. I saw this first-hand and reflected on it with fellow sailors and peers from other initiatives (e.g. <a href="https://www.floatingstorieslab.org/regenerative-tides" title="Floating Stories Lab">FSL</a>). From there, I started ReFloat as an iteration of my Escola da Costa project. ReFloat’s mission: care for the local coast, teach what the ocean receives, act on what boats leave behind, and measure the impact.'
