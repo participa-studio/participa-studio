@@ -6,6 +6,8 @@ tags:
 - Participa
 - Design reflections
 published: true
+image: /images/blog/2026-11-12-the-infra-thin-loop.png
+image_alt: 'Three versions of the Participa loop in black circles: a clean geometric 8 on white, the same 8 with hand-drawn loops on yellow, and the hand-drawn loops alone on yellow.'
 ---
 <figure class="quote">
   <blockquote><p lang="fr">« les gens qui passent au tout dernier moment »</p></blockquote>
