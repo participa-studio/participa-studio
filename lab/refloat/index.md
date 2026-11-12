@@ -25,6 +25,8 @@ facts:
   value: '[refloat.earth](https://refloat.earth)'
 - label: Licence
   value: Content and concept CC BY-SA 4.0
+- label: Photos
+  value: Illustrative, from Unsplash, under the [Unsplash Licence](https://unsplash.com/license)
 photos:
 - caption: Illustrative · Abandoned fishing boat, Scottish sea loch · Photo Carl Jorgensen / Unsplash
   src: /images/cases/refloat/refloat-scotland-carl-jorgensen.jpg
