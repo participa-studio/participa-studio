@@ -36,9 +36,8 @@ photos:
   alt: A workshop table laid out with sticky notes in many colours, markers, tape, coloured dot stickers and scissors.
 artefacts:
 - label: Social Enterprise Canvas, printable template
-  format: PDF
-  status: In preparation
-  # file: /files/social-enterprise-canvas.pdf   (add the PDF, then remove the #)
+  file: /files/social-enterprise-canvas.pdf
+  format: PDF, 3.3 MB
 - label: Social Enterprise Canvas on Miroverse
   url: https://miro.com/miroverse/social-enterprise-canvas
   format: Miroverse
