@@ -10,7 +10,7 @@ cover_alt: 'The 321CODE title slide: three white animal heads above the word COD
 order: 60
 summary: A 54-hour Startup Weekend concept for teaching children to code
 featured: false
-lead: A concept for a phone and tablet app that teaches children to code as a new literacy, made by seven strangers in one weekend at Startup Weekend Amsterdam. It was my only Startup Weekend. I chose a team working on early childhood education because of my work with LEGO three years earlier.
+lead: A concept for a phone and tablet app that teaches children to code as a new literacy, made by seven strangers in one weekend at Startup Weekend Amsterdam.
 facts:
 - label: Type
   value: Startup Weekend concept
