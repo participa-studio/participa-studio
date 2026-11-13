@@ -28,12 +28,8 @@ photos:
 - src: /images/cases/social-enterprise-canvas-session.jpg
   caption: 'A simulated session, the canvas filled in for a seed-sharing idea (AI-generated illustration)'
   alt: A printed Social Enterprise Canvas on a table, covered in colourful sticky notes about seed sharing, with several hands and markers.
-  fit: true
 - src: /images/cases/social-enterprise-canvas.jpg
   caption: The canvas template, as published on Miroverse
-- src: /images/cases/social-enterprise-canvas-materials.jpg
-  caption: Workshop preparation, sticky notes, markers and tape laid out before a session
-  alt: A workshop table laid out with sticky notes in many colours, markers, tape, coloured dot stickers and scissors.
 artefacts:
 - label: Social Enterprise Canvas, printable template
   file: /files/social-enterprise-canvas.pdf
