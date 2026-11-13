@@ -10,7 +10,7 @@ cover_alt: The steel hull in red primer on stands at the Kampen yard during her 
 order: 20
 summary: The name, crest and storyline behind my Van de Stadt steel sailing boat, from myth to hull
 featured: true
-lead: 'Designing as a way to own something before it is yours: the name, crest and applications for my sailboat, started before I found her and revised after I bought her.'
+lead: 'Designing my way into ownership before it was real: the name, crest and applications for my sailboat, started before I found and bought her.'
 facts:
 - label: Type
   value: Personal project
