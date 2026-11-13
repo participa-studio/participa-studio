@@ -20,7 +20,7 @@ facts:
 - label: With
   value: Builds on the Social Business Model Canvas (Lang Center, Swarthmore) and the SE Canvas
 - label: My role
-  value: Ideation · Research · Graphic design
+  value: Ideation · Research · Graphic design · Facilitation
 - label: Licence
   value: CC BY-SA 4.0
 photos:
