@@ -8,7 +8,7 @@ years: 2025–2026
 cover: /images/cases/escola-da-costa/escola-da-costa-coroca-shore-2025.jpg
 cover_alt: 'A sandy shore in the shade of trees, with a red-roofed shelter and a hammock, facing a wide calm river, at Coroca, on the Arapiuns River, Brazil.'
 order: 15
-summary: A community-led coastal school concept that led to ReFloat
+summary: An exploration of a cooperative coastal school, grounded in marine social science
 featured: false
 lead: An exploration of what a cooperative school on the coast could be, if the communities it serves held the decisions. Each step tested a different side of it. It stayed a concept, and its thinking now lives on in <a href="/lab/refloat/">ReFloat</a>.
 facts:
