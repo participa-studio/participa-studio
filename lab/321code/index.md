@@ -17,7 +17,7 @@ facts:
 - label: Year
   value: July 2013
 - label: With
-  value: The 321CODE team at Startup Weekend Amsterdam
+  value: 321CODE team, Startup Weekend Amsterdam 2013
 - label: My role
   value: Concept co-creation · Interaction design · Storytelling
 - label: Licence
