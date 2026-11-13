@@ -18,7 +18,7 @@ facts:
 - label: Year
   value: 2026, ongoing
 - label: My role
-  value: Ideation · Concept creation · Founder
+  value: Concept creation · Social enterprise founder
 - label: Link
   value: '[refloat.earth](https://refloat.earth)'
 - label: Licence
