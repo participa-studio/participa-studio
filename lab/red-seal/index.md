@@ -21,7 +21,7 @@ facts:
 - label: Photos
   value: The photo of the hull in red primer was taken by her builder, Hermanus van Middelkoop.
 photos:
-- caption: The burgee (simulation)
+- caption: The burgee (AI simulation)
   src: /images/cases/red-seal-burgee.jpg
   alt: A wine-red pennant with the white Red Seal crest and wordmark, flying from a boat's rigging next to courtesy flags.
 - caption: The doormat at the companionway
