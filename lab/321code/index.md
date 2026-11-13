@@ -30,8 +30,9 @@ photos:
   src: /images/placeholders/placeholder-04.jpg
 - caption: '"Jummer — My Dog", a coding screen made by Georgij Šapkin: image to follow'
   src: /images/placeholders/placeholder-05.jpg
-- caption: 'The storyboard: image to follow'
-  src: /images/placeholders/placeholder-06.jpg
+- caption: The coding screen in motion, animated in 2026 from the original storyboard
+  src: /images/cases/321code/storyboard-animation.webp
+  alt: 'Animation: a white dog stands still; a timer is dragged to 35 seconds and, on play, the dog runs.'
 - caption: The 321CODE team at work, Startup Weekend Amsterdam, July 2013   # soft-focus photo; faces still recognisable: review before going public
   src: /images/cases/321code/team-2013.jpg
   alt: Team members around a table with laptops and a flip chart, in soft focus.
