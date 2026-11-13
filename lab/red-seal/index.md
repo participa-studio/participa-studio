@@ -38,12 +38,9 @@ artefacts:
 - label: The Red Seal myth, Between the Bear and the Wolf
   file: /files/red-seal-myth-en.pdf
   format: PDF, 10 pages
-- label: The myth as an audiobook, in English
+- label: The myth as an audiobook
   url: /files/red-seal-myth-en.mp3
   format: Audio, 13 min
-- label: The myth as an audiobook, in Portuguese
-  url: /files/red-seal-myth-pt.mp3
-  format: Audio, 16 min
 tag: Red Seal
 quote:
   text: Wood remembers. It carries storms in its grain, salt in its fibres, the echo of every harbour it has ever touched. Steel endures. It does not remember. It does not forgive.
