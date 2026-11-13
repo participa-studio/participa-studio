@@ -29,7 +29,7 @@ photos:
 - caption: The coding screen in motion, animated in 2026 from the original storyboard
   src: /images/cases/321code/storyboard-animation.webp
   alt: 'Animation: a white dog stands still; a timer is dragged to 35 seconds and, on play, the dog runs.'
-- caption: The 321CODE team at work, Startup Weekend Amsterdam, July 2013. In focus, me, in white   # the rest of the team blurred (13 Nov 2026)
+- caption: The 321CODE team at work, Startup Weekend Amsterdam, July 2013. I am the one in focus, in white   # the rest of the team blurred (13 Nov 2026)
   src: /images/cases/321code/team-2013.jpg
   alt: Bernardo in a white shirt, in focus at a laptop, with the rest of the team around the table blurred.
 challenge: 'In 2013, coding was starting to be called a new literacy, but there were few playful ways for young children to learn it. The question for the weekend was whether an app could teach coding in a fun way at each age, and whether parents would pay for it. Of all the first-night pitches, I jumped at the chance to join the team proposing to work on early childhood education, building on what I had learned with LEGO three years earlier.'
