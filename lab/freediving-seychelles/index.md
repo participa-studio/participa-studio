@@ -19,7 +19,7 @@ facts:
 - label: With
   value: Sophie Walsh, founder
 - label: My role
-  value: Identity design
+  value: Brand identity
 - label: Link
   value: '[freedivingseychelles.com](https://www.freedivingseychelles.com/)'
 - label: Licence
