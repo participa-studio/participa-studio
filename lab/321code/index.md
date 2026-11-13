@@ -2,13 +2,13 @@
 layout: case
 noindex: true
 title: 321CODE — A 54-hour concept rushed through one Startup Weekend
-short_title: '321CODE: Startup Weekend Amsterdam'
+short_title: 321CODE
 org: Startup Weekend Amsterdam
 years: '2013'
 cover: /images/cases/321code/cover.jpg
 cover_alt: 'The 321CODE title slide: three white animal heads above the word CODE in pink, on yellow.'
 order: 60
-summary: A 54-hour Startup Weekend concept for teaching children to code
+summary: A concept for children to learn code through play
 featured: false
 lead: A concept for a phone and tablet app that teaches children to code as a new literacy, made by seven strangers in one weekend at Startup Weekend Amsterdam.
 facts:
