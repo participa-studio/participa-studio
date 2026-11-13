@@ -28,4 +28,5 @@ facts:
   value: Haarlem, the Netherlands
 - label: Contact
   value: Connect on [LinkedIn](https://www.linkedin.com/company/participa-design-studio/) or send me an [email](mailto:bernardo@schepop.org).
+rights: All material on this site is © Participa Design Studio, unless otherwise noted.
 ---
