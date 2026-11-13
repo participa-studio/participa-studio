@@ -28,5 +28,5 @@ facts:
   value: Haarlem, the Netherlands
 - label: Contact
   value: Connect on [LinkedIn](https://www.linkedin.com/company/participa-design-studio/) or send me an [email](mailto:bernardo@schepop.org).
-rights: 'Unless otherwise noted, all content published on participa.studio is shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): use it, adapt it, and credit us as Participa Design Studio. Names, logos (including the Participa marks) and the brands of partners and clients are not covered. For content on [participa.design](https://participa.design/lab/contact/), see its own terms.'   # lab: link back to https://participa.design/contact/ at launch
+rights: 'Text and images by Participa Design Studio, unless otherwise noted. Tools and concepts shared under an open licence, such as the [Social Enterprise Canvas](/lab/social-enterprise-canvas/) and [ReFloat](/lab/refloat/), say so on their page: use them on those terms, with credit.'   # lab: links back to /social-enterprise-canvas/ and /refloat/ at launch
 ---
