@@ -28,6 +28,9 @@ facts:
 photos:
 - src: /images/cases/social-enterprise-canvas.jpg
   caption: The canvas template, as published on Miro
+- src: /images/cases/social-enterprise-canvas-materials.jpg
+  caption: Workshop preparation, sticky notes, markers and tape laid out before a session
+  alt: A workshop table laid out with sticky notes in many colours, markers, tape, coloured dot stickers and scissors.
 challenge: 'The standard business model canvas centres on paying customers. A social enterprise often serves people who do not pay, and creates value that is not revenue: in the regular canvas there is no place for either.'
 approach: 'The canvas adapts the Social Business Model Canvas and borrows Externalities from the SE Canvas. Its fields: key partnerships, key activities, key people and resources, cost structure, a value proposition split into social and regenerative value, relationships, channels, key metrics, financial sustainability, beneficiaries and customers as separate segments, externalities (positive, negative, PESTEL), surplus and funding.'
 outcome: Published as a free template on Miro, where it has been used 52 times and viewed 1,100 times (November 2026). Participa Studio used it on 10 September 2026 to draft the first concept and business plan of ReFloat, and an education-first update the same day.
