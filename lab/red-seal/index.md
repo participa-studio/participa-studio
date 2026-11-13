@@ -32,7 +32,7 @@ photos:
   src: /images/cases/red-seal-binders.jpg
   alt: Five red document binders on a boat shelf, each spine printed in yellow with the Red Seal crest and a label.
 - src: /images/cases/red-seal-beanies.jpg
-  caption: 'The crest on beanies, worn at a gathering in Audierne, France'
+  caption: 'The crest on beanies, worn at the Wharram Hui Gathering, Audierne, 2026'
   alt: 'Bernardo and a friend on deck of a sailing ship, both wearing black beanies with the Red Seal crest.'
 - caption: The burgee (AI simulation)
   src: /images/cases/red-seal-burgee.jpg
