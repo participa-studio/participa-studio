@@ -5,8 +5,8 @@ title: Social Enterprise Canvas — A business model for social enterprises
 short_title: Social Enterprise Canvas
 org: Participa Studio
 years: '2024'
-cover: /images/cases/social-enterprise-canvas.jpg
-cover_alt: The Social Enterprise Canvas template
+cover: /images/cases/social-enterprise-canvas-materials.jpg
+cover_alt: A workshop table laid out with sticky notes in many colours, markers, tape, coloured dot stickers and scissors.
 order: 30
 summary: A business model canvas that keeps impact in view
 tag: Social Enterprise Canvas
