@@ -18,8 +18,6 @@ facts:
   value: '2026'
 - label: My role
   value: Ideation · Identity design · Storytelling
-- label: Licence
-  value: 'The Red Seal crest, myth and artefacts are not covered by the open licence; all rights reserved.'
 photos:
 - caption: The crest
   src: /images/placeholders/placeholder-04.jpg

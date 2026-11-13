@@ -21,7 +21,7 @@ facts:
 - label: My role
   value: Facilitation · Service design
 - label: Licence
-  value: 'Made with URBiNAT partners and not covered by the open licence; ask before reuse.'
+  value: 'Made with URBiNAT partners; ask before reuse.'
 photos:
 - caption: 'Co-diagnosis in the Ingote neighbourhood: image to follow'
   src: /images/placeholders/placeholder-03.jpg

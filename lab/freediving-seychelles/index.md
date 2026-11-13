@@ -13,7 +13,7 @@ featured: false
 lead: 'Brand identity for Sophie Walsh''s freediving school: a local business built on ocean education and environmental activism.'
 facts:
 - label: Type
-  value: Brand for a freediving friend's school
+  value: Gifted brand identity
 - label: Year
   value: '2021'
 - label: With

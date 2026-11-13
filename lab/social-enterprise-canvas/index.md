@@ -4,7 +4,7 @@ noindex: true
 title: Social Enterprise Canvas — A business model for social enterprises
 short_title: Social Enterprise Canvas
 org: Participa Studio
-years: '2024'
+years: 2024, ongoing
 cover: /images/cases/social-enterprise-canvas-wall.jpg
 cover_alt: A hand writing Local Community Hub on a yellow sticky note placed on a printed canvas taped to a wall.
 order: 30
@@ -16,7 +16,7 @@ facts:
 - label: Type
   value: Open template
 - label: Year
-  value: '2024'
+  value: 2024, ongoing
 - label: My role
   value: Ideation · Research · Graphic design · Facilitation
 - label: Licence
