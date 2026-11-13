@@ -1,7 +1,7 @@
 ---
 layout: case
 noindex: true
-title: Red Seal — A crest, a myth and an identity for a steel boat
+title: Red Seal — The identity for a steel boat
 short_title: Red Seal Mythology
 org: Red Seal
 years: 2025–2026
