@@ -21,7 +21,7 @@ image_alt: 'Three versions of the Participa loop in black circles: a clean geome
 <p>I came across these notes in a book by Claudia Duarte, <em>Marcel Duchamp, olhando o Grande Vidro como interface</em>, published after her master’s dissertation at the Federal University of Rio de Janeiro, <em>A Desaparição da Noiva: olhando o Grande Vidro como interface</em> (1998). Both are about <em>Le Grand Verre</em> (1915–23). She reads the work as an interface. The work is transparent, so the people looking at it also see each other through it, and the piece changes as they move. As Duchamp himself said, the viewer completes the work.</p>
 <p>While I was reading, I started drawing in the corner of the page. Without thinking, my pen kept looping back and forth, two curves closing at one small point in the middle. It was an infinite loop, an 8: a continuous movement that kept returning to a single point of contact.</p>
 <figure class="post__figure">
-  <img src="/images/blog/2026-11-12-the-infra-thin-loop-sketch-1.jpg" alt="A pencil 8 drawn in many overlapping loops on white paper." loading="lazy">
+  <img src="/images/blog/2026-11-12-the-infra-thin-loop-sketch.jpg" alt="A pencil 8 drawn in many overlapping loops on white paper." loading="lazy">
   <figcaption>Pencil sketch of the loop</figcaption>
 </figure>
 <p>I kept hold of that scribble. In traditional graphic design, the work is finished once it is printed. In the early days of the web, we still called the work "web design", and pages were far more static than they are today. The loop gave me a very tangible sense of continuous movement: interaction happens through time. We click, we scroll, the page responds, and we respond again. It is a choreography that the industry later called experience design.</p>
