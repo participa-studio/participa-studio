@@ -5,8 +5,8 @@ title: Red Seal — The identity for a steel boat
 short_title: Red Seal Branding
 org: Red Seal
 years: 2025–2026
-cover: /images/cases/red-seal-hull-build.jpg
-cover_alt: The steel hull in red primer on stands at the Kampen yard during her build, 1993–1996.
+cover: /images/cases/red-seal-design-plate.jpg
+cover_alt: 'The Van de Stadt design plate, design 260, registration 256, with the Red Seal crest engraved in its corner.'
 order: 20
 summary: Shaping the brand and the storyline behind my steel sailing boat
 featured: true
