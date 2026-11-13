@@ -2,7 +2,7 @@
 layout: case
 noindex: true
 title: Red Seal — The identity for a steel boat
-short_title: Red Seal Mythology
+short_title: Red Seal Branding
 org: Red Seal
 years: 2025–2026
 cover: /images/cases/red-seal-hull-build.jpg
@@ -18,8 +18,10 @@ facts:
   value: 2025–2026
 - label: My role
   value: Identity design · Naming · Storytelling
+- label: Photos
+  value: The card photo of the hull in red primer was taken by her builder, Kampen, 1993–1996.
 photos:
-- caption: The burgee
+- caption: The burgee (simulation)
   src: /images/cases/red-seal-burgee.jpg
   alt: A wine-red pennant with the white Red Seal crest and wordmark, flying from a boat's rigging next to courtesy flags.
 - caption: The doormat at the companionway
@@ -33,7 +35,7 @@ photos:
   alt: Five red document binders on a boat shelf, each spine printed in yellow with the Red Seal crest and a label.
 challenge: 'I had wanted my own sailing boat for over five years. I visited boats for sale at marinas in Spain, Portugal and around the Netherlands to see them up close and learn what I wanted: layout, headroom, engine access and so on. Only after an eight-day expedition to the Arctic did my criteria become clear: steel, suitable for short-handed sailing and homely below deck. With future Arctic trips in mind, the Van de Stadt Zeehond 36 went to the top of my list. Even before I had any concrete prospect of owning a boat, as a designer I could not help creating artefacts that gave shape to that sense of ownership. Beginning in August 2025, I wrote narratives, rated every name I found interesting, and drafted several versions of a myth connecting my Brazilian roots with my Dutch history.'
 approach: 'I compared name candidates on VHF clarity, international readability, heritage and personal meaning, eventually choosing BearWolf: a polar bear for the north and a maned wolf (lobo-guará) for the south, for which I designed a crest and boat renderings. Yet when I visited the boat I later bought, in February 2026, it felt so right that her own name took over. She had been christened SEAL at her launch, and that legacy called for a change of design direction. So I kept the north–south idea, but a new animal made herself present. The polar bear made way for an Arctic seal, weaving into the concept the boat’s own name and that of her design model, the Zeehond (Dutch for seal), while the maned wolf stayed for the south. The name SEAL was hers, yet it needed an edge, a colour, to make it distinct. Adding “Red” gave it that, drawn from the wolf side of my myth: the guará and urucum, the red pigment from Brazil. The boat became Red Seal.'
-outcome: 'In May 2026, I redesigned the crest: a wolf profile with a seal head cut out of it, above three waves. I tested it at the same level of detail as the bear-and-wolf version, and the new mark held. From there, I built the palette around wine red and sun yellow, and simulated the crest and lettering on the hull and genoa. Finally, I rewrote the myth around the new pair and recorded it in both English and Portuguese. The crest is now in use on burgees, stickers, beanies, the boat’s document binders and the original Van de Stadt design plate, which I had engraved. The bow crest and hull lettering are planned for the April 2027 haul-out.'
+outcome: 'In May 2026, I redesigned the crest: a wolf profile with a seal head cut out of it, above three waves. I tested it at the same level of detail as the bear-and-wolf version, and the new mark held. From there, I built the palette around wine red and sun yellow, and simulated the crest and lettering on the hull and genoa. The myth, <em>Between the Bear and the Wolf</em>, kept the original pair and already carried the name Red Seal; I recorded it in English and Portuguese. The crest is now in use on burgees, stickers, beanies, the boat’s document binders, a doormat and the original Van de Stadt design plate, which I had engraved. Branded fender covers are on the way, and the bow crest and hull lettering are planned for the April 2027 haul-out.'
 artefacts:
 - label: The Red Seal myth, Between the Bear and the Wolf
   file: /files/red-seal-myth-en.pdf
