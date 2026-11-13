@@ -28,5 +28,5 @@ facts:
   value: Haarlem, the Netherlands
 - label: Contact
   value: Connect on [LinkedIn](https://www.linkedin.com/company/participa-design-studio/) or send me an [email](mailto:bernardo@schepop.org).
-rights: 'Unless otherwise noted, the content of .studio is shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): use it, adapt it, and credit Participa Design Studio.'
+rights: 'Unless otherwise noted, all the content of .studio is shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): use it, adapt it, and credit us as Participa Design Studio.'
 ---
