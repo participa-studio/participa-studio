@@ -26,10 +26,6 @@ photos:
 - caption: The opening slide of the final pitch, 7 July 2013
   src: /images/cases/321code/cover.jpg
   alt: 'The 321CODE title slide: three white animal heads above the word CODE in pink, on yellow.'
-- caption: 'iPad screens across the four age sets, with the animal characters: image to follow'
-  src: /images/placeholders/placeholder-04.jpg
-- caption: '"Jummer — My Dog", a coding screen made by Georgij Šapkin: image to follow'
-  src: /images/placeholders/placeholder-05.jpg
 - caption: The coding screen in motion, animated in 2026 from the original storyboard
   src: /images/cases/321code/storyboard-animation.webp
   alt: 'Animation: a white dog stands still; a timer is dragged to 35 seconds and, on play, the dog runs.'
