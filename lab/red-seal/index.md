@@ -33,7 +33,7 @@ photos:
 - caption: The boat's document binders, with the crest on every spine
   src: /images/cases/red-seal-binders.jpg
   alt: Five red document binders on a boat shelf, each spine printed in yellow with the Red Seal crest and a label.
-- caption: The hull in red primer during her self-build by Hermanus van Middelkoop, Kampen, the Netherlands, 1993–1996
+- caption: Self-build hull by Hermanus van Middelkoop, Kampen, the Netherlands, 1993–1996
   src: /images/cases/red-seal-hull-build.jpg
   alt: The steel hull in red primer on stands at the Kampen yard during her build, 1993–1996.
 challenge: 'I had wanted my own sailing boat for over five years. I visited boats for sale at marinas in Spain, Portugal and around the Netherlands to see them up close and learn what I wanted: layout, headroom, engine access and so on. Only after an eight-day expedition to the Arctic did my criteria become clear: steel, suitable for short-handed sailing and homely below deck. With future Arctic trips in mind, the Van de Stadt Zeehond 36 went to the top of my list. Even before I had any concrete prospect of owning a boat, as a designer I could not help creating artefacts that gave shape to that sense of ownership. Beginning in August 2025, I wrote narratives, rated every name I found interesting, and drafted several versions of a myth connecting my Brazilian roots with my Dutch history.'
