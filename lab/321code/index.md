@@ -5,8 +5,8 @@ title: 321CODE — A coding app for children, made in a weekend
 short_title: '321CODE: Startup Weekend Amsterdam'
 org: Startup Weekend Amsterdam
 years: '2013'
-cover: /images/placeholders/placeholder-04.jpg   # placeholder: iPad screens across the age sets
-cover_alt: Placeholder image
+cover: /images/cases/321code/cover.jpg
+cover_alt: 'The 321CODE title slide: three white animal heads above the word CODE in pink, on yellow.'
 order: 60
 summary: A 54-hour Startup Weekend concept for teaching children to code
 featured: false
@@ -23,6 +23,9 @@ facts:
 - label: Licence
   value: 'Shared ownership with the 321CODE team at Startup Weekend Amsterdam: Louise Vink, Myra Colis, Weining Hung, Ewa Jaroslawska, Rotem Rubnov, Georgij Šapkin and Bernardo van de Schepop.'
 photos:
+- caption: The opening slide of the final pitch, 7 July 2013
+  src: /images/cases/321code/cover.jpg
+  alt: 'The 321CODE title slide: three white animal heads above the word CODE in pink, on yellow.'
 - caption: 'iPad screens across the four age sets, with the animal characters: image to follow'
   src: /images/placeholders/placeholder-04.jpg
 - caption: '"Jummer — My Dog", a coding screen made by Georgij Šapkin: image to follow'
