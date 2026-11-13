@@ -18,8 +18,6 @@ facts:
   value: 2025–2026
 - label: My role
   value: Identity design · Naming · Storytelling
-- label: Photos
-  value: The photo of the hull in red primer was taken by her builder, Hermanus van Middelkoop.
 photos:
 - caption: The crest and wordmark variations
   src: /images/cases/red-seal-brand.jpg
