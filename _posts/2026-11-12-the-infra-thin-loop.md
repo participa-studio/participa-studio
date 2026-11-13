@@ -8,6 +8,8 @@ tags:
 published: true
 image: /images/blog/2026-11-12-the-infra-thin-loop-2.png
 image_alt: 'Three versions of the Participa loop in black circles: a clean geometric 8 on white, the same 8 with hand-drawn loops on yellow, and the hand-drawn loops alone on yellow.'
+thumb: /images/blog/2026-11-12-the-infra-thin-loop-sketch.jpg   # the circle on the post lists
+thumb_alt: A pencil 8 drawn in many overlapping loops on white paper.
 ---
 <figure class="quote">
   <blockquote><p lang="fr">« les gens qui passent au tout dernier moment »</p></blockquote>
