@@ -1,7 +1,7 @@
 ---
 layout: case
 noindex: true
-title: 321CODE — A coding app for children, made in a weekend
+title: 321CODE — A 54-hour concept rushed through one Startup Weekend
 short_title: '321CODE: Startup Weekend Amsterdam'
 org: Startup Weekend Amsterdam
 years: '2013'
