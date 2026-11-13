@@ -10,7 +10,7 @@ cover_alt: The steel hull in red primer on stands at the Kampen yard during her 
 order: 20
 summary: Shaping the brand and the storyline behind my steel sailing boat
 featured: true
-lead: 'Identity for my sailboat: a name, a crest and their applications, revised after I bought the boat to keep her original name.'
+lead: 'Designing as a way to own something before it is yours: the name, crest and applications for my sailboat, started before I found her and revised after I bought her.'
 facts:
 - label: Type
   value: Personal project
