@@ -8,7 +8,7 @@ practice: A practice for participatory and social design that has long run along
 practice_links:
 - title: Experiments
   url: /lab/projects/
-- title: Writing
+- title: Reflections
   url: /lab/blog/
 image: /images/about-workshop.jpg
 image_caption: SEED workshop pilot at Gaiato in Ubatuba, 2025

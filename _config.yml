@@ -81,7 +81,7 @@ participa:
     - title: Experiments
       url: /lab/projects/
       layouts: [case]
-    - title: Writing
+    - title: Reflections
       url: /lab/blog/
       layouts: [post]
     - title: About
