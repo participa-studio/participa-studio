@@ -30,7 +30,7 @@ photos:
 - caption: The crest and wordmark variations
   src: /images/cases/red-seal-brand.jpg
   alt: The Red Seal crest, a wolf profile with a seal head cut out of it above waves, in white on wine red, with wordmark variations.
-- caption: The boat's document binders, with the crest on every spine, holding the records her former owner kept so well
+- caption: All her well-kept documentation found its way into new branded binders
   src: /images/cases/red-seal-binders.jpg
   alt: Five red document binders on a boat shelf, each spine printed in yellow with the Red Seal crest and a label.
 - caption: Self-build hull by Hermanus van Middelkoop, Kampen, the Netherlands, 1993–1996
