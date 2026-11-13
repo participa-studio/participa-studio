@@ -19,7 +19,7 @@ facts:
 - label: With
   value: Felipe Schmidt Fonseca; Thiago Máximo
 - label: My role
-  value: Concept creation · Research · Presentation
+  value: Concept creation · Research · Storytelling
 photos:
 - caption: Shore at Coroca, on the Arapiuns River, Pará, 2025
   src: /images/cases/escola-da-costa/escola-da-costa-coroca-shore-2025.jpg
