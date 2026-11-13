@@ -24,7 +24,7 @@ facts:
 - label: Link
   value: '[semente.de](https://semente.de/)'
 - label: Licence
-  value: CC BY; documentation on [GitHub](https://github.com/semente-de/documentation)
+  value: '[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), as on semente.de; documentation on [GitHub](https://github.com/semente-de/documentation)'
 photos:
 - caption: Placeholder
   src: /images/placeholders/placeholder-02.jpg
