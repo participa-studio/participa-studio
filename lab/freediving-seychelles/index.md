@@ -22,6 +22,8 @@ facts:
   value: Identity design
 - label: Link
   value: '[freedivingseychelles.com](https://www.freedivingseychelles.com/)'
+- label: Licence
+  value: 'The Freediving Seychelles name and brand belong to the school and are not covered by the open licence.'
 photos:
 - src: /images/cases/freediving-seychelles-logo.jpg
   caption: The logo, still in use by the school
