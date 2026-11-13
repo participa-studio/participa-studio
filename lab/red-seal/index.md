@@ -21,15 +21,15 @@ facts:
 - label: Photos
   value: The photo of the hull in red primer was taken by her builder, Hermanus van Middelkoop.
 photos:
+- caption: The crest and wordmark variations
+  src: /images/cases/red-seal-brand.jpg
+  alt: The Red Seal crest, a wolf profile with a seal head cut out of it above waves, in white on wine red, with wordmark variations.
 - caption: The burgee (AI simulation)
   src: /images/cases/red-seal-burgee.jpg
   alt: A wine-red pennant with the white Red Seal crest and wordmark, flying from a boat's rigging next to courtesy flags.
 - caption: The doormat at the companionway
   src: /images/cases/red-seal-doormat.jpg
   alt: A red half-round doormat with the Red Seal crest and wordmark on the teak sole below the companionway.
-- caption: The crest and wordmark variations
-  src: /images/cases/red-seal-brand.jpg
-  alt: The Red Seal crest, a wolf profile with a seal head cut out of it above waves, in white on wine red, with wordmark variations.
 - caption: All her well-kept documentation found its way into new branded binders
   src: /images/cases/red-seal-binders.jpg
   alt: Five red document binders on a boat shelf, each spine printed in yellow with the Red Seal crest and a label.
