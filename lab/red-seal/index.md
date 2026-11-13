@@ -2,13 +2,13 @@
 layout: case
 noindex: true
 title: Red Seal — A crest, a myth and an identity for a steel boat
-short_title: Red Seal Myth
+short_title: Red Seal Mythology
 org: Red Seal
-years: '2026'
+years: 2025–2026
 cover: /images/cases/red-seal-hull-build.jpg
 cover_alt: The steel hull in red primer on stands at the Kampen yard during her build, 1993–1996.
 order: 20
-summary: Shaping the storyline behind my steel sailing boat
+summary: Shaping the brand and the storyline behind my steel sailing boat
 featured: true
 lead: 'Identity for my sailboat: a name, a crest and their applications, revised after I bought the boat to keep her original name.'
 facts:
