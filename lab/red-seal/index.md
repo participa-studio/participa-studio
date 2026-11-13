@@ -8,7 +8,7 @@ years: 2025–2026
 cover: /images/cases/red-seal-hull-build.jpg
 cover_alt: The steel hull in red primer on stands at the Kampen yard during her build, 1993–1996.
 order: 20
-summary: The name, crest and storyline behind my steel sailing boat
+summary: The name, crest and storyline behind my Van de Stadt steel sailing boat, from myth to hull
 featured: true
 lead: 'Designing as a way to own something before it is yours: the name, crest and applications for my sailboat, started before I found her and revised after I bought her.'
 facts:
