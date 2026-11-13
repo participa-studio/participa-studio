@@ -23,8 +23,12 @@ facts:
   value: CC BY-SA 4.0
 photos:
 - src: /images/cases/social-enterprise-canvas-wall.jpg
-  caption: 'The canvas on a wall, with a first idea in the value proposition (illustrative image)'
+  caption: 'The canvas on a wall, with a first idea in the value proposition (AI-generated illustration)'
   alt: A hand writing Local Community Hub on a yellow sticky note placed on a printed canvas taped to a wall.
+- src: /images/cases/social-enterprise-canvas-session.jpg
+  caption: 'A simulated session, the canvas filled in for a seed-sharing idea (AI-generated illustration)'
+  alt: A printed Social Enterprise Canvas on a table, covered in colourful sticky notes about seed sharing, with several hands and markers.
+  fit: true
 - src: /images/cases/social-enterprise-canvas.jpg
   caption: The canvas template, as published on Miroverse
 - src: /images/cases/social-enterprise-canvas-materials.jpg
