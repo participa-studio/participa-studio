@@ -26,6 +26,10 @@ image_alt: 'Three versions of the Participa loop in black circles: a clean geome
 </figure>
 <p>I kept hold of that scribble. In traditional graphic design, the work is finished once it is printed. In the early days of the web, we still called the work "web design", and pages were far more static than they are today. The loop gave me a very tangible sense of continuous movement: interaction happens through time. We click, we scroll, the page responds, and we respond again. It is a choreography that the industry later called experience design.</p>
 <p>Today the loop is part of the brand of both Participa sites. .design shows a cleaner, more geometric version of that first idea. The .studio loop comes from the original sketch, photographed from the page of that book. I carried that little 8 with me for a long time, and I even carry it as a tattoo. It reminds me that the work is never only the object: it is the moment in between.</p>
+<figure class="post__figure">
+  <img src="/images/blog/2026-11-12-the-infra-thin-loop-mark.png" alt="The Participa mark on a green background: the loop as an outline inside a circle, as a solid shape in dark grey, yellow and white, and inside the letters of the participa wordmark, with hand-drawn versions beside it." loading="lazy">
+  <figcaption>The Participa mark and wordmark, with its variations</figcaption>
+</figure>
 
 <h2>References</h2>
 <ul>
