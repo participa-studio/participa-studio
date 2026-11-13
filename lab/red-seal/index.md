@@ -5,8 +5,8 @@ title: Red Seal — A crest, a myth and an identity for a steel boat
 short_title: Red Seal Myth
 org: Red Seal
 years: '2026'
-cover: /images/cases/red-seal-burgee.jpg
-cover_alt: A wine-red pennant with the white Red Seal crest and wordmark, flying from a boat's rigging next to courtesy flags.
+cover: /images/cases/red-seal-hull-build.jpg
+cover_alt: The steel hull in red primer on stands at the Kampen yard during her build, 1993–1996.
 order: 20
 summary: Shaping the storyline behind my steel sailing boat
 featured: true
