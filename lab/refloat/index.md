@@ -17,6 +17,8 @@ facts:
   value: Social enterprise, pre-seed
 - label: Year
   value: 2026, ongoing
+- label: With
+  value: Fellow sailors
 - label: My role
   value: Concept creation · Social enterprise founder
 - label: Link
