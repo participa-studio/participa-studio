@@ -6,10 +6,8 @@ tags:
 - Participa
 - Design reflections
 published: true
-image: /images/blog/2026-11-12-the-infra-thin-loop-2.png
-image_alt: 'Three versions of the Participa loop in black circles: a clean geometric 8 on white, the same 8 with hand-drawn loops on yellow, and the hand-drawn loops alone on yellow.'
-thumb: /images/blog/2026-11-12-the-infra-thin-loop-sketch.jpg   # the circle on the post lists
-thumb_alt: A pencil 8 drawn in many overlapping loops on white paper.
+image: /images/blog/2026-11-12-the-infra-thin-loop-sketch.jpg
+image_alt: A pencil 8 drawn in many overlapping loops on white paper.
 ---
 <figure class="quote">
   <blockquote><p lang="fr">« les gens qui passent au tout dernier moment »</p></blockquote>
@@ -22,10 +20,6 @@ thumb_alt: A pencil 8 drawn in many overlapping loops on white paper.
 <p>Duchamp never defined the <em>inframince</em>, the infra-thin. He collected examples of it instead: the warmth a seat keeps just after someone stands up, or the instant someone slips through the metro gates as they close. It is the smallest gap there is: almost nothing, yet something happens there.</p>
 <p>I came across these notes in a book by Claudia Duarte, <em>Marcel Duchamp, olhando o Grande Vidro como interface</em>, published after her master’s dissertation at the Federal University of Rio de Janeiro, <em>A Desaparição da Noiva: olhando o Grande Vidro como interface</em> (1998). Both are about <em>Le Grand Verre</em> (1915–23). She reads the work as an interface. The work is transparent, so the people looking at it also see each other through it, and the piece changes as they move. As Duchamp himself said, the viewer completes the work.</p>
 <p>While I was reading, I started drawing in the corner of the page. Without thinking, my pen kept looping back and forth, two curves closing at one small point in the middle. It was an infinite loop, an 8: a continuous movement that kept returning to a single point of contact.</p>
-<figure class="post__figure">
-  <img src="/images/blog/2026-11-12-the-infra-thin-loop-sketch.jpg" alt="A pencil 8 drawn in many overlapping loops on white paper." loading="lazy">
-  <figcaption>Pencil sketch of the loop</figcaption>
-</figure>
 <p>I kept hold of that scribble. In traditional graphic design, the work is finished once it is printed. In the early days of the web, we still called the work "web design", and pages were far more static than they are today. The loop gave me a very tangible sense of continuous movement: interaction happens through time. We click, we scroll, the page responds, and we respond again. It is a choreography that the industry later called experience design.</p>
 <p>Today the loop is part of the brand of both Participa sites. .design shows a cleaner, more geometric version of that first idea. The .studio loop comes from the original sketch, photographed from the page of that book. I carried that little 8 with me for a long time, and I even carry it as a tattoo. It reminds me that the work is never only the object: it is the moment in between.</p>
 <figure class="post__figure">
