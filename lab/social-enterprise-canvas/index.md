@@ -5,8 +5,8 @@ title: Social Enterprise Canvas — A business model for social enterprises
 short_title: Social Enterprise Canvas
 org: Participa Studio
 years: '2024'
-cover: /images/cases/social-enterprise-canvas-materials.jpg
-cover_alt: A workshop table laid out with sticky notes in many colours, markers, tape, coloured dot stickers and scissors.
+cover: /images/cases/social-enterprise-canvas-wall.jpg
+cover_alt: A hand writing Local Community Hub on a yellow sticky note placed on a printed canvas taped to a wall.
 order: 30
 summary: A business model canvas that keeps impact in view
 tag: Social Enterprise Canvas
@@ -22,6 +22,9 @@ facts:
 - label: Licence
   value: CC BY-SA 4.0
 photos:
+- src: /images/cases/social-enterprise-canvas-wall.jpg
+  caption: 'The canvas on a wall, with a first idea in the value proposition (illustrative image)'
+  alt: A hand writing Local Community Hub on a yellow sticky note placed on a printed canvas taped to a wall.
 - src: /images/cases/social-enterprise-canvas.jpg
   caption: The canvas template, as published on Miroverse
 - src: /images/cases/social-enterprise-canvas-materials.jpg
