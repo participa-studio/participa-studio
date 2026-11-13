@@ -28,6 +28,9 @@ photos:
 - caption: The boat's document binders, with the crest on every spine
   src: /images/cases/red-seal-binders.jpg
   alt: Five red document binders on a boat shelf, each spine printed in yellow with the Red Seal crest and a label.
+- caption: The binder covers, crest and wordmark in yellow on red
+  src: /images/cases/red-seal-binder-covers.jpg
+  alt: Three red document binders held in hand, each cover printed in yellow with the Red Seal crest and wordmark.
 - caption: The doormat at the companionway
   src: /images/cases/red-seal-doormat.jpg
   alt: A red half-round doormat with the Red Seal crest and wordmark on the teak sole below the companionway.
