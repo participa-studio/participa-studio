@@ -10,7 +10,7 @@ cover_alt: 'A sandy shore in the shade of trees, with a red-roofed shelter and a
 order: 15
 summary: A community-led coastal school concept that led to ReFloat
 featured: false
-lead: An exploration of what a cooperative school on the coast could be, if the communities it serves held the decisions. Each step tested a different side of it. It stayed a concept, and its thinking now lives on in ReFloat.
+lead: An exploration of what a cooperative school on the coast could be, if the communities it serves held the decisions. Each step tested a different side of it. It stayed a concept, and its thinking now lives on in <a href="/lab/refloat/">ReFloat</a>.
 facts:
 - label: Type
   value: Concept, led to ReFloat and the Participa Studio principles
