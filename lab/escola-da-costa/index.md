@@ -21,10 +21,10 @@ facts:
 - label: My role
   value: Concept creation · Research · Presentation
 photos:
-- caption: Shore at Coroca, on the Arapiuns River, Pará, 2025 · Photo Bernardo vd Schepop
+- caption: Shore at Coroca, on the Arapiuns River, Pará, 2025
   src: /images/cases/escola-da-costa/escola-da-costa-coroca-shore-2025.jpg
   alt: 'A sandy shore in the shade of trees, with a red-roofed shelter and a hammock, facing a wide calm river.'
-- caption: Community gathering at Coroca, on the Arapiuns River, Pará, 2025 · Photo Bernardo vd Schepop
+- caption: Community gathering at Coroca, on the Arapiuns River, Pará, 2025
   src: /images/cases/escola-da-costa/escola-da-costa-coroca-gathering-2025.jpg
   alt: About thirty people, adults and children, gathered around an open meeting shelter with a tiled roof, trees and a cloudy sky behind.
 - caption: Present state, 2025 · Made for the Designing for Change course, IDEO U
