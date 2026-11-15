@@ -2,7 +2,7 @@
 layout: work
 noindex: true
 title: Experiments
-heading: Selected open experiments
-intro: A few experiments I am proud of. Some are finished, most are still in progress, and all are open to feedback, reflections and people who would like to collaborate.
+heading: Here is a selection of non-commercial work in progress
+intro: "Everything here is an open work in progress: some pieces finished, most still in the making. Feedback, reflections and collaborators are welcome."
 empty: Experiments to follow.
 ---
