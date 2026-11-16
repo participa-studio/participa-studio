@@ -4,7 +4,7 @@ noindex: true
 title: SEED — An open toolkit for community-led projects
 short_title: SEED
 org: semente.de
-years: 2022–2025
+years: 2022 – 2025
 cover: /images/cases/seed-interloop.jpg
 cover_alt: The Interloop diagram, three coloured arcs around a compost centre, with icons for seeds, soil, seedling, fruits and silo.
 order: 25
@@ -16,7 +16,7 @@ facts:
 - label: Type
   value: Open-source toolkit
 - label: Year
-  value: 2022–2025
+  value: 2022 – 2025
 - label: With
   value: Felipe Schmidt Fonseca; Instituto Neos, Gaiato
 - label: My role
@@ -48,5 +48,5 @@ video:
   caption: 'semente, an introduction, in Brazilian Portuguese. Video by Felipe Schmidt Fonseca, [semente.de](https://semente.de/).'
 challenge: 'Most project tools assume a straight line: a start, a plan, a delivery. Community projects rarely work that way. People join and leave, ideas are set aside and picked up again, and what one cycle produces becomes the start of the next. The design question was how to make a cyclical method readable at a glance, for groups with no design or planning background.'
 approach: 'The method, the Interloop, treats time as a spiral, with three vectors of action (sowing, handling and regeneration) and five base elements (seed, soil, seedling, fruits and silo). The Compost Heap is the place to set things aside and return to them later. I drew the Interloop as three coloured arcs (blue for sowing, green for handling, red for regeneration) around a compost centre, with an icon for each element: a bag of seeds, a seedling, fruit and a silo. The card deck follows the same colours, with one set of prompt cards for each vector, plus compost cards and wildcards. The permaculture metaphor was there from the start, and the drawings follow it, so that the tool reaches across contexts without explanation.'
-outcome: 'I was part of the development from the first version. Version 0.1 was drafted in workshops during Tropixel Sementes 2022 at Instituto Neos, Ubatuba. Version 0.2 followed in 2023, and version 0.3, the current one, in 2024–25. In February 2025, a two-week residency with Gaiato in Ipiranguinha, Ubatuba, tested a streamlined version with the education team and a women’s sewing group. One result was moving the compost outside the three vectors, since it can act on any of them. I redesigned the diagram, the cards and the icons for every version. A return session at Neos then tested whether the Interloop could show possible cooperation between groups. In April 2025, I used SEED to frame the participatory process in my plans for Escola da Costa. The work was funded mainly through grants in partnership with the University of Bristol (Newton Fund, BDFI, ISPF).'
+outcome: 'I was part of the development from the first version. Version 0.1 was drafted in workshops during Tropixel Sementes 2022 at Instituto Neos, Ubatuba. Version 0.2 followed in 2023, and version 0.3, the current one, in 2024 – 2025. In February 2025, a two-week residency with Gaiato in Ipiranguinha, Ubatuba, tested a streamlined version with the education team and a women’s sewing group. One result was moving the compost outside the three vectors, since it can act on any of them. I redesigned the diagram, the cards and the icons for every version. A return session at Neos then tested whether the Interloop could show possible cooperation between groups. In April 2025, I used SEED to frame the participatory process in my plans for Escola da Costa. The work was funded mainly through grants in partnership with the University of Bristol (Newton Fund, BDFI, ISPF).'
 ---

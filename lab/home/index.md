@@ -3,7 +3,7 @@ layout: home
 noindex: true
 title: Home
 statement: Designing for shared futures
-intro: Participa Studio is my space for participatory and social design, run in parallel with commercial work since 2022.
+intro: Participa Studio is my space for participatory and social design, run in parallel with my commercial work since 2022.
 actions:
 - title: Experiments
   url: /lab/projects/

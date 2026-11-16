@@ -4,18 +4,18 @@ noindex: true
 title: Red Seal — The identity for my steel boat
 short_title: Red Seal Branding
 org: Red Seal
-years: 2025–2026
+years: 2025 – 2026
 cover: /images/cases/red-seal-hull-build.jpg
-cover_alt: The steel hull in red primer on stands at the Kampen yard during her build, 1993–1996.
+cover_alt: The steel hull in red primer on stands at the Kampen yard during her build, 1993 – 1996.
 order: 20
 summary: The name, crest and storyline behind my Van de Stadt steel sailing boat, from myth to hull
 featured: true
-lead: 'Designing my way into ownership before it was real: the name, crest and applications for my sailboat, started before I found and bought her.'
+lead: 'Designing my way into ownership before it was real: the name, crest and applications for my sailing boat, started before I found and bought her.'
 facts:
 - label: Type
   value: Personal project
 - label: Year
-  value: 2025–2026
+  value: 2025 – 2026
 - label: My role
   value: Identity design · Naming · Storytelling
 photos:
@@ -38,8 +38,8 @@ photos:
   src: /images/cases/red-seal-burgee.jpg
   alt: A wine-red pennant with the white Red Seal crest and wordmark, flying from a boat's rigging next to courtesy flags.
 - src: /images/cases/red-seal-hull-build.jpg
-  caption: Self-build hull by Hermanus van Middelkoop, Kampen, the Netherlands, 1993–1996
-  alt: The steel hull in red primer on stands at the Kampen yard during her build, 1993–1996.
+  caption: Self-build hull by Hermanus van Middelkoop, Kampen, the Netherlands, 1993 – 1996
+  alt: The steel hull in red primer on stands at the Kampen yard during her build, 1993 – 1996.
 challenge: 'I had wanted my own sailing boat for over five years and visited boats for sale in Spain, Portugal and the Netherlands to learn what I wanted. An eight-day Arctic expedition to Svalbard in 2023 made my criteria clear: steel, suitable for short-handed sailing and homely below deck. The Van de Stadt Zeehond 36 went to the top of my list. Even with no boat in sight, as a designer I could not help giving shape to that sense of ownership. From August 2025, I wrote narratives, rated names and drafted a myth connecting my Brazilian roots with my Dutch history.'
 approach: 'I compared names on VHF clarity, international readability, heritage and personal meaning, and chose BearWolf: a polar bear for the north and a maned wolf (lobo-guará) for the south. I designed a crest and boat renderings around it. When I visited the boat I later bought, in February 2026, her own name took over. She was launched as SEAL, which is also what her design model''s name, Zeehond, means in Dutch. I kept the north–south idea, but the polar bear made way for a seal, and the maned wolf stayed for the south. SEAL needed an edge to make it distinct, so I added Red, taken from the wolf side of the myth: the guará and urucum, the red pigment from Brazil. The boat became Red Seal.'
 outcome: 'In May 2026, I redesigned the crest: a wolf profile with a seal head cut out of it, above three waves. I tested it against the bear-and-wolf version and the new mark held. I built the palette around wine red and sun yellow. The myth, <em>Between the Bear and the Wolf</em>, kept the original pair and already carried the name Red Seal; I recorded it in English and Portuguese. The crest is now on her burgees, beanies, document binders, doormat and engraved Van de Stadt design plate. The bow crest and hull lettering will follow at the April 2027 haul-out. Thanks to her builder, Hermanus van Middelkoop, and to her former owner, Holger Fuchs, who kept her and all her documents before passing her on to me.'

@@ -11,7 +11,7 @@ order: 10
 summary: Taking apart old boats, turning the work into education
 featured: true
 tag: ReFloat
-lead: 'What happens to pleasure boats at the end of their life? ReFloat is a planned makerspace, to be set up with nearby residents, that takes them apart, recovers their materials and turns the work into education. A future open social enterprise, which I initiated as a Participa Studio project.'
+lead: 'What happens to leisure boats at the end of their life? ReFloat is a planned makerspace, to be set up with nearby residents, that takes them apart, recovers their materials and turns the work into education. A future open social enterprise, which I initiated as a Participa Studio project.'
 facts:
 - label: Type
   value: Social enterprise, pre-seed
