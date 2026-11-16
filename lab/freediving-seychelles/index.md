@@ -39,7 +39,7 @@ photos:
   caption: Colour explorations next to the local clothing that inspired them, part of the culture Sophie admires
   alt: Photos of people in colourful Seychellois clothing beside ten versions of the Freediving Seychelles brand in blue, green, yellow, coral and purple.
 - src: /images/cases/freediving-seychelles-mockups.jpg
-  caption: The brand in use, simulated on beach flags, a shirt and flip-flops, next to the rays that inspired it
+  caption: Exploring applications, simulated on beach flags, a shirt and flip-flops
   alt: Lime-green beach flags, a white shirt printed with a spotted ray pattern and purple flip-flops with the brand, beside two photos of rays.
 challenge: 'Sophie Walsh grew up diving along the coasts of the Seychelles and became an AIDA freediving instructor. She was starting her own school: a local business teaching people to freedive, with an education drive that reaches children and teens, who learn water confidence alongside the value of a healthy ocean, from plastic pollution to overfishing. She asked for a brand that could carry the business, the teaching and the activism.'
 approach: I was training freediving with her at the time. After exploring different directions from nature, we landed on the spotted eagle ray (<em>Aetobatus ocellatus</em>), common in the region, and its spots became the dots of the brand. Once we had decided on the general shape, we explored a palette together that reflects the local culture Sophie admires and cherishes. We worked it out together over email and WhatsApp, in a long and rich exchange, until we reached a brand she recognised as hers. I then simulated how it would live in use, on beach flags, shirts and flip-flops.
