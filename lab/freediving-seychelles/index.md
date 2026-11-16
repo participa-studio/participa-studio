@@ -36,7 +36,7 @@ photos:
   caption: Explorations of the brand, built on the ray and its spots
   alt: 'A spotted ray silhouette above four versions of the Freediving Seychelles brand, each a drop shape with a dot and a pattern of circles.'
 - src: /images/cases/freediving-seychelles-palette.jpg
-  caption: Colour explorations next to the local clothing that inspired them, part of the culture Sophie admires
+  caption: Colour explorations next to the local clothing that inspired them
   alt: Photos of people in colourful Seychellois clothing beside ten versions of the Freediving Seychelles brand in blue, green, yellow, coral and purple.
 - src: /images/cases/freediving-seychelles-mockups.jpg
   caption: Exploring applications, simulated on beach flags, a shirt and flip-flops
