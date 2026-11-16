@@ -30,7 +30,7 @@ photos:
 - src: /images/cases/freediving-seychelles-logo.jpg
   caption: The brand, still in use by the school
 - src: /images/cases/freediving-seychelles-ray.jpg
-  caption: Starting from local fauna, the spotted eagle ray (Aetobatus ocellatus) came to the front of the brand
+  caption: Local fauna as the starting point brought the spotted eagle ray (Aetobatus ocellatus) to the front of the brand work
   alt: A spotted eagle ray seen from above on a sandy seabed, with white dots of different sizes drawn along one wing.
 - src: /images/cases/freediving-seychelles-explorations.jpg
   caption: Explorations of the brand, built on the ray and its spots
