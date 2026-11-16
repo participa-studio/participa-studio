@@ -28,7 +28,7 @@ facts:
   value: Reference photos in the mood boards belong to their owners.
 photos:
 - src: /images/cases/freediving-seychelles-logo.jpg
-  caption: The brand, still in use by the school
+  caption: The final nature-inspired brand, in use by the school since 2021
 - src: /images/cases/freediving-seychelles-ray.jpg
   caption: Local fauna as the starting point brought the spotted eagle ray (Aetobatus ocellatus) to the front of the brand work
   alt: A spotted eagle ray seen from above on a sandy seabed, with white dots of different sizes drawn along one wing.
