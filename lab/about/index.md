@@ -3,8 +3,8 @@ layout: about
 noindex: true
 title: About
 heading: '.studio: design lab'
-intro: 'For years, collaborative, community-driven work sat at the edges of my practice, in volunteering, alongside my commercial work. Participa Studio brings that drive closer to the centre of what I do. It is where I investigate how design can serve the common good: methods for co-creation, models for shared ownership, and work done side by side with communities.'
-practice: A practice for participatory and social design that has long run alongside my commercial work, and since 2022 has taken shape as .studio. It explores methods such as [SEED](/lab/seed/), with its Interloop visual framework, testing how communities can co-create social and environmental change. Some pieces are finished; others are still in progress.
+intro: 'For years, collaborative, community-driven work sat at the margins of what I do, in volunteering. In 2022 it became official with the creation of Participa Studio, and since then it has run in parallel with my commercial work.'
+practice: 'Here is where I investigate how design can serve the common good: methods for co-creation, models for shared ownership, and projects shaped with the people they serve. One example is [SEED](/lab/seed/), with its Interloop visual framework, which tests how local groups can co-create social and environmental change. Some pieces are finished; others are still in progress.'
 practice_links:
 - title: Experiments
   url: /lab/projects/
@@ -13,7 +13,7 @@ practice_links:
 image: /images/about-workshop.jpg
 image_caption: SEED workshop pilot at Gaiato in Ubatuba, 2025
 image_alt: 'A workshop in front of a painted wall: six people stand at a large paper sheet with a circle drawn on it, adding sticky notes.'
-throughline: 'Participa: Good design is made <mark>with</mark> people, <mark>with</mark> neighbours, <mark>with</mark> communities and organisations, working side by side in sessions where everyone shapes the result. I use .studio to explore other ways to use my design skills.'
+throughline: 'Participa: Good design is made <mark>with</mark> people, <mark>with</mark> neighbours, <mark>with</mark> communities and organisations, working side by side in sessions where everyone shapes the result.'
 sides:
 - own: design
   name: Participa . Design
