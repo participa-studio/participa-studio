@@ -1,7 +1,7 @@
 ---
 layout: case
 noindex: true
-title: Red Seal — The identity for a steel boat
+title: Red Seal — The identity for my steel boat
 short_title: Red Seal Branding
 org: Red Seal
 years: 2025–2026
