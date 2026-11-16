@@ -30,7 +30,7 @@ photos:
 - src: /images/cases/freediving-seychelles-logo.jpg
   caption: The brand, still in use by the school
 - src: /images/cases/freediving-seychelles-ray.jpg
-  caption: 'The starting point, a spotted eagle ray (<em>Aetobatus ocellatus</em>), common in the region, with the dots of the brand traced along its wing'
+  caption: The starting point, a spotted eagle ray (Aetobatus ocellatus), common in the region, with the dots of the brand traced along its wing
   alt: A spotted eagle ray seen from above on a sandy seabed, with white dots of different sizes drawn along one wing.
 - src: /images/cases/freediving-seychelles-explorations.jpg
   caption: Explorations of the brand, built on the ray and its spots
