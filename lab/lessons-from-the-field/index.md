@@ -6,8 +6,8 @@ short_title: Lessons from the field
 org: Participa Studio
 years: 2026, ongoing
 date: 2026-10-03
-cover: /images/cases/lessons-from-the-field/bluecity-entrance-sign.jpg
-cover_alt: 'The entrance sign of BlueCity in Rotterdam, with the welcome text in Dutch and English, seen through glass.'
+cover: /images/cases/lessons-from-the-field/bluecity-hall.jpg
+cover_alt: 'The glass-roofed hall of BlueCity in Rotterdam, the former Tropicana swimming pool: an empty tiled pool floor, rock planters, a green water slide and white garden chairs.'
 order: 5
 summary: How beyond-profit places start, decide and last
 featured: true
@@ -23,8 +23,11 @@ facts:
 - label: My role
   value: Research · Interviews · Synthesis
 - label: Photos
-  value: Bernardo vd Schepop
+  value: Rotterdam Make It Happen (hall); Bernardo vd Schepop (entrance sign)
 photos:
+- src: /images/cases/lessons-from-the-field/bluecity-hall.jpg
+  caption: 'BlueCity, Rotterdam: the hall of the former Tropicana swimming pool · Photo Rotterdam Make It Happen'
+  alt: 'The glass-roofed hall of BlueCity in Rotterdam, the former Tropicana swimming pool: an empty tiled pool floor, rock planters, a green water slide and white garden chairs.'
 - src: /images/cases/lessons-from-the-field/bluecity-entrance-sign.jpg
   caption: 'Entrance sign at BlueCity, Rotterdam, one of the places studied · Photo Bernardo vd Schepop, November 2026'
   alt: 'The entrance sign of BlueCity in Rotterdam, with the welcome text in Dutch and English, seen through glass.'
