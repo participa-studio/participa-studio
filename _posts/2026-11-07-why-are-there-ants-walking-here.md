@@ -6,16 +6,16 @@ tags:
 - Participa
 - Design reflections
 published: true
-image: /images/blog/2026-11-07-ants-exact-3x2.png
-image_alt: 'The .studio home page on a phone, with small drawn ants walking around the .design logo.'
-image_caption: 'The .studio home page on a phone, with the ants'
+image: /images/blog/2026-11-21-ants-shraga-kopstein.jpg
+image_alt: 'A swarm of black ants crawling over a pale rock.'
+image_caption: 'Ants at work · Photo shraga kopstein / Unsplash'
 images:
-- src: /images/blog/2026-11-07-ants-exact-3x2.png
-  alt: 'The .studio home page on a phone, with small drawn ants walking around the .design logo.'
-  caption: 'The .studio home page on a phone, with the ants'
-- src: /images/blog/2026-11-21-spider-reflections.png
-  alt: 'A small drawn cellar spider hanging on her thread from the line above a post on the Reflections list.'
-  caption: 'The cellar spider on the Reflections list'
+- src: /images/blog/2026-11-21-ants-shraga-kopstein.jpg
+  alt: 'A swarm of black ants crawling over a pale rock.'
+  caption: 'Ants at work · Photo shraga kopstein / Unsplash'
+- src: /images/blog/2026-11-21-cellar-spider-filipe-resmini.jpg
+  alt: 'A cellar spider with a tiny pale body and very long thin legs, hanging in front of a light wall.'
+  caption: 'A cellar spider · Photo Filipe Resmini / Unsplash'
 ---
 <p>I wanted .studio to feel alive: something playful that recalled movement in nature. It started as a few moving dots. Round after round, they became small drawn ants, coming out of the logo and wandering across the home page, sometimes alone, sometimes in a trail or a swarm. Then a spider moved in: a cellar spider, the thin, long-legged kind that shares our homes in Europe.</p>
 <p>A site without anything moving through it is a showroom. With ants and a spider, it becomes a small ecosystem, and that is how I see .studio: a place where things are tested, carried and shared.</p>
