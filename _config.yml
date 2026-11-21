@@ -23,7 +23,7 @@ defaults:
 
 participa:
   core: https://participa-studio.github.io/participa-core
-  version: 20261121-14          # raise this after every core change
+  version: 20261121-15          # raise this after every core change
   sdots: true                  # Studio hover: graded white dots over case images (11 Nov 2026; core js/sdots.js)
   reading: true               # reading option (21 Nov 2026; core css/reading.css, js/reading.js): cream menu block and lead, case panel, one-block ending
   divider: stars               # divider between text blocks: three stars at 60% (12 Nov 2026); .design keeps the loop
