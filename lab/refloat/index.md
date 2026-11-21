@@ -44,3 +44,38 @@ challenge: 'Images of old boat wrecks carry a certain melancholy, solitude, a se
 approach: 'The work grows in steps. It starts by scouting possible locations: the communities along the coast, the local government, the boats themselves and nearby schools. A first pilot tests the thinking with them; a first local makerspace is now being explored by the Sloterplas in Amsterdam, and Portugal and Brazil are also under study. What the pilot confirms becomes the business case for a first location, and the legal form follows from what that place needs. Once a site is in place, every object moves through five stages: raise awareness, collect, repair, transform, recycle; a boat that can still sail is kept sailing first. Four pillars carry the work: dismantling as an education platform, reuse and repurpose, learning through work for trainees far from the labour market, and responsible disposal with a certificate for the owner. On the R-ladder of circular strategies, the work sits on repair, refurbish and repurpose.'
 outcome: 'ReFloat is a work in progress. On 10 September 2026, after a conversation with fellow sailors at the Floating Stories Lab booth in Lorient, I drafted the first concept and business plan with the <a href="/lab/social-enterprise-canvas/">Social Enterprise Canvas</a>; on 2 November 2026 I published the concept openly on <a href="https://refloat.earth/">refloat.earth</a>. It exists as a first iteration of a business plan. The next steps test it on the ground, with interviews around a first location, so that a solid, tested business plan is in place by July 2027. Milestones on the way: conversations with a host makerspace and a pilot marina, a first awareness session open to neighbours, a theory of change before any metric, and a go or no-go decision on location and legal form. Income is expected from the shop, sessions for schools and organisations, and fees for boat removal; how it is shared is still to be decided. First measures to test: kilograms kept from waste, parts reused, products made, trainees placed, certified disposals, pupils reached and cases published. The aim is for ReFloat to be governed with its community.'
 ---
+<!-- PILOT (21 Nov 2026), on this page only: reading panel and lead marker.
+     Remove this block to return to the shared case look. -->
+<style>
+  /* Lead: a cream band behind each line, the caption colour */
+  .case__lead.page__opening {
+    display: inline;
+    background: #FBF3C3;
+    padding: 0.08em 0.3em;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    line-height: 1.6;
+  }
+  .case__lead-wrap { max-width: 40rem; margin: var(--space-3) 0 0; }
+  /* Menu: the same cream behind the current section, instead of white */
+  .site-header__current,
+  .site-header__nav a.is-section { background: #FBF3C3; }
+  /* Panel: 40% white, from the divider under the facts to the divider above the end facts */
+  .case__facts:not(.case__facts--end) { margin-bottom: 0; }
+  .case__panel { --pp: var(--space-4); background: rgba(255, 255, 255, 0.4); padding: var(--space-6) var(--pp); }
+  .case__panel .slider { margin: calc(-1 * var(--space-6)) calc(-1 * var(--pp)) 0; width: auto; max-width: none; }
+  .case__facts--end { margin-top: 0; }
+  @media (max-width: 720px) { .case__panel { --pp: var(--space-2); } }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var top = document.querySelector('.case__facts:not(.case__facts--end)');
+    var end = document.querySelector('.case__facts--end');
+    var lead = document.querySelector('.case__lead');
+    if (lead) { var w = document.createElement('div'); w.className = 'case__lead-wrap'; lead.before(w); w.appendChild(lead); }
+    if (!top || !end) return;
+    var panel = document.createElement('div'); panel.className = 'case__panel';
+    while (top.nextElementSibling && top.nextElementSibling !== end) panel.appendChild(top.nextElementSibling);
+    top.after(panel);
+  });
+</script>
