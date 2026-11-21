@@ -23,7 +23,7 @@ facts:
 - label: My role
   value: Research · Interviews · Synthesis
 - label: Photos
-  value: Rotterdam Make It Happen (hall); Bernardo vd Schepop (entrance sign)
+  value: Rotterdam Make It Happen (BlueCity hall); Bernardo vd Schepop (BlueCity sign); © Buurtwerkplaats Noorderhof (gate)
 photos:
 - src: /images/cases/lessons-from-the-field/bluecity-hall.jpg
   caption: 'BlueCity, Rotterdam: the hall of the former Tropicana swimming pool · Photo Rotterdam Make It Happen'
@@ -31,6 +31,10 @@ photos:
 - src: /images/cases/lessons-from-the-field/bluecity-entrance-sign.jpg
   caption: 'Entrance sign at BlueCity, Rotterdam, one of the places studied · Photo Bernardo vd Schepop, November 2026'
   alt: 'The entrance sign of BlueCity in Rotterdam, with the welcome text in Dutch and English, seen through glass.'
+- src: /images/cases/lessons-from-the-field/noorderhof-gate.jpg
+  fit: true
+  caption: 'The gate of Buurtwerkplaats Noorderhof, one of the places studied · © Buurtwerkplaats Noorderhof'
+  alt: 'A metal gate under a hammer-shaped sign reading Noorderhof, with workshop sheds and a gravel path behind.'
 references_label: Builds on
 references:
 - title: Governing the Commons
