@@ -13,9 +13,9 @@ images:
 - src: /images/blog/2026-11-21-ants-shraga-kopstein.jpg
   alt: 'A swarm of black ants crawling over a pale rock.'
   caption: 'Ants at work · Photo shraga kopstein / Unsplash'
-- src: /images/blog/2026-11-21-cellar-spider-filipe-resmini.jpg
-  alt: 'A cellar spider with a tiny pale body and very long thin legs, hanging in front of a light wall.'
-  caption: 'A cellar spider · Photo Filipe Resmini / Unsplash'
+- src: /images/blog/2026-11-21-cellar-spider-jose-ortega-castro.jpg
+  alt: 'A cellar spider with a small speckled body and very long thin banded legs, on a pale surface.'
+  caption: 'A cellar spider · Photo Jose G. Ortega Castro / Unsplash'
 ---
 <p>I wanted .studio to feel alive: something playful that recalled movement in nature. It started as a few moving dots. Round after round, they became small drawn ants, coming out of the logo and wandering across the home page, sometimes alone, sometimes in a trail or a swarm. Then a spider moved in: a cellar spider, the thin, long-legged kind that shares our homes in Europe.</p>
 <p>A site without anything moving through it is a showroom. With ants and a spider, it becomes a small ecosystem, and that is how I see .studio: a place where things are tested, carried and shared.</p>
