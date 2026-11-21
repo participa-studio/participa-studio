@@ -6,7 +6,7 @@ short_title: 321CODE
 org: Startup Weekend Amsterdam
 years: '2013'
 cover: /images/cases/321code/cover.jpg
-cover_alt: 'The 321CODE title slide: three white animal heads above the word CODE in pink, on yellow.'
+cover_alt: 'The 321CODE title slide: three white animal heads above the word CODE in pink, on light blue.'
 order: 60
 summary: A concept for children to learn code through play
 featured: false
@@ -25,7 +25,7 @@ facts:
 photos:
 - caption: The opening slide of the final pitch, 7 July 2013
   src: /images/cases/321code/cover.jpg
-  alt: 'The 321CODE title slide: three white animal heads above the word CODE in pink, on yellow.'
+  alt: 'The 321CODE title slide: three white animal heads above the word CODE in pink, on light blue.'
 - caption: The coding screen in motion, animated in 2026 from the original storyboard
   src: /images/cases/321code/storyboard-animation.webp
   alt: 'Animation: a white dog stands still; a timer is dragged to 35 seconds and, on play, the dog runs.'
