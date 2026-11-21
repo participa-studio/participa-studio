@@ -23,7 +23,7 @@ facts:
 - label: My role
   value: Research · Interviews · Synthesis
 - label: Photos
-  value: Rotterdam Make It Happen (BlueCity hall); Bernardo vd Schepop (BlueCity sign); © Buurtwerkplaats Noorderhof (gate and workshop); © Post-Office (room)
+  value: Rotterdam Make It Happen (BlueCity hall); Bernardo vd Schepop (BlueCity sign); © Buurtwerkplaats Noorderhof (gate and workshop); © p-o.space (room)
 photos:
 - src: /images/cases/lessons-from-the-field/bluecity-hall.jpg
   caption: 'BlueCity, Rotterdam: the hall of the former Tropicana swimming pool · Photo Rotterdam Make It Happen'
@@ -40,7 +40,7 @@ photos:
   caption: 'Inside Buurtwerkplaats Noorderhof: the hammer sign, hanging plants and a blue hand · © Buurtwerkplaats Noorderhof'
   alt: 'A hammer-shaped sign reading Buurtwerkplaats on a wooden wall, above two hanging plants in knotted holders and a large blue outline of a hand.'
 - src: /images/cases/lessons-from-the-field/post-office-space.webp
-  caption: 'Post-Office (P-O), a registered cooperative on the Hoofdweg, Amsterdam: the room with its curtains · © Post-Office'
+  caption: 'Post-Office (P-O), a registered cooperative on the Hoofdweg, Amsterdam: the room with its curtains · © p-o.space'
   alt: 'An animated view of an empty room with dark blue curtains hanging from curved ceiling rails and a pale concrete floor.'
 references_label: Sources
 references:
