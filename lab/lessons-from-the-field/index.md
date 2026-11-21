@@ -23,7 +23,7 @@ facts:
 - label: My role
   value: Research · Interviews · Synthesis
 - label: Photos
-  value: © Buurtwerkplaats Noorderhof (gate and workshop); © p-o.space (room)
+  value: © Buurtwerkplaats Noorderhof (gate and workshop); Bernardo vd Schepop (De Sering); © p-o.space (room)
 photos:
 - src: /images/cases/lessons-from-the-field/noorderhof-gate.jpg
   caption: 'The gate of Buurtwerkplaats Noorderhof, one of the places studied · © Buurtwerkplaats Noorderhof'
@@ -31,6 +31,12 @@ photos:
 - src: /images/cases/lessons-from-the-field/noorderhof-workshop-sign.jpg
   caption: 'Inside Buurtwerkplaats Noorderhof: the hammer sign, hanging plants and a blue hand · © Buurtwerkplaats Noorderhof'
   alt: 'A hammer-shaped sign reading Buurtwerkplaats on a wooden wall, above two hanging plants in knotted holders and a large blue outline of a hand.'
+- src: /images/cases/lessons-from-the-field/de-sering-prep.jpg
+  caption: 'Kitchen prep at De Sering Centraal, Amsterdam: coriander and spring onions · Photo Bernardo vd Schepop, July 2026'
+  alt: 'A wooden kitchen counter with a blue crate of packed coriander, a steel tray of chopped spring onions and a green cutting board with a knife.'
+- src: /images/cases/lessons-from-the-field/de-sering-labels.jpg
+  caption: 'Prepared herbs, labelled and dated, at De Sering Centraal · Photo Bernardo vd Schepop, July 2026'
+  alt: 'A stack of clear tubs of chopped coriander and scallions, each with a hand-written tape label dated 28.07.26, in a large kitchen.'
 - src: /images/cases/lessons-from-the-field/post-office-space.webp
   caption: 'Post-Office (P-O), a registered cooperative on the Hoofdweg, Amsterdam: the room with its curtains · © p-o.space'
   alt: 'An animated view of an empty room with dark blue curtains hanging from curved ceiling rails and a pale concrete floor.'
