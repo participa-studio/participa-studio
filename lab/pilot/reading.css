@@ -1,0 +1,65 @@
+/* PILOT (21 Nov 2026): reading panel and streamlined case ending.
+   Loaded only by pages that link to it (ReFloat, Social Enterprise Canvas).
+   If it holds, it moves into participa-core as an option. */
+
+/* Menu: the current section on a cream block, the caption colour, instead of white */
+.site-header__current,
+.site-header__nav a.is-section { background: #FBF3C3; }
+
+/* Lead: a cream band behind each line */
+.case__lead-wrap { max-width: 40rem; margin: var(--space-3) 0 0; }
+.case__lead.page__opening {
+  display: inline;
+  margin: 0;
+  background: #FBF3C3;
+  padding: 0.08em 0.3em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  line-height: 1.6;
+}
+
+/* Top facts: no orphan. 4 facts: four in a row, two by two below 1024 px. 3 facts: three in a row, stacked on small phones. */
+.case__facts:not(.case__facts--end) { margin-bottom: 0; }
+.case__facts:not(.case__facts--end):has(> div:nth-child(4)) { grid-template-columns: repeat(4, 1fr); }
+.case__facts:not(.case__facts--end):not(:has(> div:nth-child(4))) { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 1024px) {
+  .case__facts:not(.case__facts--end):has(> div:nth-child(4)) { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .case__facts:not(.case__facts--end):not(:has(> div:nth-child(4))) { grid-template-columns: 1fr; }
+}
+
+/* Panel: 40% white, framed by two lines: the divider under the facts and its own line at the bottom. Photos run edge to edge. */
+.case__panel { --pp: var(--space-4); background: rgba(255, 255, 255, 0.4); padding: var(--space-6) var(--pp); border-bottom: 1px solid var(--colour-ink); }
+.case__panel > .slider,
+.case__panel > .case__video { margin: calc(-1 * var(--space-6)) calc(-1 * var(--pp)) 0; width: auto; max-width: none; }
+.case__panel > .slider + .case__video,
+.case__panel > .case__video + .slider { margin-top: var(--space-4); }
+.case__panel > .case__quote { margin-bottom: 0; }
+@media (max-width: 720px) { .case__panel { --pp: var(--space-2); } }
+
+/* Lists after the panel (Reflections, Artefacts, References): a label, a line under it,
+   a line between rows, no closing line; the next label marks the change of content type. */
+.case__after > section { margin-top: var(--space-6); }
+.case__after .case__artefacts ul,
+.case__after .blog__list { border-bottom: 0; }
+.case__after .case__writing h2 { margin: 0 0 var(--space-2); }
+
+/* Colophon (Link, Licence, Photos): label and text on one line each, a line above and a line below */
+.case__facts--end {
+  display: grid;
+  grid-template-columns: 7rem 1fr;
+  gap: 0.5rem var(--space-3);
+  margin-top: var(--space-6);
+  padding: var(--space-3) 0;
+  border-top: 1px solid var(--colour-ink);
+  border-bottom: 1px solid var(--colour-ink);
+}
+.case__panel + .case__facts--end { margin-top: 0; border-top: 0; }   /* shares the panel's bottom line */
+.case__facts--end div { display: contents; }
+.case__facts--end dt { padding-top: 0.2em; }
+.case__facts--end dd { margin: 0; font-size: 0.875rem; }
+@media (max-width: 720px) {
+  .case__facts--end { grid-template-columns: 1fr; gap: 0.25rem; }
+  .case__facts--end dd { margin-bottom: 0.5rem; }
+}
