@@ -50,7 +50,10 @@ document.addEventListener('DOMContentLoaded', function () {
         a ? { target: a.getAttribute('target'), rel: a.getAttribute('rel'), download: a.hasAttribute('download') ? '' : null } : null);
     });
     var h = sec.querySelector('h2');
-    group(h ? h.textContent.trim() : pair[1], rows); sec.remove();
+    var label = h ? h.textContent.trim() : pair[1];
+    var custom = document.querySelector('meta[name="pilot-references-label"]');
+    if (pair[1] === 'References' && custom) label = custom.getAttribute('content');
+    group(label, rows); sec.remove();
   });
   var end = pick('.case__facts--end');
   if (end) {

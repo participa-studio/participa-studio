@@ -38,6 +38,9 @@ artefacts:
   url: https://miro.com/miroverse/social-enterprise-canvas
   format: Miroverse
 references:
+- title: Business Model Canvas
+  source: Strategyzer
+  url: https://www.strategyzer.com/library/the-business-model-canvas
 - title: Social Business Model Canvas
   source: Lang Center, Swarthmore College
   url: https://socialbusinessmodelcanvas.swarthmore.edu/
@@ -45,5 +48,6 @@ challenge: 'The standard business model canvas centres on return on investment (
 approach: 'The canvas adapts the Social Business Model Canvas from the Social Innovation Lab at Swarthmore College, itself built on Strategyzer’s Business Model Canvas, and borrows Externalities from the SE Canvas by Full Circle Competition. Its fields: key partnerships, key activities, key people and resources, cost structure, a value proposition split into social and regenerative value, relationships, channels, key metrics, financial sustainability, beneficiaries and customers as separate segments, externalities (positive, negative, PESTEL), surplus and funding. The aim is one visual overview that holds social, environmental and financial value side by side, including the effects the enterprise has outside itself.'
 outcome: 'I published a first version as a free template on Miroverse, where it has been used 52 times and viewed 1,100 times (November 2026). In 2024 and 2025 I piloted it one to one with two organisations in Brazil, in Ubatuba and in Alter do Chão. In the Amazon, the session explored an enterprise in which decentralised Indigenous communities would share knowledge, grow seedlings and store seeds of native species locally, under a shared brand. In September 2026 I used it again to draft the first concept and business plan of <a href="/lab/refloat/">ReFloat</a>.'
 ---
+<meta name="pilot-references-label" content="Builds on">
 <link rel="stylesheet" href="/lab/pilot/reading.css">
 <script src="/lab/pilot/reading.js"></script>
