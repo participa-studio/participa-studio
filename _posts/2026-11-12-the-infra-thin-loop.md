@@ -8,6 +8,7 @@ tags:
 published: true
 image: /images/blog/2026-11-12-the-infra-thin-loop-sketch.jpg
 image_alt: A pencil 8 drawn in many overlapping loops on white paper.
+image_caption: 'The first sketch of the loop, photographed from the page of the book'
 ---
 <figure class="quote">
   <blockquote><p lang="fr">« les gens qui passent au tout dernier moment »</p></blockquote>
