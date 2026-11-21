@@ -17,7 +17,7 @@ facts:
 - label: Year
   value: 2025 – 2026
 - label: With
-  value: The daughters of a good friend, who helped draw and think up the crest
+  value: The daughters of a good friend, with their keen eye for detail
 - label: My role
   value: Identity design · Naming · Storytelling
 photos:
