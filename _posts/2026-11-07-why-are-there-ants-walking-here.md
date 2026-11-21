@@ -6,7 +6,7 @@ tags:
 - Participa
 - Design reflections
 published: true
-image: /images/blog/2026-11-07-ants-exact.png
+image: /images/blog/2026-11-07-ants-exact-3x2.png
 image_alt: 'The .studio home page on a phone, with small drawn ants walking around the .design logo.'
 image_caption: 'The .studio home page on a phone, with the ants'
 ---
