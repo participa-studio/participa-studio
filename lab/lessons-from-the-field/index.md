@@ -26,11 +26,9 @@ facts:
   value: © Buurtwerkplaats Noorderhof (gate and workshop); © p-o.space (room)
 photos:
 - src: /images/cases/lessons-from-the-field/noorderhof-gate.jpg
-  fit: true
   caption: 'The gate of Buurtwerkplaats Noorderhof, one of the places studied · © Buurtwerkplaats Noorderhof'
   alt: 'A metal gate under a hammer-shaped sign reading Noorderhof, with workshop sheds and a gravel path behind.'
 - src: /images/cases/lessons-from-the-field/noorderhof-workshop-sign.jpg
-  fit: true
   caption: 'Inside Buurtwerkplaats Noorderhof: the hammer sign, hanging plants and a blue hand · © Buurtwerkplaats Noorderhof'
   alt: 'A hammer-shaped sign reading Buurtwerkplaats on a wooden wall, above two hanging plants in knotted holders and a large blue outline of a hand.'
 - src: /images/cases/lessons-from-the-field/post-office-space.webp
