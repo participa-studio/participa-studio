@@ -16,6 +16,8 @@ facts:
   value: Personal project
 - label: Year
   value: 2025 – 2026
+- label: With
+  value: The daughters of a good friend, who helped draw and think up the crest
 - label: My role
   value: Identity design · Naming · Storytelling
 photos:
