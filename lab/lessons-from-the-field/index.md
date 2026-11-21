@@ -6,8 +6,8 @@ short_title: Lessons from the field
 org: Participa Studio
 years: 2026, ongoing
 date: 2026-10-03
-cover: /images/cases/lessons-from-the-field/noorderhof-gate.jpg
-cover_alt: 'A metal gate under a hammer-shaped sign reading Noorderhof, with workshop sheds and a gravel path behind.'
+cover: /images/cases/lessons-from-the-field/noorderhof-workshop-sign.jpg
+cover_alt: 'A hammer-shaped sign reading Buurtwerkplaats on a wooden wall, above two hanging plants in knotted holders and a large blue outline of a hand.'
 order: 5
 summary: How beyond-profit places start, decide and last
 featured: true
@@ -25,15 +25,15 @@ facts:
 - label: Photos
   value: © Buurtwerkplaats Noorderhof (gate and workshop); Bernardo vd Schepop (Noorderhof workshop floor, De Sering); © p-o.space (room)
 photos:
+- src: /images/cases/lessons-from-the-field/noorderhof-workshop-sign.jpg
+  caption: 'Inside Buurtwerkplaats Noorderhof: the hammer sign, hanging plants and a blue hand · © Buurtwerkplaats Noorderhof'
+  alt: 'A hammer-shaped sign reading Buurtwerkplaats on a wooden wall, above two hanging plants in knotted holders and a large blue outline of a hand.'
 - src: /images/cases/lessons-from-the-field/noorderhof-gate.jpg
   caption: 'The gate of Buurtwerkplaats Noorderhof, one of the places studied · © Buurtwerkplaats Noorderhof'
   alt: 'A metal gate under a hammer-shaped sign reading Noorderhof, with workshop sheds and a gravel path behind.'
 - src: /images/cases/lessons-from-the-field/noorderhof-workshop-floor.jpg
   caption: 'The shared workshop at Buurtwerkplaats Noorderhof, Amsterdam · Photo Bernardo vd Schepop'
   alt: 'The shared workshop of Buurtwerkplaats Noorderhof: workbenches, a drill press, a band saw, a mitre saw and wooden crates on a worn floor under a timber roof.'
-- src: /images/cases/lessons-from-the-field/noorderhof-workshop-sign.jpg
-  caption: 'Inside Buurtwerkplaats Noorderhof: the hammer sign, hanging plants and a blue hand · © Buurtwerkplaats Noorderhof'
-  alt: 'A hammer-shaped sign reading Buurtwerkplaats on a wooden wall, above two hanging plants in knotted holders and a large blue outline of a hand.'
 - src: /images/cases/lessons-from-the-field/de-sering-prep.jpg
   caption: 'Kitchen prep at De Sering Centraal, Amsterdam: coriander and spring onions · Photo Bernardo vd Schepop, July 2026'
   alt: 'A wooden kitchen counter with a blue crate of packed coriander, a steel tray of chopped spring onions and a green cutting board with a knife.'
