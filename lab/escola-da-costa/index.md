@@ -20,6 +20,8 @@ facts:
   value: Felipe Schmidt Fonseca; Thiago Máximo
 - label: My role
   value: Concept creation · Research · Storytelling
+- label: Photos
+  value: Bernardo vd Schepop, Coroca, 2025; illustrations made for the IDEO U course
 photos:
 - caption: Shore at Coroca, on the Arapiuns River, Pará, 2025
   src: /images/cases/escola-da-costa/escola-da-costa-coroca-shore-2025.jpg
