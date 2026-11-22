@@ -17,6 +17,8 @@ facts:
   value: Open template
 - label: Year
   value: 2024, ongoing
+- label: With
+  value: Patricia Kalil, with the first pilot
 - label: My role
   value: Ideation · Research · Graphic design · Facilitation
 - label: Licence
