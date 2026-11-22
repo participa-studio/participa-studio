@@ -21,7 +21,7 @@ facts:
 - label: My role
   value: Concept co-creation · Interaction design · Storytelling
 - label: Licence
-  value: 'Shared ownership with the 321CODE team at Startup Weekend Amsterdam: Louise Vink, Myra Colis, Weining Hung, Ewa Jaroslawska, Rotem Rubnov, Georgij Šapkin and Bernardo van de Schepop.'
+  value: 'Shared ownership with the 321CODE team at Startup Weekend Amsterdam: Louise Vink, Myra Colis, Weining Hung, Ewa Jaroslawska, Rotem Rubnov, Georgij Šapkin and Bernardo vd Schepop.'
 photos:
 - caption: The opening slide of the final pitch, 7 July 2013
   src: /images/cases/321code/cover.jpg
