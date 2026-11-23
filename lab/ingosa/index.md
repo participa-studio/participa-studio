@@ -40,10 +40,6 @@ photos:
 - src: /images/cases/ingosa/ingosa-in-the-square.jpg
   caption: 'Body-storming: a pupil embodies her idea of how the area could change'
   alt: A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face.
-- src: /images/cases/ingosa/ingosa-photovoice.jpg
-  caption: The photovoice board, photos of Ingote with notes
-  alt: A sheet of paper on a wall with about twenty small photos of the neighbourhood and handwritten notes below them.
-  fit: true
 - src: /images/cases/ingosa/ingosa-walk-map.jpg
   caption: The walk-through map, annotated by hand
   alt: A printed aerial map of Ingote with arrows, sun symbols and handwritten notes in coloured marker.
