@@ -34,6 +34,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-map-with-children.jpg
   caption: Children of the local primary school around the map of Ingote
   alt: 'Children sit on the pavement around a printed aerial map of Ingote; one holds a camera, others hold markers.'
+- src: /images/cases/ingosa/ingosa-in-the-square.jpg
+  caption: 'Body-storming: a pupil embodies her idea of how the area could change'
+  alt: A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face.
 - src: /images/cases/ingosa/ingosa-photovoice.jpg
   caption: The photovoice board, photos of Ingote with notes
   alt: A sheet of paper on a wall with about twenty small photos of the neighbourhood and handwritten notes below them.
