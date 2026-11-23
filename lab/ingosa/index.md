@@ -23,11 +23,12 @@ facts:
 - label: Licence
   value: 'Made with URBiNAT partners; ask before reuse.'
 - label: Photos
-  value: Bernardo vd Schepop. Children's faces blurred. Slide in the opening photo by URBiNAT.
+  value: Bernardo vd Schepop. Children's faces blurred. Opening slide by URBiNAT.
 photos:
 - src: /images/cases/ingosa/ingosa-opening.jpg
-  caption: 'Opening of the CASA week: the URBiNAT co-creation and co-governance cycle'
-  alt: 'Three speakers at a table in front of a projected slide titled Co-creation, Co-governance, showing two circular diagrams: co-diagnostic, co-design, co-implementation and co-monitoring, and community residents, municipality, local organisations and champions.'
+  caption: "Opening of the CASA week: the URBiNAT co-creation and co-governance cycle · Slide by URBiNAT"
+  alt: "A projected slide titled Co-creation, Co-governance, with two circular diagrams: co-diagnostic, co-design, co-implementation and co-monitoring, and community residents, municipality, local organisations and champions."
+  fit: true
 - src: /images/cases/ingosa/ingosa-rope-bridge.jpg
   caption: Children of the local primary school in the park in Ingote
   alt: Children seen from behind crossing a wooden rope bridge between trees, towards a tree house.
