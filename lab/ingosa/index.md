@@ -28,6 +28,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-rope-bridge.jpg
   caption: Children of the local primary school in the park in Ingote
   alt: Children seen from behind crossing a wooden rope bridge between trees, towards a tree house.
+- src: /images/cases/ingosa/ingosa-co-creation-session.jpg
+  caption: Co-creation session with children, co-creating and body-storming in place
+  alt: 'Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers.'
 - src: /images/cases/ingosa/ingosa-photovoice.jpg
   caption: The photovoice board, photos of Ingote with notes
   alt: A sheet of paper on a wall with about twenty small photos of the neighbourhood and handwritten notes below them.
@@ -37,12 +40,7 @@ photos:
   alt: A printed aerial map of Ingote with arrows, sun symbols and handwritten notes in coloured marker.
 - src: /images/cases/ingosa/ingosa-co-diagnosis-map.jpg
   caption: Co-diagnosis notes on the map of Ingote
-  alt: A printed aerial map of Ingote with blue sticky notes placed on it.
-  fit: true
-- src: /images/cases/ingosa/ingosa-word-cloud.jpg
-  caption: Word cloud from the co-diagnosis
-  alt: 'A word cloud in the shape of a tree, with safety, trees, pool, hot and cars as the largest words.'
-  fit: true
+  alt: A printed aerial map of Ingote with blue sticky notes and handwritten notes placed on it.
 - src: /images/cases/ingosa/ingosa-first-visit.jpg
   caption: Ingote on the first visit, 6 July 2023
   alt: A roundabout with a grassy slope and a low white building on the hill behind it, under a clear sky.
