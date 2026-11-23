@@ -37,6 +37,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-validation-drawing.jpg
   caption: "co.Diagnostic: a pupil adds her ideas to the Visão do Futuro sheet"
   alt: "A girl seen from behind drawing on a large sheet on wooden pallets, beside a printed map of Ingote, next to a list of the main challenges."
+- src: /images/cases/ingosa/ingosa-co-validation.jpg
+  caption: "co.Diagnostic: co-validation with participants"
+  alt: "A large sheet of children's drawings titled Visão do Futuro beside a list of the main challenges validated with children and champions."
 - src: /images/cases/ingosa/ingosa-co-sketching-location.jpg
   caption: "Co-sketching on location with pupils imagining a desired future"
   alt: "Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers."
@@ -46,9 +49,6 @@ photos:
 - src: /images/cases/ingosa/ingosa-co-sketching.jpg
   caption: "Co-sketching the space and evaluating what can be improved"
   alt: "A drawing of the square between the blocks, covered in pink heart-shaped notes with drawings of trees, flowers, tomatoes, a slide, balls, sweets and a cat, and crossed-out cars and cigarettes."
-- src: /images/cases/ingosa/ingosa-co-validation.jpg
-  caption: "co.Diagnostic: co-validation with participants"
-  alt: "A large sheet of children's drawings titled Visão do Futuro beside a list of the main challenges validated with children and champions."
 - src: /images/cases/ingosa/ingosa-urbinat-phases.jpg
   caption: "URBiNAT phases: co-diagnostic, co-design, co-implementation and co-monitoring"
   alt: "A diagram of four diamonds in a row, labelled co.Diagnostic, co.Design, co.Implement and co.Monitoring, with a We are here marker in co.Design."
