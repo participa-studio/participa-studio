@@ -71,6 +71,14 @@ photos:
   caption: "co.Design master plan: Eatable Garden, Largo da Amizade, Leisure Field and Tactical Mobile Presence"
   alt: "An aerial map of Ingote with four numbered sites linked by dashed lines, each shown in an inset with the proposed intervention."
   fit: true
+- src: /images/cases/ingosa/ingosa-largo-da-amizade.jpg
+  caption: "co.Design, Largo da Amizade: the square before the research, reimagined with trees, play, benches and an open-air cinema"
+  alt: "A slide with an annotated aerial plan of the square and a visualisation of it with trees, planted borders, bicycles and children playing."
+  fit: true
+- src: /images/cases/ingosa/ingosa-tactical-mobile-presence.jpg
+  caption: "co.Design, Tactical Mobile Presence: a green route with a market, temporary events and a food van"
+  alt: "A slide with an annotated aerial plan of a strip along the main road and a visualisation of it with trees, a colourful crossing, market stalls, balloons and a food van."
+  fit: true
 references:
 - title: 'URBiNAT Summer School, 6–12 July 2023: The Recap'
   source: URBiNAT, 2023
