@@ -22,11 +22,19 @@ facts:
   value: Facilitation · Service design
 - label: Licence
   value: 'Made with URBiNAT partners; ask before reuse.'
-photos:
+photos:   # placeholders (23 Nov 2026): six workshop photos to test the slider dots; replace with INGOSA images
 - caption: 'Co-diagnosis in the Ingote neighbourhood: image to follow'
   src: /images/placeholders/placeholder-03.jpg
 - caption: 'The three new nature-based solutions: image to follow'
   src: /images/placeholders/placeholder-01.jpg
+- caption: 'Placeholder: image to follow'
+  src: /images/placeholders/placeholder-02.jpg
+- caption: 'Placeholder: image to follow'
+  src: /images/placeholders/placeholder-04.jpg
+- caption: 'Placeholder: image to follow'
+  src: /images/placeholders/placeholder-05.jpg
+- caption: 'Placeholder: image to follow'
+  src: /images/placeholders/placeholder-06.jpg
 challenge: URBiNAT works with citizens of social housing neighbourhoods to regenerate them with nature-based solutions (NBS), chosen and co-created from a shared catalogue. In Ingote, the question was how such solutions could also open social development pathways for the people who live there.
 approach: At the CASA-URBiNAT Interdisciplinary Summer School (University of Coimbra, Department of Architecture, 6–12 July 2023), part of the EU Horizon 2020 programme URBiNAT, I worked with designers and architects. Using the URBiNAT methodology and its NBS catalogue, I took part in co-diagnosis fieldwork in Ingote with researchers and residents, mapping the places where community ownership could grow.
 outcome: INGOSA, a collaborative prototype for social development in the neighbourhood, and three new nature-based solutions proposed for the URBiNAT catalogue. For me, it was first-hand confirmation that participatory design could serve social impact work with communities.
