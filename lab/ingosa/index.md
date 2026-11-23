@@ -47,7 +47,7 @@ photos:
   caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
   alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
 - src: /images/cases/ingosa/ingosa-co-sketching.jpg
-  caption: "Co-sketching the space and evaluating what can be improved"
+  caption: "Co-sketching and future-dreaming the space, and evaluating what can be improved"
   alt: "A drawing of the square between the blocks, covered in pink heart-shaped notes with drawings of trees, flowers, tomatoes, a slide, balls, sweets and a cat, and crossed-out cars and cigarettes."
 - src: /images/cases/ingosa/ingosa-urbinat-phases.jpg
   caption: "URBiNAT phases: co-diagnostic, co-design, co-implementation and co-monitoring"
