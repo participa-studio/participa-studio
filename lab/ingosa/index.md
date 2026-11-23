@@ -33,12 +33,12 @@ photos:
 - src: /images/cases/ingosa/ingosa-first-day.jpg
   caption: "First day: a play session with the co-creator pupils from the local school"
   alt: "Children seen from below crossing a wooden rope bridge to a tree house in the park."
-- src: /images/cases/ingosa/ingosa-codiagnostic-methodology.jpg
-  caption: "co.Diagnostic methodology: four ways of working with the children"
-  alt: "A diagram slide listing site visit, photovoice, walk-through and community workshops, and four activities with the number of children in each: Future Vision, Creative Hip-Hop, Co-sketching and Body Storming."
 - src: /images/cases/ingosa/ingosa-territory.jpg
   caption: "The territory: the social housing blocks of Ingote"
   alt: "An aerial view of Ingote with the social housing blocks outlined in white dots, labelled INGOTE."
+- src: /images/cases/ingosa/ingosa-codiagnostic-methodology.jpg
+  caption: "co.Diagnostic methodology: four ways of working with the children"
+  alt: "A diagram slide listing site visit, photovoice, walk-through and community workshops, and four activities with the number of children in each: Future Vision, Creative Hip-Hop, Co-sketching and Body Storming."
 - src: /images/cases/ingosa/ingosa-field-planning.jpg
   caption: "Field planning session with the ING.OSA team"
   alt: "Seen from above, the team around a long table covered with drawings, maps, sticky notes and printed slides."
