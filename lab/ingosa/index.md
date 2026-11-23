@@ -91,6 +91,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-largo-da-amizade.jpg
   caption: "co.Design, Largo da Amizade: the square before the research, reimagined with trees, play, benches and an open-air cinema"
   alt: "A slide with an annotated aerial plan of the square and a visualisation of it with trees, planted borders, bicycles and children playing."
+- src: /images/cases/ingosa/ingosa-leisure-field.jpg
+  caption: "co.Design, Leisure Field: the sports court opened up with trees, planters and movable stands"
+  alt: "A slide with an annotated aerial plan of a sports court between blocks and a visualisation of it with a basketball hoop, a mural, planters, wheeled wooden stands and a family walking in."
 - src: /images/cases/ingosa/ingosa-tactical-mobile-presence.jpg
   caption: "co.Design, Tactical Mobile Presence: a green route with a market, temporary events and a food van"
   alt: "A slide with an annotated aerial plan of a strip along the main road and a visualisation of it with trees, a colourful crossing, market stalls, balloons and a food van."
