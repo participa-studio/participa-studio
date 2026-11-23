@@ -40,6 +40,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-in-the-square.jpg
   caption: 'Body-storming: a pupil embodies her idea of how the area could change'
   alt: A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face.
+- src: /images/cases/ingosa/ingosa-children-ideas.jpg
+  caption: The children's ideas for the square, drawn and marked with hearts
+  alt: 'A large sheet of paper with a child's drawing of the square between the blocks, covered in pink heart-shaped notes with drawings of trees, balls, a slide and sweets, and more drawings of slides and paths to the right.'
 - src: /images/cases/ingosa/ingosa-walk-map.jpg
   caption: The walk-through map, annotated by hand
   alt: A printed aerial map of Ingote with arrows, sun symbols and handwritten notes in coloured marker.
