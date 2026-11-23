@@ -35,6 +35,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-local-diagnostic-notes.jpg
   caption: 'Plan of the co-creation day: three NBS to research with the children, Time Machine, Spatial Drawings and Music Vision'
   alt: 'A notebook page with a hand-drawn timeline titled Local diagnostic, listing photovoice, walk-through, time machine, spatial drawings, music vision and focus interview, with notes on 12 children aged 9 to 12.'
+- src: /images/cases/ingosa/ingosa-in-the-square.jpg
+  caption: 'Body-storming: a pupil embodies her idea of how the area could change'
+  alt: A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face.
 - src: /images/cases/ingosa/ingosa-co-creation-session.jpg
   caption: Co-creation session with children, co-creating and body-storming in place
   alt: 'Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers.'
@@ -44,9 +47,6 @@ photos:
 - src: /images/cases/ingosa/ingosa-children-evaluate-map.jpg
   caption: "The children evaluating the map for our intervention"
   alt: "A printed aerial map of Ingote with coloured areas and green and pink sticky notes drawn by children: trees, smiling and sad faces, and crossed-out rubbish."
-- src: /images/cases/ingosa/ingosa-in-the-square.jpg
-  caption: 'Body-storming: a pupil embodies her idea of how the area could change'
-  alt: A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face.
 - src: /images/cases/ingosa/ingosa-children-ideas.jpg
   caption: "Visão do Futuro (Time Machine): playing with drawing on the street floor where we wanted to envision a new future"
   alt: "A drawing of the square between the blocks, covered in pink heart-shaped notes with drawings of trees, flowers, tomatoes, a slide, balls, sweets and a cat, and crossed-out cars and cigarettes."
