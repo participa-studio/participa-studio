@@ -13,7 +13,7 @@ featured: true
 lead: A collaborative proposal, made with researchers and the pupils of a local primary school, exploring social development pathways for the Ingote neighbourhood in Coimbra, within the URBiNAT project on nature-based solutions.
 facts:
 - label: Type
-  value: "Participatory co-design<br>with children"
+  value: "Participatory co-design<br>with local children"
 - label: Year
   value: July 2023
 - label: With
