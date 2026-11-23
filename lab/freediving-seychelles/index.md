@@ -25,13 +25,13 @@ facts:
 - label: Licence
   value: The name and brand belong to Freediving Seychelles.
 - label: Photos
-  value: Reference photos in the mood boards belong to their owners.
+  value: Ornate eagle ray © Jean Marie Croguennec. Other reference photos in the mood boards belong to their owners.
 photos:
 - src: /images/cases/freediving-seychelles-logo.jpg
   caption: The final nature-inspired brand, in use by the school since 2021
 - src: /images/cases/freediving-seychelles-ray.jpg
-  caption: Local fauna as the starting point brought the spotted eagle ray (Aetobatus ocellatus) to the front of the brand work
-  alt: A spotted eagle ray seen from above on a sandy seabed, with white dots of different sizes drawn along one wing.
+  caption: 'Local fauna as the starting point brought the eagle ray to the front of the brand work; here an ornate eagle ray (Aetomylaeus vespertilio) · © Jean Marie Croguennec'
+  alt: An ornate eagle ray seen from above on a sandy seabed, its back marked with dark stripes and rings, with white dots of different sizes drawn along one wing.
 - src: /images/cases/freediving-seychelles-explorations.jpg
   caption: Explorations of the brand, built on the ray and its spots
   alt: 'A spotted ray silhouette above four versions of the Freediving Seychelles brand, each a drop shape with a dot and a pattern of circles.'
