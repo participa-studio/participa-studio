@@ -34,11 +34,15 @@ photos:
 - src: /images/cases/ingosa/ingosa-codiagnostic-timeline.jpg
   caption: "co.Diagnostic: a short history of Planalto do Ingote, 1940 to 2003"
   alt: "A timeline slide titled co.Diagnostic, Planalto do Ingote, with five dates: 1940, 1960, 1975 to 1980, 1993 and 2003, each with a short description."
-  fit: true
+- src: /images/cases/ingosa/ingosa-project-phases.jpg
+  caption: "URBiNAT project phases: co-diagnostic, co-design, co-implementation and co-monitoring, with the days of the summer school"
+  alt: "A diagram of four diamonds in a row, labelled co.Diagnostic, co.Design, co.Implement and co.Monitoring, with markers for days 1, 3, 5 and 6 and We are here."
+- src: /images/cases/ingosa/ingosa-codiagnostic-methodology.jpg
+  caption: "co.Diagnostic methodology: site visit, photovoice, walk-through and community workshops with the children"
+  alt: "A diagram slide listing site visit, photovoice, walk-through and community workshops, and four activities with the number of children in each."
 - src: /images/cases/ingosa/ingosa-co-creation-questions.jpg
   caption: "How the research would explore, on location, the future of the intervention: three questions for co-creation"
   alt: "An aerial map of Ingote with coloured areas and a green corridor linking three points, beside three questions in Portuguese for co-creation."
-  fit: true
 - src: /images/cases/ingosa/ingosa-square-before.jpg
   caption: "The square in Ingote before the intervention research · Image © Google Street View"
   alt: "A paved square between social housing blocks, with steps up a grassy slope, a tree, bollards and two parked cars."
@@ -60,29 +64,36 @@ photos:
 - src: /images/cases/ingosa/ingosa-children-evaluate-map.jpg
   caption: "The children evaluating the map for our intervention"
   alt: "A printed aerial map of Ingote with coloured areas and green and pink sticky notes drawn by children: trees, smiling and sad faces, and crossed-out rubbish."
+- src: /images/cases/ingosa/ingosa-validation-vision.jpg
+  caption: "Validation sessions: the Visão do Futuro sheet and the main challenges confirmed with children and champions"
+  alt: "A large sheet of children's drawings titled Visão do Futuro beside a list of the main challenges identified."
+- src: /images/cases/ingosa/ingosa-validation-drawing.jpg
+  caption: "Validation sessions: a pupil adds her ideas to the Visão do Futuro sheet"
+  alt: "A girl seen from behind drawing on a large sheet on wooden pallets, beside a printed map of Ingote."
+- src: /images/cases/ingosa/ingosa-validation-sketching.jpg
+  caption: "Validation sessions: co-sketching on the pavement"
+  alt: "A boy in a cap, face turned away, drawing with markers on a large sheet on the pavement."
+- src: /images/cases/ingosa/ingosa-validation-wall.jpg
+  caption: "Validation sessions: the children sketch along the wall with Ricardo Lopes"
+  alt: "Children sitting and standing along a long white wall, drawing on sheets of paper, with an adult in a white hat among them."
 - src: /images/cases/ingosa/ingosa-co-design-table.jpg
   caption: "Co-design in the studio: the team works the children's ideas into proposals"
   alt: "Seen from above, people around a long table covered with drawings, maps, sticky notes and printed slides."
 - src: /images/cases/ingosa/ingosa-diagnostic-to-design.jpg
   caption: "From co-diagnostic to co-design: how might we expand the qualities of the Bairros ConVida Park so that the whole planalto benefits"
   alt: "A diagram slide, from co.Diagnostic to co.Design, listing Future Vision, Creative Hip-Hop, Co-sketching and Body Storming, with a how-might-we question below."
-  fit: true
 - src: /images/cases/ingosa/ingosa-master-plan.jpg
   caption: "co.Design master plan: Eatable Garden, Largo da Amizade, Leisure Field and Tactical Mobile Presence"
   alt: "An aerial map of Ingote with four numbered sites linked by dashed lines, each shown in an inset with the proposed intervention."
-  fit: true
 - src: /images/cases/ingosa/ingosa-eatable-garden.jpg
   caption: "co.Design, Eatable Garden: a vegetable garden and green area by the school"
   alt: "A slide with an annotated aerial plan of the school grounds and a visualisation of a garden with vegetable beds, a sign reading Urban farm, a food van and people walking and cycling."
-  fit: true
 - src: /images/cases/ingosa/ingosa-largo-da-amizade.jpg
   caption: "co.Design, Largo da Amizade: the square before the research, reimagined with trees, play, benches and an open-air cinema"
   alt: "A slide with an annotated aerial plan of the square and a visualisation of it with trees, planted borders, bicycles and children playing."
-  fit: true
 - src: /images/cases/ingosa/ingosa-tactical-mobile-presence.jpg
   caption: "co.Design, Tactical Mobile Presence: a green route with a market, temporary events and a food van"
   alt: "A slide with an annotated aerial plan of a strip along the main road and a visualisation of it with trees, a colourful crossing, market stalls, balloons and a food van."
-  fit: true
 references:
 - title: 'URBiNAT Summer School, 6–12 July 2023: The Recap'
   source: URBiNAT, 2023
