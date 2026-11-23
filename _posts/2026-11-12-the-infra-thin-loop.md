@@ -1,7 +1,7 @@
 ---
 title: The infra-thin loop
 date: 2026-11-12
-lead: "The 8 on both Participa sites began as a scribble in the margin of a book about Duchamp's <em>Le Grand Verre</em>. It still holds the idea I took from it back then: design happens in the moment in between."
+lead: "The infinite loop on both Participa sites began as a scribble in the margin of a book about Duchamp's <em>Le Grand Verre</em>. It still holds the idea I took from it back then: design happens in the moment in between."
 tags:
 - Participa
 - Design reflections
