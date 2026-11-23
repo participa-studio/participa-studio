@@ -1,16 +1,16 @@
 ---
 layout: case
 noindex: true
-title: INGOSA — A social development prototype for Ingote, Coimbra
+title: INGOSA — A social development proposal for Ingote, Coimbra
 short_title: 'INGOSA: Ingote, Coimbra'
 org: URBiNAT, University of Coimbra
 years: '2023'
 cover: /images/cases/ingosa/ingosa-cover-title.jpg
 cover_alt: Children crossing a wooden rope bridge to a tree house in the park in Ingote, seen from below
 order: 40
-summary: A social development prototype for a Coimbra neighbourhood
+summary: A social development proposal for a Coimbra neighbourhood
 featured: true
-lead: A collaborative prototype, made with researchers and local communities, exploring social development pathways for the Ingote neighbourhood in Coimbra, within the URBiNAT project on nature-based solutions.
+lead: A collaborative proposal, made with researchers and local communities, exploring social development pathways for the Ingote neighbourhood in Coimbra, within the URBiNAT project on nature-based solutions.
 facts:
 - label: Type
   value: Summer school proposal
