@@ -5,8 +5,8 @@ title: INGOSA — A social development prototype for Ingote, Coimbra
 short_title: 'INGOSA: Ingote, Coimbra'
 org: URBiNAT, University of Coimbra
 years: '2023'
-cover: /images/placeholders/placeholder-03.jpg   # placeholder: replace before launch
-cover_alt: Placeholder image
+cover: /images/cases/ingosa/ingosa-rope-bridge.jpg
+cover_alt: Children crossing a wooden rope bridge between trees in the park in Ingote
 order: 40
 summary: A social development prototype for a Coimbra neighbourhood
 featured: true
@@ -22,19 +22,30 @@ facts:
   value: Design · Facilitation
 - label: Licence
   value: 'Made with URBiNAT partners; ask before reuse.'
-photos:   # placeholders (23 Nov 2026): six workshop photos to test the slider dots; replace with INGOSA images
-- caption: 'Co-diagnosis in the Ingote neighbourhood: image to follow'
-  src: /images/placeholders/placeholder-03.jpg
-- caption: 'The three new nature-based solutions: image to follow'
-  src: /images/placeholders/placeholder-01.jpg
-- caption: 'Placeholder: image to follow'
-  src: /images/placeholders/placeholder-02.jpg
-- caption: 'Placeholder: image to follow'
-  src: /images/placeholders/placeholder-04.jpg
-- caption: 'Placeholder: image to follow'
-  src: /images/placeholders/placeholder-05.jpg
-- caption: 'Placeholder: image to follow'
-  src: /images/placeholders/placeholder-06.jpg
+- label: Photos
+  value: The Ingote group, CASA-URBiNAT Healthy Home Summer School 2023, shared with permission. Faces blurred.
+photos:
+- src: /images/cases/ingosa/ingosa-rope-bridge.jpg
+  caption: Children of the local primary school in the park in Ingote
+  alt: Children seen from behind crossing a wooden rope bridge between trees, towards a tree house.
+- src: /images/cases/ingosa/ingosa-photovoice.jpg
+  caption: The photovoice board, photos of Ingote with notes
+  alt: A sheet of paper on a wall with about twenty small photos of the neighbourhood and handwritten notes below them.
+  fit: true
+- src: /images/cases/ingosa/ingosa-walk-map.jpg
+  caption: The walk-through map, annotated by hand
+  alt: A printed aerial map of Ingote with arrows, sun symbols and handwritten notes in coloured marker.
+- src: /images/cases/ingosa/ingosa-co-diagnosis-map.jpg
+  caption: Co-diagnosis notes on the map of Ingote
+  alt: A printed aerial map of Ingote with blue sticky notes placed on it.
+  fit: true
+- src: /images/cases/ingosa/ingosa-word-cloud.jpg
+  caption: Word cloud from the co-diagnosis
+  alt: 'A word cloud in the shape of a tree, with safety, trees, pool, hot and cars as the largest words.'
+  fit: true
+- src: /images/cases/ingosa/ingosa-first-visit.jpg
+  caption: Ingote on the first visit, 6 July 2023
+  alt: A roundabout with a grassy slope and a low white building on the hill behind it, under a clear sky.
 references:
 - title: 'URBiNAT Summer School, 6–12 July 2023: The Recap'
   source: URBiNAT, 2023
