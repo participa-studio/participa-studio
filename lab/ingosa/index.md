@@ -49,9 +49,6 @@ photos:
 - src: /images/cases/ingosa/ingosa-co-sketching-location.jpg
   caption: "Co-sketching on location with pupils imagining a desired future"
   alt: "Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers."
-- src: /images/cases/ingosa/ingosa-body-storming.jpg
-  caption: "Pupil body-storming her dream scenario, embodying the change on location"
-  alt: "A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face."
 - src: /images/cases/ingosa/ingosa-co-validation.jpg
   caption: "co.Diagnostic: co-validation with participants"
   alt: "A large sheet of children's drawings titled Visão do Futuro beside a list of the main challenges validated with children and champions."
