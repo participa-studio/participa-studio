@@ -52,6 +52,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-body-storming.jpg
   caption: "Pupil body-storming her dream scenario, embodying the change on location"
   alt: "A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face."
+- src: /images/cases/ingosa/ingosa-co-validation.jpg
+  caption: "co.Diagnostic: co-validation with participants"
+  alt: "A large sheet of children's drawings titled Visão do Futuro beside a list of the main challenges validated with children and champions."
 references:
 - title: 'URBiNAT Summer School, 6–12 July 2023: The Recap'
   source: URBiNAT, 2023
