@@ -19,7 +19,7 @@ facts:
 - label: With
   value: Team ING.OSA; pupils of the local primary school
 - label: My role
-  value: Co-Design · Co-Creation Session & Facilitation
+  value: "Co-Design · Co-Creation<br>Session & Facilitation"
 - label: Photos
   value: Bernardo vd Schepop; slides by team ING.OSA. Aerial imagery © Google.
 - label: Licence
