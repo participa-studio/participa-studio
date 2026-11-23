@@ -25,6 +25,9 @@ facts:
 - label: Photos
   value: Bernardo vd Schepop. Aerial and street imagery © Google.
 photos:
+- src: /images/cases/ingosa/ingosa-first-day.jpg
+  caption: "First day: a play session with the co-creator pupils from the local school"
+  alt: "Children seen from below crossing a wooden rope bridge to a tree house, under the title INGOTE and the URBiNAT band."
 - src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
   caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
   alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
