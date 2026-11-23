@@ -28,9 +28,6 @@ photos:
 - src: /images/cases/ingosa/ingosa-first-day.jpg
   caption: "First day: a play session with the co-creator pupils from the local school"
   alt: "Children seen from below crossing a wooden rope bridge to a tree house, under the title INGOTE and the URBiNAT band."
-- src: /images/cases/ingosa/ingosa-codiagnostic-history.jpg
-  caption: "co.Diagnostic: investigating the history of Planalto do Ingote"
-  alt: "A timeline slide titled co.Diagnostic, Planalto do Ingote, with five dates from 1940 to 2003, each with a short description."
 - src: /images/cases/ingosa/ingosa-territory.jpg
   caption: "co.Diagnostic: territory"
   alt: "An aerial view of Ingote with the social housing blocks outlined in white dots, labelled INGOTE."
