@@ -31,6 +31,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-co-creation-session.jpg
   caption: Co-creation session with children, co-creating and body-storming in place
   alt: 'Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers.'
+- src: /images/cases/ingosa/ingosa-map-with-children.jpg
+  caption: Children of the local primary school around the map of Ingote
+  alt: 'Children sit on the pavement around a printed aerial map of Ingote; one holds a camera, others hold markers.'
 - src: /images/cases/ingosa/ingosa-photovoice.jpg
   caption: The photovoice board, photos of Ingote with notes
   alt: A sheet of paper on a wall with about twenty small photos of the neighbourhood and handwritten notes below them.
