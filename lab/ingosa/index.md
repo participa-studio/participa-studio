@@ -31,6 +31,10 @@ photos:
 - src: /images/cases/ingosa/ingosa-bairro-sign.jpg
   caption: "Bairro António Sérgio in Ingote, on the first visit, 6 July 2023"
   alt: "A marble sign reading Bairro António Sérgio, 144 fogos, in a planted bed at a street corner, beside a trimmed conifer."
+- src: /images/cases/ingosa/ingosa-codiagnostic-timeline.jpg
+  caption: "co.Diagnostic: a short history of Planalto do Ingote, 1940 to 2003"
+  alt: "A timeline slide titled co.Diagnostic, Planalto do Ingote, with five dates: 1940, 1960, 1975 to 1980, 1993 and 2003, each with a short description."
+  fit: true
 - src: /images/cases/ingosa/ingosa-co-creation-questions.jpg
   caption: "How the research would explore, on location, the future of the intervention: three questions for co-creation"
   alt: "An aerial map of Ingote with coloured areas and a green corridor linking three points, beside three questions in Portuguese for co-creation."
