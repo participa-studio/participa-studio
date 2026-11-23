@@ -38,7 +38,6 @@ photos:
 - src: /images/cases/ingosa/ingosa-photovoice-boards.jpg
   caption: "Photovoice: the children's photos of Ingote sorted on diamond diagrams, with what they like, would like and do not like"
   alt: "Three paper boards titled Photovoice, Diamond diagram, with small photos of the neighbourhood and handwritten lists under I like, I would like and I do not like."
-  fit: true
 - src: /images/cases/ingosa/ingosa-local-diagnostic-notes.jpg
   caption: 'Plan of the co-creation day: three NBS to research with the children, Time Machine, Spatial Drawings and Music Vision'
   alt: 'A notebook page with a hand-drawn timeline titled Local diagnostic, listing photovoice, walk-through, time machine, spatial drawings, music vision and focus interview, with notes on 12 children aged 9 to 12.'
