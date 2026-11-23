@@ -71,6 +71,10 @@ photos:
   caption: "co.Design master plan: Eatable Garden, Largo da Amizade, Leisure Field and Tactical Mobile Presence"
   alt: "An aerial map of Ingote with four numbered sites linked by dashed lines, each shown in an inset with the proposed intervention."
   fit: true
+- src: /images/cases/ingosa/ingosa-eatable-garden.jpg
+  caption: "co.Design, Eatable Garden: a vegetable garden and green area by the school"
+  alt: "A slide with an annotated aerial plan of the school grounds and a visualisation of a garden with vegetable beds, a sign reading Urban farm, a food van and people walking and cycling."
+  fit: true
 - src: /images/cases/ingosa/ingosa-largo-da-amizade.jpg
   caption: "co.Design, Largo da Amizade: the square before the research, reimagined with trees, play, benches and an open-air cinema"
   alt: "A slide with an annotated aerial plan of the square and a visualisation of it with trees, planted borders, bicycles and children playing."
