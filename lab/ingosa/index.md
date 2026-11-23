@@ -10,14 +10,14 @@ cover_alt: Children crossing a wooden rope bridge to a tree house in the park in
 order: 40
 summary: A social development proposal for a Coimbra neighbourhood
 featured: true
-lead: A collaborative proposal, made with researchers and the pupils of a local primary school, exploring social development pathways for the Ingote neighbourhood in Coimbra, within the URBiNAT project on nature-based solutions.
+lead: A collaborative proposal, made with researchers and children from a local summer camp, exploring social development pathways for the Ingote neighbourhood in Coimbra, within the URBiNAT project on nature-based solutions.
 facts:
 - label: Type
   value: "Participatory co-design<br>with local children"
 - label: When
   value: CASA-URBiNAT Summer School, 6–12 July 2023
 - label: With
-  value: Team ING.OSA; pupils of the local primary school
+  value: Team ING.OSA; children from the local summer camp
 - label: My role
   value: "Co-Design · Co-Creation<br>Session & Facilitation"
 - label: Photos
@@ -31,7 +31,7 @@ ending:
   value: "Andrea Conserva, IAAC (IT); Marco Acri, UNG (SI); Rita Campos, CES (UC)."
 photos:
 - src: /images/cases/ingosa/ingosa-first-day.jpg
-  caption: "First day: a play session with the co-creator pupils from the local school"
+  caption: "First day: a play session with the co-creator children from the local summer camp"
   alt: "Children seen from below crossing a wooden rope bridge to a tree house in the park."
 - src: /images/cases/ingosa/ingosa-territory.jpg
   caption: "The territory: the social housing blocks of Ingote"
@@ -46,13 +46,13 @@ photos:
   caption: "Field planning session with the ING.OSA team"
   alt: "Seen from above, the team around a long table covered with drawings, maps, sticky notes and printed slides."
 - src: /images/cases/ingosa/ingosa-validation-drawing.jpg
-  caption: "A pupil adds her ideas to the Future Vision sheet (Visão do Futuro)"
+  caption: "A girl adds her ideas to the Future Vision sheet (Visão do Futuro)"
   alt: "A girl seen from behind drawing on a large sheet on wooden pallets, beside a printed map of Ingote, next to a list of the main challenges."
 - src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
   caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
   alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
 - src: /images/cases/ingosa/ingosa-co-sketching-location.jpg
-  caption: "Co-sketching on location with pupils imagining a desired future"
+  caption: "Co-sketching on location with children imagining a desired future"
   alt: "Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers."
 - src: /images/cases/ingosa/ingosa-co-sketching.jpg
   caption: "Co-sketching and future-dreaming the space, and evaluating what can be improved"
@@ -70,6 +70,6 @@ artefacts:
   file: /files/urbinat-nbs-catalogue.pdf
   format: PDF, 22 MB · Archived copy
 challenge: 'URBiNAT works with citizens of social housing neighbourhoods to regenerate them with nature-based solutions (NBS), chosen and co-created from a shared catalogue. In 2023 the brief was a healthy corridor in Eiras, on the edge of Coimbra, linking the social housing neighbourhoods of Relvinha, Ingote and Monte Formoso with the Choupal natural park. Each group took one area. In Ingote, the question was how such solutions could also open social development pathways for the people who live there.'
-approach: 'At the CASA-URBiNAT Healthy Home Summer School (University of Coimbra, 6 to 12 July 2023), part of the EU Horizon 2020 project URBiNAT, I was the designer of the Ingote group and facilitated its sessions. Three days of lectures, visits and local diagnosis led to three days of open studio co-design, at the pace of a startup weekend. While the architects and the urban planner in the team led the spatial assessments, I worked out the co-creation protocols with the team and then facilitated them with children from the local primary school. We used four methods: Future Vision, Creative Hip-Hop, co-sketching and body-storming. In the square, I asked the children to imagine how it would look if they could redesign everything. We brainstormed, acted and adjusted the research as the children responded. Using the URBiNAT methodology and its NBS catalogue, we also took part in co-diagnosis fieldwork with researchers and residents, and in co-validation sessions on location, mapping the places where community ownership could grow.'
+approach: 'At the CASA-URBiNAT Healthy Home Summer School (University of Coimbra, 6 to 12 July 2023), part of the EU Horizon 2020 project URBiNAT, I was the designer of the Ingote group and facilitated its sessions. Three days of lectures, visits and local diagnosis led to three days of open studio co-design, at the pace of a startup weekend. While the architects and the urban planner in the team led the spatial assessments, I worked out the co-creation protocols with the team and then facilitated them with children from the local summer camp. We used four methods: Future Vision, Creative Hip-Hop, co-sketching and body-storming. In the square, I asked the children to imagine how it would look if they could redesign everything. We brainstormed, acted and adjusted the research as the children responded. Using the URBiNAT methodology and its NBS catalogue, we also took part in co-diagnosis fieldwork with researchers and residents, and in co-validation sessions on location, mapping the places where community ownership could grow.'
 outcome: 'INGOSA proposed to take the Bairros ConVida Park, a project the school had already run with the national programme Bairros Saudáveis, to other associations in the public space of Ingote, through four sites: an Eatable Garden, the Largo da Amizade, a Leisure Field and a Tactical Mobile Presence. The proposal included five nature-based solutions across these sites, among them a new one for the URBiNAT catalogue: a Green Theatre in the Largo da Amizade for festivals, outdoor cinema and other local events. For me, it was first-hand confirmation that participatory design could serve social impact work with communities.'
 ---
