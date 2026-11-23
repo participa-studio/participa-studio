@@ -31,9 +31,6 @@ photos:
 - src: /images/cases/ingosa/ingosa-territory.jpg
   caption: "co.Diagnostic: territory"
   alt: "An aerial view of Ingote with the social housing blocks outlined in white dots, labelled INGOTE."
-- src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
-  caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
-  alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
 - src: /images/cases/ingosa/ingosa-field-planning.jpg
   caption: "Field planning session with the ING.OSA team"
   alt: "Seen from above, the team around a long table covered with drawings, maps, sticky notes and printed slides."
@@ -46,6 +43,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-co-sketching-location.jpg
   caption: "Co-sketching on location with pupils imagining a desired future"
   alt: "Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers."
+- src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
+  caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
+  alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
 - src: /images/cases/ingosa/ingosa-co-validation.jpg
   caption: "co.Diagnostic: co-validation with participants"
   alt: "A large sheet of children's drawings titled Visão do Futuro beside a list of the main challenges validated with children and champions."
