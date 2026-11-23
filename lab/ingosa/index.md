@@ -24,6 +24,19 @@ facts:
   value: 'Made with URBiNAT partners; ask before reuse.'
 - label: Photos
   value: Bernardo vd Schepop. Aerial and street imagery © Google.
+photos:
+- src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
+  caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
+  alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
+- src: /images/cases/ingosa/ingosa-field-planning.jpg
+  caption: "Field planning session with the ING.OSA team"
+  alt: "Seen from above, the team around a long table covered with drawings, maps, sticky notes and printed slides."
+- src: /images/cases/ingosa/ingosa-co-sketching.jpg
+  caption: "Co-sketching the space and evaluating what can be improved"
+  alt: "A drawing of the square between the blocks, covered in pink heart-shaped notes with drawings of trees, flowers, tomatoes, a slide, balls, sweets and a cat, and crossed-out cars and cigarettes."
+- src: /images/cases/ingosa/ingosa-body-storming.jpg
+  caption: "Pupil body-storming her dream scenario, embodying the change on location"
+  alt: "A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face."
 references:
 - title: 'URBiNAT Summer School, 6–12 July 2023: The Recap'
   source: URBiNAT, 2023
