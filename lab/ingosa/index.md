@@ -37,6 +37,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-urbinat-phases.jpg
   caption: "URBiNAT phases: co-diagnostic, co-design, co-implementation and co-monitoring"
   alt: "A diagram of four diamonds in a row, labelled co.Diagnostic, co.Design, co.Implement and co.Monitoring, with a We are here marker in co.Design."
+- src: /images/cases/ingosa/ingosa-codiagnostic-methodology.jpg
+  caption: "co.Diagnostic methodology: four ways of working with the children"
+  alt: "A diagram slide listing site visit, photovoice, walk-through and community workshops, and four activities with the number of children in each: Future Vision, Creative Hip-Hop, Co-sketching and Body Storming."
 - src: /images/cases/ingosa/ingosa-validation-drawing.jpg
   caption: "co.Diagnostic: a pupil adds her ideas to the Visão do Futuro sheet"
   alt: "A girl seen from behind drawing on a large sheet on wooden pallets, beside a printed map of Ingote, next to a list of the main challenges."
