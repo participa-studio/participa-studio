@@ -61,10 +61,12 @@ photos:
   caption: "Co-validation with participants"
   alt: "A large sheet of children's drawings titled Visão do Futuro beside a list of the main challenges validated with children and champions."
 artefacts:
-- label: "Healthy Home: Human and Nature-Based Solutions for Inclusive and Innovative Urban Regeneration (© 2025 e|d|arq, ISBN 978-989-36350-2-5)"
+- label: "Healthy Home: Human and Nature-Based Solutions for Inclusive and Innovative Urban Regeneration"
+  credit: "© 2025 e|d|arq, ISBN 978-989-36350-2-5"
   file: /files/casa-urbinat-healthy-home-2025.pdf
   format: PDF, 17 MB · Archived copy
-- label: "URBiNAT catalogue of nature-based solutions (© URBiNAT, EU Horizon 2020)"
+- label: "URBiNAT catalogue of nature-based solutions"
+  credit: "© URBiNAT, EU Horizon 2020"
   file: /files/urbinat-nbs-catalogue.pdf
   format: PDF, 22 MB · Archived copy
 references:
