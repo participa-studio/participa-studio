@@ -31,6 +31,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-codiagnostic-history.jpg
   caption: "co.Diagnostic: investigating the history of Planalto do Ingote"
   alt: "A timeline slide titled co.Diagnostic, Planalto do Ingote, with five dates from 1940 to 2003, each with a short description."
+- src: /images/cases/ingosa/ingosa-territory.jpg
+  caption: "co.Diagnostic: territory"
+  alt: "An aerial view of Ingote with the social housing blocks outlined in white dots, labelled INGOTE."
 - src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
   caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
   alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
