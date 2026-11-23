@@ -26,7 +26,7 @@ facts:
   value: Bernardo vd Schepop. Children's faces blurred. Aerial and street imagery © Google.
 photos:
 - src: /images/cases/ingosa/ingosa-rope-bridge.jpg
-  caption: Children of the local primary school in the park in Ingote
+  caption: First play visit to get to know the pupils and their play context
   alt: Children seen from behind crossing a wooden rope bridge between trees, towards a tree house.
 - src: /images/cases/ingosa/ingosa-bairro-sign.jpg
   caption: "Bairro António Sérgio in Ingote, on the first visit, 6 July 2023"
