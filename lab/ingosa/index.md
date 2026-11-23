@@ -34,6 +34,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-territory.jpg
   caption: "co.Diagnostic: territory"
   alt: "An aerial view of Ingote with the social housing blocks outlined in white dots, labelled INGOTE."
+- src: /images/cases/ingosa/ingosa-urbinat-phases.jpg
+  caption: "URBiNAT phases: co-diagnostic, co-design, co-implementation and co-monitoring"
+  alt: "A diagram of four diamonds in a row, labelled co.Diagnostic, co.Design, co.Implement and co.Monitoring, with a We are here marker in co.Design."
 - src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
   caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
   alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
