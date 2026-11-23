@@ -56,12 +56,6 @@ photos:
 - src: /images/cases/ingosa/ingosa-children-ideas.jpg
   caption: "Visão do Futuro (Time Machine): playing with drawing on the street floor where we wanted to envision a new future"
   alt: "A drawing of the square between the blocks, covered in pink heart-shaped notes with drawings of trees, flowers, tomatoes, a slide, balls, sweets and a cat, and crossed-out cars and cigarettes."
-- src: /images/cases/ingosa/ingosa-walk-map.jpg
-  caption: The walk-through map, annotated by hand
-  alt: A printed aerial map of Ingote with arrows, sun symbols and handwritten notes in coloured marker.
-- src: /images/cases/ingosa/ingosa-co-diagnosis-map.jpg
-  caption: Co-diagnosis notes on the map of Ingote
-  alt: A printed aerial map of Ingote with blue sticky notes and handwritten notes placed on it.
 references:
 - title: 'URBiNAT Summer School, 6–12 July 2023: The Recap'
   source: URBiNAT, 2023
