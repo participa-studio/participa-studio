@@ -14,8 +14,8 @@ lead: A collaborative proposal, made with researchers and the pupils of a local 
 facts:
 - label: Type
   value: "Participatory co-design<br>with local children"
-- label: Year
-  value: July 2023
+- label: When
+  value: CASA-URBiNAT Summer School, 6–12 July 2023
 - label: With
   value: Team ING.OSA; pupils of the local primary school
 - label: My role
