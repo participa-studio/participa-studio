@@ -32,7 +32,7 @@ photos:
   caption: Children of the local primary school in the park in Ingote
   alt: Children seen from behind crossing a wooden rope bridge between trees, towards a tree house.
 - src: /images/cases/ingosa/ingosa-local-diagnostic-notes.jpg
-  caption: 'Notes for the local diagnostic: photovoice, walk-through, time machine, spatial drawings, body-storming, music vision and focus interview'
+  caption: 'Plan of the co-creation day: three NBS to research with the children, Time Machine, Spatial Drawings and Music Vision'
   alt: 'A notebook page with a hand-drawn timeline titled Local diagnostic, listing photovoice, walk-through, time machine, spatial drawings, music vision and focus interview, with notes on 12 children aged 9 to 12.'
 - src: /images/cases/ingosa/ingosa-co-creation-session.jpg
   caption: Co-creation session with children, co-creating and body-storming in place
@@ -45,7 +45,7 @@ photos:
   alt: A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face.
 - src: /images/cases/ingosa/ingosa-children-ideas.jpg
   caption: The children's ideas for the square, drawn and marked with hearts
-  alt: 'A large sheet of paper with a child's drawing of the square between the blocks, covered in pink heart-shaped notes with drawings of trees, balls, a slide and sweets, and more drawings of slides and paths to the right.'
+  alt: "A large sheet of paper with a child's drawing of the square between the blocks, covered in pink heart-shaped notes with drawings of trees, balls, a slide and sweets, and more drawings of slides and paths to the right."
 - src: /images/cases/ingosa/ingosa-walk-map.jpg
   caption: The walk-through map, annotated by hand
   alt: A printed aerial map of Ingote with arrows, sun symbols and handwritten notes in coloured marker.
