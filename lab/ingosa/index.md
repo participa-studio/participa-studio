@@ -44,12 +44,12 @@ photos:
 - src: /images/cases/ingosa/ingosa-in-the-square.jpg
   caption: 'Body-storming: a pupil embodies her idea of how the area could change'
   alt: A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face.
-- src: /images/cases/ingosa/ingosa-co-creation-session.jpg
-  caption: 'Co-creation session with children, "Future Vision" and "body-storming" on location'
-  alt: 'Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers.'
 - src: /images/cases/ingosa/ingosa-map-with-children.jpg
   caption: Children of the local primary school around the map of Ingote
   alt: 'Children sit on the pavement around a printed aerial map of Ingote; one holds a camera, others hold markers.'
+- src: /images/cases/ingosa/ingosa-co-creation-session.jpg
+  caption: 'Co-creation session with children, "Future Vision" and "body-storming" on location'
+  alt: 'Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers.'
 - src: /images/cases/ingosa/ingosa-children-evaluate-map.jpg
   caption: "The children evaluating the map for our intervention"
   alt: "A printed aerial map of Ingote with coloured areas and green and pink sticky notes drawn by children: trees, smiling and sad faces, and crossed-out rubbish."
