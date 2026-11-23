@@ -21,7 +21,7 @@ facts:
 - label: My role
   value: Co-Design · Co-Creation Session & Facilitation
 - label: Photos
-  value: Bernardo vd Schepop. Aerial and street imagery © Google.
+  value: Bernardo vd Schepop; slides by team ING.OSA. Aerial imagery © Google.
 - label: Licence
   value: 'Made with URBiNAT partners; ask before reuse.'
 ending:
