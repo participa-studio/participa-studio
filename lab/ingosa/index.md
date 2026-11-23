@@ -28,6 +28,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-first-day.jpg
   caption: "First day: a play session with the co-creator pupils from the local school"
   alt: "Children seen from below crossing a wooden rope bridge to a tree house, under the title INGOTE and the URBiNAT band."
+- src: /images/cases/ingosa/ingosa-codiagnostic-history.jpg
+  caption: "co.Diagnostic: investigating the history of Planalto do Ingote"
+  alt: "A timeline slide titled co.Diagnostic, Planalto do Ingote, with five dates from 1940 to 2003, each with a short description."
 - src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
   caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
   alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
