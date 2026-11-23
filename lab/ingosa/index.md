@@ -34,6 +34,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-field-planning.jpg
   caption: "Field planning session with the ING.OSA team"
   alt: "Seen from above, the team around a long table covered with drawings, maps, sticky notes and printed slides."
+- src: /images/cases/ingosa/ingosa-urbinat-phases.jpg
+  caption: "URBiNAT phases: co-diagnostic, co-design, co-implementation and co-monitoring"
+  alt: "A diagram of four diamonds in a row, labelled co.Diagnostic, co.Design, co.Implement and co.Monitoring, with a We are here marker in co.Design."
 - src: /images/cases/ingosa/ingosa-validation-drawing.jpg
   caption: "co.Diagnostic: a pupil adds her ideas to the Visão do Futuro sheet"
   alt: "A girl seen from behind drawing on a large sheet on wooden pallets, beside a printed map of Ingote, next to a list of the main challenges."
@@ -49,15 +52,6 @@ photos:
 - src: /images/cases/ingosa/ingosa-co-sketching.jpg
   caption: "Co-sketching and future-dreaming the space, and evaluating what can be improved"
   alt: "A drawing of the square between the blocks, covered in pink heart-shaped notes with drawings of trees, flowers, tomatoes, a slide, balls, sweets and a cat, and crossed-out cars and cigarettes."
-- src: /images/cases/ingosa/ingosa-urbinat-phases.jpg
-  caption: "URBiNAT phases: co-diagnostic, co-design, co-implementation and co-monitoring"
-  alt: "A diagram of four diamonds in a row, labelled co.Diagnostic, co.Design, co.Implement and co.Monitoring, with a We are here marker in co.Design."
-- src: /images/cases/ingosa/ingosa-diagnostic-to-design.jpg
-  caption: "From co-diagnostic to co-design: how might we expand the qualities of the Bairros ConVida Park so that the whole planalto benefits"
-  alt: "A diagram slide from co.Diagnostic to co.Design, listing Future Vision, Creative Hip-Hop, Co-sketching and Body Storming, with a how-might-we question below."
-- src: /images/cases/ingosa/ingosa-master-plan.jpg
-  caption: "co.Design master plan: Eatable Garden, Largo da Amizade, Leisure Field and Tactical Mobile Presence"
-  alt: "An aerial map of Ingote with four numbered sites linked by dashed lines, each shown in an inset with the proposed intervention."
 references:
 - title: 'URBiNAT Summer School, 6–12 July 2023: The Recap'
   source: URBiNAT, 2023
