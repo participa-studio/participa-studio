@@ -15,7 +15,7 @@ lead: 'What happens to leisure boats at the end of their life? ReFloat is a plan
 facts:
 - label: Type
   value: Social enterprise, pre-seed
-- label: Year
+- label: When
   value: 2026, ongoing
 - label: With
   value: Fellow sailors

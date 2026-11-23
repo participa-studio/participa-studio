@@ -15,7 +15,7 @@ lead: An open-source toolkit, published as semente, that helps communities plan 
 facts:
 - label: Type
   value: Open-source toolkit
-- label: Year
+- label: When
   value: 2022 – 2025
 - label: With
   value: Felipe Schmidt Fonseca; Instituto Neos, Gaiato

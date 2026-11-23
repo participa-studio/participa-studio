@@ -14,7 +14,7 @@ lead: A concept for a phone and tablet app that teaches children to code as a ne
 facts:
 - label: Type
   value: Startup Weekend concept
-- label: Year
+- label: When
   value: July 2013
 - label: With
   value: 321CODE team, Startup Weekend Amsterdam 2013

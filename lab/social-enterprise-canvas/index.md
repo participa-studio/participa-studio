@@ -15,7 +15,7 @@ lead: 'A canvas for building a solid business model around a social enterprise: 
 facts:
 - label: Type
   value: Open template
-- label: Year
+- label: When
   value: 2024, ongoing
 - label: With
   value: Patricia Kalil, with the first pilot

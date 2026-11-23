@@ -14,7 +14,7 @@ lead: 'Brand identity for Sophie Walsh''s freediving school: a local business bu
 facts:
 - label: Type
   value: Gifted brand identity
-- label: Year
+- label: When
   value: '2021'
 - label: With
   value: Sophie Walsh, founder

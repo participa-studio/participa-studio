@@ -14,7 +14,7 @@ lead: 'Designing my way into ownership before it was real: the name, crest and a
 facts:
 - label: Type
   value: Personal project
-- label: Year
+- label: When
   value: 2025 – 2026
 - label: With
   value: The daughters of a good friend, with their keen eye for detail

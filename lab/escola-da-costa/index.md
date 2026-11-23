@@ -14,7 +14,7 @@ lead: An exploration of what a cooperative school on the coast could be, if the 
 facts:
 - label: Type
   value: Concept, led to ReFloat
-- label: Year
+- label: When
   value: 2025 – 2026
 - label: With
   value: Felipe Schmidt Fonseca; Thiago Máximo

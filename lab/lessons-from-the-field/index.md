@@ -16,7 +16,7 @@ lead: 'How do neighbourhood workshops, community kitchens and cooperatives in th
 facts:
 - label: Type
   value: Field research, in progress
-- label: Year
+- label: When
   value: 2026, ongoing
 - label: With
   value: Founders, members and volunteers of the places studied
