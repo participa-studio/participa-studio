@@ -8,11 +8,11 @@ tags:
 published: true
 image: /images/blog/2026-11-12-the-infra-thin-loop-sketch.jpg
 image_alt: A pencil 8 drawn in many overlapping loops on white paper.
-image_caption: 'The first sketch of the loop, photographed from the page of the book'
+image_caption: 'The first sketch of the loop in the page of my book'
 images:
 - src: /images/blog/2026-11-12-the-infra-thin-loop-sketch.jpg
   alt: A pencil 8 drawn in many overlapping loops on white paper.
-  caption: The first sketch of the loop, photographed from the page of the book
+  caption: The first sketch of the loop in the page of my book
 - src: /images/blog/2026-11-12-the-infra-thin-loop-mark.png
   alt: "The Participa mark on a green background: the loop as an outline inside a circle, as a solid shape in dark grey, yellow and white, and inside the letters of the participa wordmark, with hand-drawn versions beside it."
   caption: The Participa mark and wordmark, with its variations
