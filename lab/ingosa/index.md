@@ -15,7 +15,7 @@ facts:
 - label: Type
   value: "Participatory co-design<br>with local children"
 - label: When
-  value: CASA-URBiNAT Summer School, 6–12 July 2023
+  value: "CASA-URBiNAT Summer<br>School, 6–12 July 2023"
 - label: With
   value: Team ING.OSA; children from the local summer camp
 - label: My role
