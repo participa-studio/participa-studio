@@ -23,7 +23,7 @@ facts:
 - label: Photos
   value: Bernardo vd Schepop; slides by team ING.OSA. Aerial imagery © Google.
 - label: Licence
-  value: 'Made with URBiNAT partners; ask before reuse.'
+  value: 'Artefacts © e|d|arq and URBiNAT. INGOSA was made with URBiNAT partners during CASA 2023; ask before reuse.'
 ending:
 - label: Team
   value: "ING.OSA: Paulo Rogério Lemos, urban planner, PhD, CES-UC (BR); Andréia Mecca, sociologist (BR); Ana Margarida, master, dARQ (PT); Natnaree Wichieansin, master, IAAC (TH); Andrea Di Bernardo, PhD, PoliTO (IT); Ricardo Lopes, cultural facilitator (PT); Bárbara Figueira, master, dARQ (PT); Ana Raquel Ferreira, architect, FAUP (PT); Julia Froner, architect (BR)."
