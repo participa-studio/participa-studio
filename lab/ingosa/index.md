@@ -23,21 +23,21 @@ facts:
 - label: Licence
   value: 'Made with URBiNAT partners; ask before reuse.'
 - label: Photos
-  value: Bernardo vd Schepop. Children's faces blurred.
+  value: Bernardo vd Schepop. Children's faces blurred. Aerial and street imagery © Google.
 photos:
-- src: /images/cases/ingosa/ingosa-square-before.jpg
-  caption: "The square in Ingote before the intervention research · Image © Google Street View"
-  alt: "A paved square between social housing blocks, with steps up a grassy slope, a tree, bollards and two parked cars."
-- src: /images/cases/ingosa/ingosa-bairro-sign.jpg
-  caption: "Bairro António Sérgio in Ingote, on the first visit, 6 July 2023"
-  alt: "A marble sign reading Bairro António Sérgio, 144 fogos, in a planted bed at a street corner, beside a trimmed conifer."
 - src: /images/cases/ingosa/ingosa-rope-bridge.jpg
   caption: Children of the local primary school in the park in Ingote
   alt: Children seen from behind crossing a wooden rope bridge between trees, towards a tree house.
+- src: /images/cases/ingosa/ingosa-bairro-sign.jpg
+  caption: "Bairro António Sérgio in Ingote, on the first visit, 6 July 2023"
+  alt: "A marble sign reading Bairro António Sérgio, 144 fogos, in a planted bed at a street corner, beside a trimmed conifer."
 - src: /images/cases/ingosa/ingosa-co-creation-questions.jpg
-  caption: "How the research would explore, on location, the future of the intervention: three questions for co-creation · Imagery © Google, slide by the Ingote group"
+  caption: "How the research would explore, on location, the future of the intervention: three questions for co-creation"
   alt: "An aerial map of Ingote with coloured areas and a green corridor linking three points, beside three questions in Portuguese for co-creation."
   fit: true
+- src: /images/cases/ingosa/ingosa-square-before.jpg
+  caption: "The square in Ingote before the intervention research · Image © Google Street View"
+  alt: "A paved square between social housing blocks, with steps up a grassy slope, a tree, bollards and two parked cars."
 - src: /images/cases/ingosa/ingosa-local-diagnostic-notes.jpg
   caption: 'Plan of the co-creation day: three NBS to research with the children, Time Machine, Spatial Drawings and Music Vision'
   alt: 'A notebook page with a hand-drawn timeline titled Local diagnostic, listing photovoice, walk-through, time machine, spatial drawings, music vision and focus interview, with notes on 12 children aged 9 to 12.'
