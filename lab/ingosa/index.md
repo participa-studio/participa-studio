@@ -10,7 +10,7 @@ cover_alt: Children crossing a wooden rope bridge to a tree house in the park in
 order: 40
 summary: A social development proposal for a Coimbra neighbourhood
 featured: true
-lead: A collaborative proposal, made with researchers and local communities, exploring social development pathways for the Ingote neighbourhood in Coimbra, within the URBiNAT project on nature-based solutions.
+lead: A collaborative proposal, made with researchers and the pupils of a local primary school, exploring social development pathways for the Ingote neighbourhood in Coimbra, within the URBiNAT project on nature-based solutions.
 facts:
 - label: Type
   value: Summer school proposal
