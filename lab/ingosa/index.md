@@ -27,7 +27,7 @@ facts:
 photos:
 - src: /images/cases/ingosa/ingosa-first-day.jpg
   caption: "First day: a play session with the co-creator pupils from the local school"
-  alt: "Children seen from below crossing a wooden rope bridge to a tree house, under the title INGOTE and the URBiNAT band."
+  alt: "Children seen from below crossing a wooden rope bridge to a tree house in the park."
 - src: /images/cases/ingosa/ingosa-territory.jpg
   caption: "co.Diagnostic: territory"
   alt: "An aerial view of Ingote with the social housing blocks outlined in white dots, labelled INGOTE."
