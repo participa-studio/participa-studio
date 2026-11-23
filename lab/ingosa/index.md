@@ -17,7 +17,7 @@ facts:
 - label: When
   value: "CASA-URBiNAT Summer<br>School, 6–12 July 2023"
 - label: With
-  value: Team ING.OSA; children from the local summer camp
+  value: "Team ING.OSA; children from<br>the local summer camp"
 - label: My role
   value: "Co-Design · Co-Creation<br>Session & Facilitation"
 - label: Photos
