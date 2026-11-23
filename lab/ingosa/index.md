@@ -19,7 +19,7 @@ facts:
 - label: With
   value: Fellow architects and researchers; pupils of a local primary school; Marco Acri and Andrea Conserva, URBiNAT
 - label: My role
-  value: Design · Facilitation
+  value: Co-Design · Co-Creation Session & Facilitation
 - label: Licence
   value: 'Made with URBiNAT partners; ask before reuse.'
 - label: Photos
