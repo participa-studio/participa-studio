@@ -55,6 +55,15 @@ photos:
 - src: /images/cases/ingosa/ingosa-co-validation.jpg
   caption: "co.Diagnostic: co-validation with participants"
   alt: "A large sheet of children's drawings titled Visão do Futuro beside a list of the main challenges validated with children and champions."
+- src: /images/cases/ingosa/ingosa-validation-drawing.jpg
+  caption: "co.Diagnostic: a pupil adds her ideas to the Visão do Futuro sheet"
+  alt: "A girl seen from behind drawing on a large sheet on wooden pallets, beside a printed map of Ingote, next to a list of the main challenges."
+- src: /images/cases/ingosa/ingosa-diagnostic-to-design.jpg
+  caption: "From co-diagnostic to co-design: how might we expand the qualities of the Bairros ConVida Park so that the whole planalto benefits"
+  alt: "A diagram slide from co.Diagnostic to co.Design, listing Future Vision, Creative Hip-Hop, Co-sketching and Body Storming, with a how-might-we question below."
+- src: /images/cases/ingosa/ingosa-master-plan.jpg
+  caption: "co.Design master plan: Eatable Garden, Largo da Amizade, Leisure Field and Tactical Mobile Presence"
+  alt: "An aerial map of Ingote with four numbered sites linked by dashed lines, each shown in an inset with the proposed intervention."
 references:
 - title: 'URBiNAT Summer School, 6–12 July 2023: The Recap'
   source: URBiNAT, 2023
