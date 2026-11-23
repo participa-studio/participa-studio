@@ -37,7 +37,7 @@ photos:
   caption: "co.Diagnostic methodology: four ways of working with the children"
   alt: "A diagram slide listing site visit, photovoice, walk-through and community workshops, and four activities with the number of children in each: Future Vision, Creative Hip-Hop, Co-sketching and Body Storming."
 - src: /images/cases/ingosa/ingosa-territory.jpg
-  caption: "co.Diagnostic: territory"
+  caption: "The territory: the social housing blocks of Ingote"
   alt: "An aerial view of Ingote with the social housing blocks outlined in white dots, labelled INGOTE."
 - src: /images/cases/ingosa/ingosa-field-planning.jpg
   caption: "Field planning session with the ING.OSA team"
@@ -46,13 +46,13 @@ photos:
   caption: "URBiNAT phases: co-diagnostic, co-design, co-implementation and co-monitoring"
   alt: "A diagram of four diamonds in a row, labelled co.Diagnostic, co.Design, co.Implement and co.Monitoring, with a We are here marker in co.Design."
 - src: /images/cases/ingosa/ingosa-validation-drawing.jpg
-  caption: "co.Diagnostic: a pupil adds her ideas to the Future Vision sheet (Visão do Futuro)"
+  caption: "A pupil adds her ideas to the Future Vision sheet (Visão do Futuro)"
   alt: "A girl seen from behind drawing on a large sheet on wooden pallets, beside a printed map of Ingote, next to a list of the main challenges."
 - src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
   caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
   alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
 - src: /images/cases/ingosa/ingosa-co-validation.jpg
-  caption: "co.Diagnostic: co-validation with participants"
+  caption: "Co-validation with participants"
   alt: "A large sheet of children's drawings titled Visão do Futuro beside a list of the main challenges validated with children and champions."
 - src: /images/cases/ingosa/ingosa-co-sketching-location.jpg
   caption: "Co-sketching on location with pupils imagining a desired future"
