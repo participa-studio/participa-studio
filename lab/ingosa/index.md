@@ -23,10 +23,10 @@ facts:
 - label: Photos
   value: Bernardo vd Schepop; slides by team ING.OSA. Aerial imagery © Google.
 - label: Licence
-  value: 'Artefacts © e|d|arq and URBiNAT. INGOSA was made with URBiNAT partners during CASA 2023; ask before reuse.'
+  value: 'INGOSA was made with URBiNAT partners during CASA 2023; ask before reuse.'
 ending:
 - label: Team
-  value: "ING.OSA: Paulo Rogério Lemos, urban planner, PhD, CES-UC (BR); Andréia Mecca, sociologist (BR); Ana Margarida Ferreira, master, dARQ (PT); Natnaree Wichieansin, master, IAAC (TH); Andrea Di Bernardo, PhD, PoliTO (IT); Ricardo Lopes, cultural facilitator (PT); Bárbara Figueira, master, dARQ (PT); Julia Froner, architect (BR)."
+  value: "ING.OSA: Paulo Rogério Lemos, urban planner, PhD, CES (UC) (BR); Andréia Mecca, sociologist (BR); Ana Margarida Ferreira, master, dARQ (PT); Natnaree Wichieansin, master, IAAC (TH); Andrea Di Bernardo, PhD, PoliTO (IT); Ricardo Lopes, cultural facilitator (PT); Bárbara Figueira, master, dARQ (PT); Julia Froner, architect (BR)."
 - label: Mentorship
   value: "Andrea Conserva, IAAC (IT); Marco Acri, UNG (SI); Rita Campos, CES (UC)."
 photos:
@@ -49,7 +49,7 @@ photos:
   caption: "A girl adds her ideas to the Future Vision sheet (Visão do Futuro)"
   alt: "A girl seen from behind drawing on a large sheet on wooden pallets, beside a printed map of Ingote, next to a list of the main challenges."
 - src: /images/cases/ingosa/ingosa-creative-hip-hop.jpg
-  caption: "Creative Hip-Hop: 16 kids selecting words and co-creating a song together"
+  caption: "Creative Hip-Hop: 16 children selecting words and co-creating a song together"
   alt: "Children sitting and standing along a long white wall, writing on sheets of paper, with an adult in a white hat among them."
 - src: /images/cases/ingosa/ingosa-co-sketching-location.jpg
   caption: "Co-sketching on location with children imagining a desired future"
@@ -71,5 +71,5 @@ artefacts:
   format: PDF, 22 MB · Archived copy
 challenge: 'URBiNAT works with citizens of social housing neighbourhoods to regenerate them with nature-based solutions (NBS), chosen and co-created from a shared catalogue. In 2023 the brief was a healthy corridor in Eiras, on the edge of Coimbra, linking the social housing neighbourhoods of Relvinha, Ingote and Monte Formoso with the Choupal natural park. Each group took one area. In Ingote, the question was how such solutions could also open social development pathways for the people who live there.'
 approach: 'At the CASA-URBiNAT Healthy Home Summer School (University of Coimbra, 6 to 12 July 2023), part of the EU Horizon 2020 project URBiNAT, I was the designer of the Ingote group and facilitated its sessions. Three days of lectures, visits and local diagnosis led to three days of open studio co-design, at the pace of a startup weekend. While the architects and the urban planner in the team led the spatial assessments, I worked out the co-creation protocols with the team and then facilitated them with children from the local summer camp. We used four methods: Future Vision, Creative Hip-Hop, co-sketching and body-storming. In the square, I asked the children to imagine how it would look if they could redesign everything. We brainstormed, acted and adjusted the research as the children responded. Using the URBiNAT methodology and its NBS catalogue, we also took part in co-diagnosis fieldwork with researchers and residents, and in co-validation sessions on location, mapping the places where community ownership could grow.'
-outcome: 'INGOSA proposed to take the Bairros ConVida Park, a project the school had already run with the national programme Bairros Saudáveis, to other associations in the public space of Ingote, through four sites: an Eatable Garden, the Largo da Amizade, a Leisure Field and a Tactical Mobile Presence. The proposal included five nature-based solutions across these sites, among them a new one for the URBiNAT catalogue: a Green Theatre in the Largo da Amizade for festivals, outdoor cinema and other local events. For me, it was first-hand confirmation that participatory design could serve social impact work with communities.'
+outcome: 'INGOSA proposed to take the Bairros ConVida Park, which CASPAE developed with the school community under the national programme Bairros Saudáveis, to other associations in the public space of Ingote, through four sites: an Eatable Garden, the Largo da Amizade, a Leisure Field and a Tactical Mobile Presence. The proposal included five nature-based solutions across these sites, among them a new one for the URBiNAT catalogue: a Green Theatre in the Largo da Amizade for festivals, outdoor cinema and other local events. For me, it was first-hand confirmation that participatory design could serve social impact work with communities.'
 ---
