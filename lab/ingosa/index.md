@@ -28,6 +28,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-square-before.jpg
   caption: "The square in Ingote before the intervention research · Image © Google Street View"
   alt: "A paved square between social housing blocks, with steps up a grassy slope, a tree, bollards and two parked cars."
+- src: /images/cases/ingosa/ingosa-bairro-sign.jpg
+  caption: "Bairro António Sérgio in Ingote, on the first visit, 6 July 2023"
+  alt: "A marble sign reading Bairro António Sérgio, 144 fogos, in a planted bed at a street corner, beside a trimmed conifer."
 - src: /images/cases/ingosa/ingosa-rope-bridge.jpg
   caption: Children of the local primary school in the park in Ingote
   alt: Children seen from behind crossing a wooden rope bridge between trees, towards a tree house.
