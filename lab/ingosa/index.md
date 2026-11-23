@@ -28,7 +28,7 @@ ending:
 - label: Team
   value: "ING.OSA: Paulo Rogério Lemos, urban planner, PhD, CES-UC (BR); Andréia Mecca, sociologist (BR); Ana Margarida, master, dARQ (PT); Natnaree Wichieansin, master, IAAC (TH); Andrea Di Bernardo, PhD, PoliTO (IT); Ricardo Lopes, cultural facilitator (PT); Bárbara Figueira, master, dARQ (PT); Ana Raquel Ferreira, architect, FAUP (PT); Julia Froner, architect (BR)."
 - label: Mentorship
-  value: "Andrea Conserva, IAAC (IT); Marco Acri, UNG (SI); Rita Campos, CES (University of Coimbra)."
+  value: "Andrea Conserva, IAAC (IT); Marco Acri, UNG (SI); Rita Campos, CES (UC)."
 photos:
 - src: /images/cases/ingosa/ingosa-first-day.jpg
   caption: "First day: a play session with the co-creator pupils from the local school"
