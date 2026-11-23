@@ -31,6 +31,9 @@ photos:
 - src: /images/cases/ingosa/ingosa-rope-bridge.jpg
   caption: Children of the local primary school in the park in Ingote
   alt: Children seen from behind crossing a wooden rope bridge between trees, towards a tree house.
+- src: /images/cases/ingosa/ingosa-local-diagnostic-notes.jpg
+  caption: 'Notes for the local diagnostic: photovoice, walk-through, time machine, spatial drawings, body-storming, music vision and focus interview'
+  alt: 'A notebook page with a hand-drawn timeline titled Local diagnostic, listing photovoice, walk-through, time machine, spatial drawings, music vision and focus interview, with notes on 12 children aged 9 to 12.'
 - src: /images/cases/ingosa/ingosa-co-creation-session.jpg
   caption: Co-creation session with children, co-creating and body-storming in place
   alt: 'Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers.'
