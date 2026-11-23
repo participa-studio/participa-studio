@@ -45,7 +45,7 @@ photos:
   caption: 'Body-storming: a pupil embodies her idea of how the area could change'
   alt: A girl in a pink T-shirt stands on an empty concrete square in front of a grey wall and a metal gate, her hands raised to her face.
 - src: /images/cases/ingosa/ingosa-co-creation-session.jpg
-  caption: Co-creation session with children, co-creating and body-storming in place
+  caption: 'Co-creation session with children, "Future Vision" and "body-storming" on location'
   alt: 'Seen from above, children and adults sit on the pavement around a printed map of Ingote and large sheets of paper, drawing with markers.'
 - src: /images/cases/ingosa/ingosa-map-with-children.jpg
   caption: Children of the local primary school around the map of Ingote
