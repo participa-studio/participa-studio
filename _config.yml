@@ -23,9 +23,9 @@ defaults:
 
 participa:
   core: https://participa-studio.github.io/participa-core
-  version: 20261124-1           # raise this after every core change
+  version: 20261124-2           # raise this after every core change
   sdots: true                  # Studio hover: graded white dots over case images (11 Nov 2026; core js/sdots.js)
-  ladybug: true               # a ladybug walks along the footer on the About page (24 Nov 2026; core js/ladybug.js)
+  beetle: true                # a dung beetle rolls a ball along the bottom of the About page (24 Nov 2026; core js/beetle.js)
   spider: true                # a spider on the Reflections list (21 Nov 2026; core js/spider.js)
   reading: true               # reading option (21 Nov 2026; core css/reading.css, js/reading.js): cream menu block and lead, case panel, one-block ending
   divider: stars               # divider between text blocks: three stars at 60% (12 Nov 2026); .design keeps the loop
