@@ -23,7 +23,7 @@ defaults:
 
 participa:
   core: https://participa-studio.github.io/participa-core
-  version: 20261124-4           # raise this after every core change
+  version: 20261124-5           # raise this after every core change
   sdots: true                  # Studio hover: graded white dots over case images (11 Nov 2026; core js/sdots.js)
   beetle: true                # a rhinoceros beetle walks on the bottom line of the Participa Design box on About (24 Nov 2026; core js/beetle.js)
   spider: true                # a spider on the Reflections list (21 Nov 2026; core js/spider.js)
