@@ -17,13 +17,13 @@ facts:
 - label: When
   value: 2025 – 2026
 - label: With
-  value: Felipe Schmidt Fonseca; Thiago Máximo
+  value: Felipe Schmidt Fonseca; Thiago Máximo; Cesar Harada
 - label: My role
   value: Concept creation · Research · Storytelling
 - label: Photos
   value: Bernardo vd Schepop, Coroca, 2025; illustrations made for the IDEO U course
 - label: Licence
-  value: Content and concept CC BY-SA 4.0. The names, brand and photos are not covered.
+  value: Content and concept CC BY-SA 4.0, from December 2025. The names, brand and photos are not covered.
 photos:
 - caption: Shore at Coroca, on the Arapiuns River, Pará, 2025
   src: /images/cases/escola-da-costa/escola-da-costa-coroca-shore-2025.jpg
