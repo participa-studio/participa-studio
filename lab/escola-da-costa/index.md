@@ -23,7 +23,7 @@ facts:
 - label: Photos
   value: Bernardo vd Schepop, Coroca, 2025; illustrations made for the IDEO U course
 - label: Licence
-  value: Content and concept CC BY-SA 4.0, from December 2025. The names, brand and photos are not covered.
+  value: Content and concept CC BY-SA 4.0, from September 2025. The names, brand and photos are not covered.
 photos:
 - caption: Shore at Coroca, on the Arapiuns River, Pará, 2025
   src: /images/cases/escola-da-costa/escola-da-costa-coroca-shore-2025.jpg
