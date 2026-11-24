@@ -22,15 +22,15 @@ facts:
   value: Brand identity
 - label: Link
   value: '[freedivingseychelles.com](https://www.freedivingseychelles.com/)'
-- label: Licence
-  value: The name and brand belong to Freediving Seychelles.
 - label: Photos
   value: Ornate eagle ray © Jean Marie Croguennec. Other reference photos in the mood boards belong to their owners.
+- label: Licence
+  value: The name and brand belong to Freediving Seychelles.
 photos:
 - src: /images/cases/freediving-seychelles-logo.jpg
   caption: The final nature-inspired brand, in use by the school since 2021
 - src: /images/cases/freediving-seychelles-ray.jpg
-  caption: 'We explored local fauna for the brand work; here an ornate eagle ray (Aetomylaeus vespertilio) · © Jean Marie Croguennec'
+  caption: 'We explored local fauna for the brand work; here an ornate eagle ray (Aetomylaeus vespertilio)'
   alt: An ornate eagle ray seen from above on a sandy seabed, its back marked with dark stripes and rings, with white dots of different sizes drawn along one wing.
 - src: /images/cases/freediving-seychelles-explorations.jpg
   caption: Explorations of the brand, built on the ray and its rings

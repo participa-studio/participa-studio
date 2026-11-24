@@ -21,6 +21,8 @@ facts:
   value: Patricia Kalil, with the first pilot
 - label: My role
   value: Ideation · Research · Graphic design · Facilitation
+- label: Photos
+  value: Bernardo vd Schepop; the wall and session images are AI-generated illustrations
 - label: Licence
   value: CC BY-SA 4.0
 photos:

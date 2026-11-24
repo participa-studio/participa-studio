@@ -20,6 +20,8 @@ facts:
   value: 321CODE team, Startup Weekend Amsterdam 2013
 - label: My role
   value: Concept co-creation · Interaction design · Storytelling
+- label: Photos
+  value: Event capturing, Startup Weekend Amsterdam 2013; design by Bernardo vd Schepop
 - label: Licence
   value: 'Shared ownership with the 321CODE team at Startup Weekend Amsterdam: Louise Vink, Myra Colis, Weining Hung, Ewa Jaroslawska, Rotem Rubnov, Georgij Šapkin and Bernardo vd Schepop.'
 photos:

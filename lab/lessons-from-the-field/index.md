@@ -23,25 +23,27 @@ facts:
 - label: My role
   value: Research · Interviews · Synthesis
 - label: Photos
-  value: © Buurtwerkplaats Noorderhof (gate and workshop); Bernardo vd Schepop (Noorderhof workshop floor, De Sering); © p-o.space (room)
+  value: © Buurtwerkplaats Noorderhof (gate and workshop); Bernardo vd Schepop (Noorderhof workshop floor; De Sering, July 2026); © p-o.space (room)
+- label: Licence
+  value: Content and concept CC BY-SA 4.0. The names of the places and the photos are not covered.
 photos:
 - src: /images/cases/lessons-from-the-field/noorderhof-workshop-sign.jpg
-  caption: 'Inside Buurtwerkplaats Noorderhof: the hammer sign, hanging plants and a blue hand · © Buurtwerkplaats Noorderhof'
+  caption: 'Inside Buurtwerkplaats Noorderhof: the hammer sign, hanging plants and a blue hand'
   alt: 'A hammer-shaped sign reading Buurtwerkplaats on a wooden wall, above two hanging plants in knotted holders and a large blue outline of a hand.'
 - src: /images/cases/lessons-from-the-field/noorderhof-gate.jpg
-  caption: 'The gate of Buurtwerkplaats Noorderhof, one of the places studied · © Buurtwerkplaats Noorderhof'
+  caption: 'The gate of Buurtwerkplaats Noorderhof, one of the places studied'
   alt: 'A metal gate under a hammer-shaped sign reading Noorderhof, with workshop sheds and a gravel path behind.'
 - src: /images/cases/lessons-from-the-field/noorderhof-workshop-floor.jpg
-  caption: 'The shared workshop at Buurtwerkplaats Noorderhof, Amsterdam · Photo Bernardo vd Schepop'
+  caption: 'The shared workshop at Buurtwerkplaats Noorderhof, Amsterdam'
   alt: 'The shared workshop of Buurtwerkplaats Noorderhof: workbenches, a drill press, a band saw, a mitre saw and wooden crates on a worn floor under a timber roof.'
 - src: /images/cases/lessons-from-the-field/de-sering-prep.jpg
-  caption: 'Kitchen prep at De Sering Centraal, Amsterdam: coriander and spring onions · Photo Bernardo vd Schepop, July 2026'
+  caption: 'Kitchen prep at De Sering Centraal, Amsterdam: coriander and spring onions'
   alt: 'A wooden kitchen counter with a blue crate of packed coriander, a steel tray of chopped spring onions and a green cutting board with a knife.'
 - src: /images/cases/lessons-from-the-field/de-sering-labels.jpg
-  caption: 'Prepared herbs, labelled and dated, at De Sering Centraal · Photo Bernardo vd Schepop, July 2026'
+  caption: 'Prepared herbs, labelled and dated, at De Sering Centraal'
   alt: 'A stack of clear tubs of chopped coriander and scallions, each with a hand-written tape label dated 28.07.26, in a large kitchen.'
 - src: /images/cases/lessons-from-the-field/post-office-space.webp
-  caption: 'Post-Office (P-O), a registered cooperative on the Hoofdweg, Amsterdam: the room with its curtains · © p-o.space'
+  caption: 'Post-Office (P-O), a registered cooperative on the Hoofdweg, Amsterdam: the room with its curtains'
   alt: 'An animated view of an empty room with dark blue curtains hanging from curved ceiling rails and a pale concrete floor.'
 references_label: Sources
 references:

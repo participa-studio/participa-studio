@@ -23,10 +23,10 @@ facts:
   value: Co-creation · Diagram, card and icon design
 - label: Link
   value: '[semente.de](https://semente.de/)'
-- label: Licence
-  value: '[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), as on semente.de; documentation on [GitHub](https://github.com/semente-de/documentation)'
 - label: Photos
   value: '[semente.de](https://semente.de/), CC BY 4.0'
+- label: Licence
+  value: '[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), as on semente.de; documentation on [GitHub](https://github.com/semente-de/documentation)'
 photos:
 - src: /images/cases/seed-interloop.jpg
   caption: The Interloop, the method drawn as a spiral
