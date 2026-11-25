@@ -28,7 +28,7 @@ participa:
   beetle: true                # a beetle walks on the bottom line of the Participa Design box on About (24 Nov 2026; core js/beetle.js)
   spider: true                # a spider on the Reflections list (21 Nov 2026; core js/spider.js)
   reading: true               # reading option (21 Nov 2026; core css/reading.css, js/reading.js): cream menu block and lead, case panel, one-block ending
-  divider: stars               # divider between text blocks: three stars at 60% (12 Nov 2026); .design keeps the loop
+  divider: loop                # divider between text blocks: the drawn loop (25 Nov 2026, swapped with .design; was stars)
 
   title: P A R T I C I P A º S T U D I O
   og_title: Participa Studio
