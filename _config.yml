@@ -32,7 +32,7 @@ participa:
     - Six legs, no hurry.
     - I could fly, you know.
     - Fly? I prefer walking…
-    - Wings are for special occasions.
+    - Wings? Only on sunny days.
     - Shell polished this morning.
   spider: true                # a spider on the Reflections list (21 Nov 2026; core js/spider.js)
   spider_say:               # easter egg: a click on the spider shows one of these lines, in her own voice (25 Nov 2026)
