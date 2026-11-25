@@ -28,7 +28,7 @@ participa:
   beetle: true                # a beetle walks on the bottom line of the Participa Design box on About (24 Nov 2026; core js/beetle.js)
   beetle_say:               # easter egg: a click on the beetle shows one of these lines, in her own voice (25 Nov 2026)
     - Just passing through.
-    - Armour on for anything.
+    - Armoured for anything.
     - Six legs, no hurry.
     - I could fly, you know.
     - Fly? I just prefer walking.
